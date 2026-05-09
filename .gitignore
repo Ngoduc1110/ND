@@ -5,7 +5,7 @@ __pycache__/
 
 # Data and Outputs
 data/*.csv
-!data/NN_TD_sample.csv
+!data/NN_TD.csv
 
 # Environments
 .venv/
