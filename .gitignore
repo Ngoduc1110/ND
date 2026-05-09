@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Data and Outputs
-outputs/
 data/*.csv
 !data/NN_TD_sample.csv
 

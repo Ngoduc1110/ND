@@ -9,6 +9,8 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.processor import DataProcessor
 from src.visualizer import Visualizer
+from src.analyzer import Analyzer
+from src.report_builder import generate_report
 
 # --- CONFIGURATION ---
 SOURCE_FILE = r'D:\Dulieuxuatra\NN_TD.csv'
@@ -58,9 +60,16 @@ def run_update_and_analysis():
         viz.plot_top_tickers(td_buy, td_sell, group_name='Proprietary', date_range_str=date_str, prefix='all')
         
         print("[*] Generating charts (Recent Week)...")
+        # 1. Generate All-Time insights before filtering
+        analyzer = Analyzer(processor)
+        all_time_insights = analyzer.generate_insights()
+
         processor.filter_recent_week()
         week_date_str = processor.get_date_range_str()
         
+        # 2. Generate Weekly insights after filtering
+        weekly_insights = analyzer.generate_insights()
+
         weekly_summary = processor.get_market_summary()
         if not weekly_summary.empty:
             viz.plot_net_flow(weekly_summary, date_range_str=week_date_str, prefix='weekly')
@@ -72,6 +81,11 @@ def run_update_and_analysis():
             viz.plot_top_tickers(w_td_buy, w_td_sell, group_name='Proprietary', date_range_str=week_date_str, prefix='weekly')
         else:
             print("[!] No data available for the recent week.")
+            weekly_insights = "<p>Không có dữ liệu cho tuần gần nhất.</p>"
+        
+        # Build and update the HTML report
+        report_path = os.path.join(PROJECT_ROOT, '..', 'institutional_report.html')
+        generate_report(all_time_insights, weekly_insights, report_path)
         
         print(f"\n[SUCCESS] Daily update completed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
