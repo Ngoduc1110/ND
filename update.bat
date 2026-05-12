@@ -6,12 +6,28 @@ echo ===================================================
 
 cd /d "%~dp0"
 
-echo.
-echo [*] Buoc 1: Dong bo du lieu tu local va tao bao cao HTML...
-C:\Users\ducnx\.venv\Scripts\python.exe src\updater.py
+:: Cố định thư mục nguồn chứa file NN_TD
+set "SOURCE_FILE=D:\Dulieuxuatra\NN_TD.csv"
+set "TARGET_FILE=data\NN_TD.csv"
 
 echo.
-echo [*] Buoc 2: Day du lieu len GitHub...
+echo [*] Buoc 1: Dong bo du lieu tu %SOURCE_FILE%...
+if exist "%SOURCE_FILE%" (
+    copy /Y "%SOURCE_FILE%" "%TARGET_FILE%" >nul
+    echo [+] Da copy thanh cong sang %TARGET_FILE%
+) else (
+    echo [!] Khong tim thay file nguon tai %SOURCE_FILE%.
+    echo [!] Se su dung du lieu hien tai trong thu muc data.
+)
+
+echo.
+echo.
+echo [*] Buoc 2: Xu ly du lieu va tao bao cao HTML...
+C:\Users\ducnx\.venv\Scripts\python.exe main.py
+C:\Users\ducnx\.venv\Scripts\python.exe ..\update_news.py
+
+echo.
+echo [*] Buoc 3: Day du lieu len GitHub...
 git add .
 
 :: Lay ngay gio hien tai
@@ -21,6 +37,27 @@ set mytime=%datetime:~8,2%:%datetime:~10,2%
 
 git commit -m "Auto-update data and report at %mydate% %mytime%"
 git push origin main
+
+echo.
+echo [*] Buoc 4: Day du lieu CHISONGANH len GitHub rieng...
+set "CHISONGANH_SOURCE=D:\Dulieuxuatra\CHISONGANH.csv"
+set "CHISONGANH_REPO=D:\Vibecoding\ND-CHISONGANH"
+
+if exist "%CHISONGANH_SOURCE%" (
+    if exist "%CHISONGANH_REPO%" (
+        copy /Y "%CHISONGANH_SOURCE%" "%CHISONGANH_REPO%\" >nul
+        cd /d "%CHISONGANH_REPO%"
+        git add CHISONGANH.csv
+        git commit -m "Auto-update CHISONGANH data at %mydate% %mytime%"
+        git push origin main
+        cd /d "%~dp0"
+        echo [+] Da day thanh cong CHISONGANH len GitHub
+    ) else (
+        echo [!] Khong tim thay repo tai %CHISONGANH_REPO%
+    )
+) else (
+    echo [!] Khong tim thay file nguon CHISONGANH tai %CHISONGANH_SOURCE%
+)
 
 echo.
 echo ===================================================

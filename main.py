@@ -1,7 +1,10 @@
 from src.processor import DataProcessor
 from src.visualizer import Visualizer
 from src.analyzer import Analyzer
-from src.report_builder import generate_report
+from src.report_builder import generate_report, generate_industry_report
+from src.industry_processor import IndustryProcessor
+from src.industry_visualizer import IndustryVisualizer
+from src.pdf_exporter import export_html_to_pdf
 import os
 
 def main():
@@ -64,6 +67,34 @@ def main():
     report_path = os.path.join('..', 'institutional_report.html')
     generate_report(all_time_insights, weekly_insights, report_path)
     
+    # Export report to PDF for clients
+    pdf_path = os.path.join(output_dir, 'institutional_report.pdf')
+    export_html_to_pdf(report_path, pdf_path)
+    
+    # --- 4. Process Industry Indices Data ---
+    print("\n[*] Processing Industry Indices (CHISONGANH.csv)...")
+    industry_data_path = r'D:\dulieuxuatra\CHISONGANH.csv'
+    if not os.path.exists(industry_data_path):
+        print(f"[!] Warning: Industry data file not found at {industry_data_path}")
+    else:
+        ind_processor = IndustryProcessor(industry_data_path)
+        ind_df = ind_processor.load_data()
+        
+        recent_ind_df = ind_processor.get_recent_data(months=3)
+        top_industries = ind_processor.get_top_industries(recent_ind_df, top_n=5)
+        
+        ind_viz = IndustryVisualizer(output_dir)
+        vol_chart_html = ind_viz.plot_volume_bar(recent_ind_df, top_industries)
+        
+        candlestick_htmls = []
+        for ind in top_industries:
+            ch = ind_viz.plot_candlestick(recent_ind_df, ind)
+            candlestick_htmls.append(ch)
+            
+        industry_report_path = os.path.join('..', 'industry_report.html')
+        generate_industry_report(vol_chart_html, candlestick_htmls, industry_report_path)
+        print(f"[+] Generated Industry Indices report at {industry_report_path}")
+
     print(f"\n[SUCCESS] Analysis complete! Check the '{output_dir}' folder for results.")
 
 if __name__ == "__main__":

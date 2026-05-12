@@ -1,0 +1,610 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vibecoding News Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --text: #f1f5f9;
+            --text-dim: #94a3b8;
+            --primary: #6366f1;
+            --accent: #818cf8;
+            --border: #334155;
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background-color: var(--bg); 
+            color: var(--text);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        
+        .container { max-width: 1200px; margin: 0 auto; }
+        
+        header { 
+            margin-bottom: 3rem; 
+            text-align: center;
+            background: linear-gradient(135deg, #1e1b4b 0%, #1e293b 100%);
+            padding: 3rem;
+            border-radius: 24px;
+            box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3);
+            border: 1px solid var(--border);
+        }
+        
+        h1 { font-size: 2.5rem; margin-bottom: 0.5rem; background: linear-gradient(to right, #818cf8, #c084fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .stats { font-size: 1.1rem; color: var(--text-dim); }
+        
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .tabs a {
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            text-decoration: none;
+            color: var(--text-dim);
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .tabs a:hover {
+            color: #fff;
+            border-color: var(--primary);
+        }
+
+        .tabs a.active {
+            background: var(--primary);
+            color: #fff;
+            border-color: var(--primary);
+        }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 1.5rem; }
+        
+        .card { 
+            background: var(--card-bg); 
+            border-radius: 16px; 
+            padding: 1.5rem; 
+            border: 1px solid var(--border);
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            text-decoration: none;
+            color: inherit;
+        }
+        
+        .card:hover { 
+            transform: translateY(-5px); 
+            border-color: var(--primary);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.4);
+        }
+        
+        .badge { 
+            display: inline-block; 
+            padding: 0.25rem 0.75rem; 
+            border-radius: 9999px; 
+            font-size: 0.75rem; 
+            font-weight: 600; 
+            margin-bottom: 1rem;
+            background: rgba(99, 102, 241, 0.2);
+            color: var(--accent);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+        }
+        
+        h2 { font-size: 1.25rem; font-weight: 600; margin-bottom: 0.75rem; line-height: 1.4; color: #fff; }
+        .date { font-size: 0.85rem; color: var(--text-dim); margin-bottom: 1rem; display: flex; align-items: center; }
+        .summary { font-size: 0.95rem; color: var(--text-dim); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 1rem; flex-grow: 1; }
+        
+        .footer { margin-top: 4rem; text-align: center; color: var(--text-dim); font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="tabs">
+            <a href="index.html" class="active">News Dashboard</a>
+            <a href="institutional_report.html">Institutional Trading</a>
+            <a href="industry_report.html">Industry Indices</a>
+        </div>
+        <header>
+            <h1>Financial News Dashboard</h1>
+            <p class="stats">Update: 2026-05-12 08:56 | Total: 68 articles</p>
+        </header>
+        
+        <div class="grid">
+            
+            <a href="https://cafef.vn/chu-tich-agris-sbt-gia-tang-so-huu-khi-doanh-nghiep-buoc-vao-chu-ky-tang-truong-moi-188260512070625123.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Chủ tịch AgriS (SBT) gia tăng sở hữu khi doanh nghiệp bước vào chu kỳ tăng trưởng mới</h2>
+                <div class="date">📅 Tue, 12 May 26 08:00:00 +0700</div>
+                <p class="summary">Bà Đặng Huỳnh Ức My – Chủ tịch HĐQT của CTCP Thành Thành Công – Biên Hòa (AgriS, Hose: SBT) vừa thông báo đăng ký mua 42.755.629 cổ phiếu SBT trong tháng 5, nâng tổng sở hữu lên 13,93%.</p>
+            </a>
+            
+            <a href="https://cafef.vn/doanh-nghiep-thuoc-bo-cong-an-phat-thong-bao-quan-trong-188260512073651516.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Doanh nghiệp thuộc Bộ Công an phát thông báo quan trọng</h2>
+                <div class="date">📅 Tue, 12 May 26 07:36:00 +0700</div>
+                <p class="summary">Doanh nghiệp này có 2 cổ đông lớn là Bộ Công an nắm hơn 50% vốn và Tập đoàn FPT nắm 45,7% cổ phần.</p>
+            </a>
+            
+            <a href="https://cafef.vn/mot-quy-dau-tu-bat-ngo-bat-day-fpt-188260511215609792.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Một quỹ đầu tư bất ngờ "bắt đáy" FPT</h2>
+                <div class="date">📅 Tue, 12 May 26 00:01:00 +0700</div>
+                <p class="summary">Theo SGI Capital, sự lệch pha của dòng tiền đang mở ra cơ hội ở những doanh nghiệp có kết quả kinh doanh tích cực, định giá rẻ nhưng bị thị trường bỏ qua.</p>
+            </a>
+            
+            <a href="https://cafef.vn/mot-co-phieu-ho-gelex-bi-tu-doanh-ctck-ban-rong-dot-bien-trong-phien-dau-tuan-188260511221057448.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Một cổ phiếu "họ" Gelex bị tự doanh CTCK bán ròng đột biến trong phiên đầu tuần</h2>
+                <div class="date">📅 Mon, 11 May 26 22:10:00 +0700</div>
+                <p class="summary">Tự doanh CTCK bán ròng 430 tỷ đồng trên sàn HOSE.</p>
+            </a>
+            
+            <a href="https://cafef.vn/chung-khoan-rong-viet-sap-phat-hanh-300-ty-dong-trai-phieu-ba-khong-188260511215752335.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Chứng khoán Rồng Việt sắp phát hành 300 tỷ đồng trái phiếu ‘ba không’</h2>
+                <div class="date">📅 Mon, 11 May 26 22:10:00 +0700</div>
+                <p class="summary">Chứng khoán Rồng Việt dự kiến phát hành 3.000 trái phiếu mã VDS12602 vào ngày 12/5/2026 tới đây nhằm huy động 300 tỷ đồng dùng để cơ cấu nợ.</p>
+            </a>
+            
+            <a href="https://cafef.vn/nhom-nha-dau-tu-vinacapital-roi-ghe-co-dong-lon-tai-tng-188260511220414411.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Nhóm nhà đầu tư VinaCapital rời ghế cổ đông lớn tại TNG</h2>
+                <div class="date">📅 Mon, 11 May 26 22:04:00 +0700</div>
+                <p class="summary">Quỹ đầu tư Cổ phiếu Cổ tức năng động VinaCapital vừa bán ra toàn bộ 219.200 cổ phiếu TNG, qua đó giảm tỷ lệ sở hữu của cả nhóm VinaCapital xuống còn 4,9262% và rời ghế cổ đông lớn tại TNG.</p>
+            </a>
+            
+            <a href="https://cafef.vn/bien-dong-nhan-su-cap-cao-nhieu-ngan-hang-188260511220028497.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Biến động nhân sự cấp cao nhiều ngân hàng</h2>
+                <div class="date">📅 Mon, 11 May 26 22:00:00 +0700</div>
+                <p class="summary">Sacombank OCB, Eximbank có thay đổi nhân sự cấp cao ở vị trí tổng giám đốc, phó tổng Giám đốc, thành viên hội đồng quản trị, thành viên ban kiểm soát.</p>
+            </a>
+            
+            <a href="https://cafef.vn/ong-pham-nhat-vuong-muon-lam-du-an-dien-gan-158000-ty-dong-tai-dien-bien-188260511155355596.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Ông Phạm Nhật Vượng muốn làm dự án điện gần 158.000 tỷ đồng tại Điện Biên</h2>
+                <div class="date">📅 Mon, 11 May 26 15:53:00 +0700</div>
+                <p class="summary">VinEnergo sẽ triển khai dự án Nhà máy điện mặt trời Điện Biên 1 đã được phê duyệt chủ trương đầu tư, nhằm bổ sung nguồn điện sạch, ổn định cho hệ thống điện khu vực Tây .</p>
+            </a>
+            
+            <a href="https://cafef.vn/tiep-da-ban-rong-hon-1000-ty-phien-dau-tuan-khoi-ngoai-xa-manh-co-phieu-nao-188260511153404318.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Tiếp đà bán ròng hơn 1.000 tỷ phiên đầu tuần, khối ngoại "xả" mạnh cổ phiếu nào?</h2>
+                <div class="date">📅 Mon, 11 May 26 15:45:00 +0700</div>
+                <p class="summary">Tại chiều mua, khối ngoại mua ròng mạnh nhất cổ phiếu BSR với giá trị khoảng 133 tỷ đồng.</p>
+            </a>
+            
+            <a href="https://cafef.vn/khong-phai-vang-chuyen-gia-khuyen-nghi-tang-manh-ty-trong-tai-san-nay-trong-quy-2-toi-dang-giu-40-50-danh-muc-188260511153322807.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Không phải vàng, chuyên gia khuyến nghị tăng mạnh tỷ trọng tài sản này trong quý 2: 'Tôi đang giữ 40-50% danh mục'</h2>
+                <div class="date">📅 Mon, 11 May 26 15:34:00 +0700</div>
+                <p class="summary">Chuyên gia cho biết không còn ưu tiên vàng trong quý 2 mà duy trì tỷ trọng cao ở cổ phiếu, tăng tỷ trọng tiền gửi để phòng thủ trước nguy cơ “thiên nga đen” của thị trường.</p>
+            </a>
+            
+            <a href="https://cafef.vn/thanh-toan-qr-xuyen-bien-gioi-tai-dinh-hinh-dong-chay-thuong-mai-khu-vuc-188260511152039861.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Thanh toán QR xuyên biên giới tái định hình dòng chảy thương mại khu vực</h2>
+                <div class="date">📅 Mon, 11 May 26 15:20:00 +0700</div>
+                <p class="summary">Sự trỗi dậy của thanh toán QR xuyên biên giới không chỉ giải quyết triệt để bài toán ngoại tệ và tỷ giá cho hàng triệu du khách Việt mỗi năm, mà còn tạo đòn bẩy vĩ mô giúp các doanh nghiệp trong nước đón đầu dòng khách quốc tế, hội nhập sâu rộng vào nền kinh tế số khu vực.</p>
+            </a>
+            
+            <a href="https://cafef.vn/dau-tu-sai-gon-vrg-sap-chi-hon-968-ty-dong-tra-co-tuc-dot-2-2025-188260511140113381.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Đầu tư Sài Gòn VRG sắp chi hơn 968 tỷ đồng trả cổ tức đợt 2/2025</h2>
+                <div class="date">📅 Mon, 11 May 26 14:09:00 +0700</div>
+                <p class="summary">Ngày 15/5/2026 tới đây, Đầu tư Sài Gòn VRG sẽ chốt danh sách cổ đông để thực hiện chi chi trả cổ tức đợt 2 năm 2025 bằng tiền mặt với tỷ lệ 40%. Thời gian thực hiện thanh toán 5/6/2026.</p>
+            </a>
+            
+            <a href="https://cafef.vn/f88-chao-ban-thanh-cong-300-ty-dong-trai-phieu-188260511140148051.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>F88 chào bán thành công 300 tỷ đồng trái phiếu</h2>
+                <div class="date">📅 Mon, 11 May 26 14:06:00 +0700</div>
+                <p class="summary">Kết thúc đợt chào bán ngày 7/5/2026, F88 đã chào bán thành công 3 triệu trái phiếu tên F88BOND.PO.02, mã trái phiếu dự kiến là F88126015, qua đó huy động 300 tỷ đồng.</p>
+            </a>
+            
+            <a href="https://cafef.vn/mot-co-phieu-tren-hose-bat-ngo-tran-cung-3-phien-lien-tiep-chuyen-gi-dang-xay-ra-188260511112953843.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Một cổ phiếu trên HOSE bất ngờ "trần cứng" 3 phiên liên tiếp, chuyện gì đang xảy ra?</h2>
+                <div class="date">📅 Mon, 11 May 26 11:31:00 +0700</div>
+                <p class="summary">Không phải cái tên nổi bật trên thị trường, nhưng cổ phiếu này cũng từng gây chú ý hồi đầu năm với chuỗi tăng trần kéo dài hàng chục phiên liên tiếp.</p>
+            </a>
+            
+            <a href="https://cafef.vn/ga-de-trung-vang-dong-loat-bao-tin-vui-ctck-du-bao-mwg-vuot-ke-hoach-loi-nhuan-2026-188260511110426822.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>“Gà đẻ trứng vàng” đồng loạt báo tin vui, CTCK dự báo MWG vượt kế hoạch lợi nhuận 2026</h2>
+                <div class="date">📅 Mon, 11 May 26 11:04:00 +0700</div>
+                <p class="summary">Những chuỗi chủ lực của MWG là Điện Máy Xanh, Bách Hóa Xanh,… đều ghi nhận tín hiệu tích cực từ hoạt động kinh doanh.</p>
+            </a>
+            
+            <a href="https://cafef.vn/chung-khoan-up-tro-thanh-co-dong-lon-tai-mot-cong-ty-thuc-pham-188260511101355489.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Chứng khoán UP trở thành cổ đông lớn tại một công ty thực phẩm</h2>
+                <div class="date">📅 Mon, 11 May 26 10:54:00 +0700</div>
+                <p class="summary">Sau hai lần mua vào cổ phiếu FCC, Chứng khoán UP đã mua vào 830.000 cổ phiếu FCC, chiếm 13,83% Công ty cổ phần Liên hợp Thực phẩm.</p>
+            </a>
+            
+            <a href="https://cafef.vn/295-nguoi-sap-duoc-mua-co-phieu-cong-ty-chung-khoan-cua-ong-nguyen-duy-hung-voi-gia-cuc-hoi-188260511105332872.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>295 người sắp được mua cổ phiếu công ty chứng khoán của ông Nguyễn Duy Hưng với giá cực hời</h2>
+                <div class="date">📅 Mon, 11 May 26 10:53:00 +0700</div>
+                <p class="summary">Cổ phiếu SSI hiện giao dịch quanh vùng 28.500 đồng/cổ phiếu, tương đương vốn hóa hơn 71.000 tỷ đồng.</p>
+            </a>
+            
+            <a href="https://cafef.vn/loat-doanh-nghiep-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-11-5-15-5-188260511103244806.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Loạt doanh nghiệp chốt quyền trả cổ tức trong tuần từ ngày 11/5-15/5</h2>
+                <div class="date">📅 Mon, 11 May 26 10:32:00 +0700</div>
+                <p class="summary">Từ ngày 11/5-15/5, trên các sàn chứng khoán, có 37 doanh nghiệp chốt quyền trả cổ tức cho cổ đông bằng tiền mặt hoặc cổ phiếu.</p>
+            </a>
+            
+            <a href="https://cafef.vn/gia-vang-bac-hoi-phuc-manh-da-den-thoi-diem-giai-ngan-manh-tay-188260511102011136.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Giá vàng, bạc hồi phục mạnh, đã đến thời điểm giải ngân mạnh tay?</h2>
+                <div class="date">📅 Mon, 11 May 26 10:20:00 +0700</div>
+                <p class="summary">Dòng tiền sẽ sớm trở lại với vàng, một trong những tài sản dự trữ hàng đầu trong khi triển vọng thị trường bạc về cơ bản vẫn tích cực, nhu cầu cho kinh tế xanh hay trí tuệ nhân tạo là khá lớn.</p>
+            </a>
+            
+            <a href="https://cafef.vn/hdbank-du-kien-phat-hanh-15000-ty-dong-trai-phieu-188260511101352153.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>HDBank dự kiến phát hành 15.000 tỷ đồng trái phiếu</h2>
+                <div class="date">📅 Mon, 11 May 26 10:13:00 +0700</div>
+                <p class="summary">HĐQT HDBank đã chấp thuận chủ trương phát hành riêng lẻ trái phiếu lần 1 năm 2026 với tổng mệnh giá phát hành tối đa 15.000 tỷ đồng.</p>
+            </a>
+            
+            <a href="https://cafef.vn/vn-index-vuot-dinh-lich-su-nhung-ba-nhom-co-phieu-nay-van-o-duoi-mat-dat-voi-muc-giam-sau-tren-30-188260511085600698.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>VN-Index vượt đỉnh lịch sử, nhưng ba nhóm cổ phiếu này vẫn “ở dưới mặt đất” với mức giảm sâu trên 30%</h2>
+                <div class="date">📅 Mon, 11 May 26 08:56:00 +0700</div>
+                <p class="summary">Theo Chứng khoán MB (MBS), dù VN-Index chính thức vượt mốc 1.900 điểm, thị trường vẫn cho thấy sự thiếu đồng thuận rõ rệt.</p>
+            </a>
+            
+            <a href="https://cafef.vn/loat-thong-tin-tich-cuc-xuat-hien-vn-index-se-som-chinh-phuc-moc-2000-diem-188260510213551528.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Loạt thông tin tích cực xuất hiện, VN-Index sẽ sớm chinh phục mốc 2.000 điểm?</h2>
+                <div class="date">📅 Mon, 11 May 26 00:05:00 +0700</div>
+                <p class="summary">Chứng khoán ABS kỳ vọng VN-Index có thể sớm vượt vùng đỉnh cũ 1.920 điểm, sau đó tích lũy trên vùng đỉnh với sự lan tỏa của dòng tiền và thanh khoản gia tăng.</p>
+            </a>
+            
+            <a href="https://cafef.vn/chung-khoan-vix-trieu-tap-dhdcd-thuong-nien-nam-2026-188260510214351235.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Chứng khoán VIX triệu tập ĐHĐCĐ thường niên năm 2026</h2>
+                <div class="date">📅 Mon, 11 May 26 00:03:00 +0700</div>
+                <p class="summary">Ngày 27/5/2026 là ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2026 Chứng khoán VIX.</p>
+            </a>
+            
+            <a href="https://cafef.vn/dong-von-ty-usd-chuc-cho-do-bo-viet-nam-cong-ty-chung-khoan-buoc-vao-cuoc-dua-moi-188260510213652315.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Dòng vốn tỷ USD "chực chờ" đổ bộ Việt Nam, công ty chứng khoán bước vào cuộc đua mới</h2>
+                <div class="date">📅 Mon, 11 May 26 00:01:00 +0700</div>
+                <p class="summary">Sau nâng hạng, ngành chứng khoán được kỳ vọng hưởng lợi từ dòng vốn ngoại, thanh khoản cải thiện và làn sóng huy động vốn mới. Tuy nhiên, áp lực lãi suất, chi phí vốn và cạnh tranh công nghệ cũng sẽ khiến cuộc chơi phân hóa mạnh hơn giữa các CTCK.</p>
+            </a>
+            
+            <a href="https://cafef.vn/vn-index-vuot-dinh-lich-su-tuong-ai-cung-thang-lon-nhung-thuc-te-lai-rat-khac-188260510182010552.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>VN-Index vượt đỉnh lịch sử, tưởng ai cũng thắng lớn nhưng thực tế lại rất khác!</h2>
+                <div class="date">📅 Sun, 10 May 26 18:19:00 +0700</div>
+                <p class="summary">VN-Index trở lại vùng đỉnh lịch sử trên 1.900 điểm nhưng tài khoản của nhiều nhà đầu tư vẫn thua lỗ.</p>
+            </a>
+            
+            <a href="https://cafef.vn/dua-nhau-ban-co-phieu-the-gioi-di-dong-188260510181703105.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Đua nhau bán cổ phiếu Thế giới Di động</h2>
+                <div class="date">📅 Sun, 10 May 26 18:16:00 +0700</div>
+                <p class="summary">Nhóm quỹ liên quan Dragon Capital đã bán ra 541.366 cổ phiếu MWG của Công ty CP Đầu tư Thế giới Di động, giảm sở hữu về 4,96% vốn điều lệ và không còn là cổ đông lớn. Tương tự, ông Đoàn Văn Hiểu Em - thành viên Hội đồng quản trị MWG - đăng ký bán ra 2 triệu cổ phiếu MWG để giảm sở hữu xuống 1,55 triệu cổ phiếu.</p>
+            </a>
+            
+            <a href="https://cafef.vn/goc-nhin-chuyen-gia-vn-index-kho-tang-ben-vung-neu-khong-co-mot-nhip-chinh-lanh-manh-truoc-188260510161025213.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Góc nhìn chuyên gia: VN-Index khó tăng bền vững nếu không có một nhịp chỉnh lành mạnh trước</h2>
+                <div class="date">📅 Sun, 10 May 26 16:10:00 +0700</div>
+                <p class="summary">Theo chuyên gia, chiến lược hợp lý lúc này là kiên nhẫn chờ nhịp điều chỉnh, phân bổ một phần vào cổ phiếu trụ để đi theo đà thị trường, phần còn lại tập trung vào cổ phiếu có câu chuyện riêng và nền tảng cơ bản rõ ràng.</p>
+            </a>
+            
+            <a href="https://cafef.vn/nhom-co-dong-au-lac-tang-so-len-6-von-tai-acb-188260510100859932.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Nhóm cổ đông Âu Lạc tăng sở lên 6% vốn tại ACB</h2>
+                <div class="date">📅 Sun, 10 May 26 10:59:00 +0700</div>
+                <p class="summary">Sau khi ái nữ của Chủ tịch Ngô Thu Thúy mua vào gần 8,4 cổ phiếu ACB trong phiên 4/5/2026, nhóm cổ đông Âu Lạc đã nâng tổng sở hữu lên 6% vốn tại ACB.</p>
+            </a>
+            
+            <a href="https://cafef.vn/ve-bo-cong-an-chu-tich-va-tong-giam-doc-fpt-telecom-duoc-phong-cap-thuong-ta-188260510002659875.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Về Bộ Công an, Chủ tịch và Tổng Giám đốc FPT Telecom được phong cấp thượng tá</h2>
+                <div class="date">📅 Sun, 10 May 26 00:26:00 +0700</div>
+                <p class="summary">Tháng 7/2025, Bộ Công an đã tiếp nhận quyền đại diện chủ sở hữu phần vốn nhà nước tại Công ty FPT Telecom từ Tổng công ty Đầu tư và Kinh doanh vốn Nhà nước (SCIC).</p>
+            </a>
+            
+            <a href="https://cafef.vn/lich-chot-quyen-co-tuc-11-15-5-50-doanh-nghiep-dong-loat-lan-chot-hoa-phat-gop-mat-mot-ngan-hang-chi-gan-9000-ty-tra-co-tuc-188260509215718878.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Lịch chốt quyền cổ tức 11-15/5: 50 doanh nghiệp đồng loạt “lăn chốt”, Hòa Phát góp mặt, một ngân hàng chi gần 9.000 tỷ trả cổ tức</h2>
+                <div class="date">📅 Sun, 10 May 26 00:06:00 +0700</div>
+                <p class="summary">Loạt doanh nghiệp hot lăn chốt trong tuần này là Hoà Phát, Digiworld, LPB, Dược Hậu Giang,...</p>
+            </a>
+            
+            <a href="https://cafef.vn/dau-hieu-tao-dinh-ngan-han-cua-vn-index-188260509215903787.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Dấu hiệu tạo đỉnh ngắn hạn của VN-Index</h2>
+                <div class="date">📅 Sun, 10 May 26 00:05:00 +0700</div>
+                <p class="summary">Theo SHS, với việc chỉ số VN-Index, sau 5 tuần tăng liên tiếp từ vùng 1.600 điểm lên sát 1.900 điểm, thị trường đang đối mặt nguy cơ hình thành đỉnh ngắn hạn.</p>
+            </a>
+            
+            <a href="https://cafef.vn/chuyen-gia-vn-index-con-du-dia-tang-nha-dau-tu-van-nen-than-trong-188260509172638364.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Chuyên gia: VN-Index còn dư địa tăng, nhà đầu tư vẫn nên thận trọng</h2>
+                <div class="date">📅 Sat, 09 May 26 17:30:00 +0700</div>
+                <p class="summary">VN-Index đang lấy lại tín hiệu tích cực sau nhịp điều chỉnh, với kỳ vọng chỉ số có thể hướng tới vùng cao hơn nếu vượt 1.920 điểm.</p>
+            </a>
+            
+            <a href="https://cafef.vn/ca-map-om-gan-30000-ty-vua-toi-tham-nha-may-thep-lon-nhat-cua-hoa-phat-188260509171521614.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>"Cá mập" ôm gần 30.000 tỷ vừa tới thăm nhà máy thép lớn nhất của Hoà Phát</h2>
+                <div class="date">📅 Sat, 09 May 26 17:15:00 +0700</div>
+                <p class="summary">Tính đến cuối tháng 4/2026, tỷ trọng cổ phiếu thép HPG trong danh mục cá mập này.</p>
+            </a>
+            
+            <a href="https://cafef.vn/bien-dong-nhan-su-cap-cao-nhieu-doanh-nghiep-lon-truoc-them-dai-hoi-co-dong-188260509142249403.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Biến động nhân sự cấp cao nhiều doanh nghiệp lớn trước thềm đại hội cổ đông</h2>
+                <div class="date">📅 Sat, 09 May 26 15:11:00 +0700</div>
+                <p class="summary">Địa ốc Hoàng Quân nhận được đơn từ nhiệm thành viên Hội đồng quản trị của ông Trần Anh Tuấn và đơn xin từ nhiệm thành viên Ban kiểm soát của bà Nguyễn Thị Bích Thủy. Trong khi đó, Đức Long Gia Lai nhận được đơn xin từ nhiệm thành viên Hội đồng quản trị của ông Võ Mộng Hùng và đề cử ông Phạm Văn Binh vào vị trí thành viên Hội đồng quản trị nhiệm kỳ 2022 - 2027.</p>
+            </a>
+            
+            <a href="https://cafef.vn/boc-hoi-57-loi-nhuan-quy-i-vi-sao-co-phieu-dien-gia-lai-geg-van-duoc-ky-vong-tang-hon-27-188260509135223314.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>“Bốc hơi” 57% lợi nhuận quý I, vì sao cổ phiếu Điện Gia Lai (GEG) vẫn được kỳ vọng tăng hơn 27%?</h2>
+                <div class="date">📅 Sat, 09 May 26 13:55:00 +0700</div>
+                <p class="summary">Dù lợi nhuận quý I/2026 “lao dốc” tới 57%, cổ phiếu GEG của CTCP Điện Gia Lai vẫn được công ty chứng khoán ACBS duy trì khuyến nghị “MUA” với kỳ vọng tăng giá hơn 27%.</p>
+            </a>
+            
+            <a href="https://cafef.vn/chung-khoan-tuan-qua-vn-index-lap-dinh-lich-su-mot-co-phieu-bluechips-bi-khoi-ngoai-xa-dot-bien-188260509133501609.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Chứng khoán tuần qua: VN-Index lập đỉnh lịch sử, một cổ phiếu bluechips bị khối ngoại “xả” đột biến</h2>
+                <div class="date">📅 Sat, 09 May 26 13:51:00 +0700</div>
+                <p class="summary">VN-Index lập đỉnh lịch sử; Một cổ phiếu bluechips bị khối ngoại “xả” đột biến; Dòng tiền “bắt đáy” nhập cuộc, cổ phiếu Novaland (NVL) tăng bứt phá sau chuỗi 4 phiên “lao dốc”; VN-Index có thể vượt 2.300 điểm?, …</p>
+            </a>
+            
+            <a href="https://cafef.vn/vi-sao-chung-khoan-beta-bi-phat-hon-360-trieu-dong-188260509094817397.chn" target="_blank" class="card">
+                <span class="badge">CafeF</span>
+                <h2>Vì sao Chứng khoán Beta bị phạt hơn 360 triệu đồng?</h2>
+                <div class="date">📅 Sat, 09 May 26 09:48:00 +0700</div>
+                <p class="summary">Chứng khoán Beta bị phạt do vi phạm về hạn chế cho vay và Báo cáo có nội dung sai lệch.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-5072646.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Lãi suất tiết kiệm ngân hàng nào cao nhất?</h2>
+                <div class="date">📅 Tue, 12 May 2026 05:33:34 +0700</div>
+                <p class="summary">Lãi suất tiết kiệm hạ nhiệt sau chỉ đạo của Thống đốc song mặt bằng chung vẫn ở mức hấp dẫn, một số nhà băng như HDBank, NCB trả 8-9% một năm.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/ca-voi-bitcoin-tri-gia-40-ty-usd-thuc-giac-5072749.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>'Cá voi' Bitcoin trị giá 40 tỷ USD thức giấc</h2>
+                <div class="date">📅 Mon, 11 May 2026 21:19:05 +0700</div>
+                <p class="summary">Sau hơn 10 năm nắm giữ, một nhà đầu tư đã chuyển lượng Bitcoin trị giá 40 tỷ USD sang ví mới trong bối cảnh tiền số phục hồi.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/vn-index-giam-gan-20-diem-phien-dau-tuan-5072618.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>VN-Index giảm gần 20 điểm phiên đầu tuần</h2>
+                <div class="date">📅 Mon, 11 May 2026 15:49:54 +0700</div>
+                <p class="summary">Bốn cổ phiếu liên quan đến Vingroup đều giảm, dao động 1-6,5%, trở thành tác nhân chính khiến VN-Index mất gần 20 điểm trong phiên đầu tuần.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/vn-index-duoc-du-doan-som-vuot-2-000-diem-5072145.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>VN-Index được dự đoán sớm vượt 2.000 điểm</h2>
+                <div class="date">📅 Mon, 11 May 2026 00:05:00 +0700</div>
+                <p class="summary">Nhiều nhóm phân tích cho rằng VN-Index tháng này có thể vượt 2.000 điểm nhờ lực kéo từ cổ phiếu trụ và thanh khoản dồi dào.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/chuoi-nha-thuoc-cua-the-gioi-di-dong-sap-het-lo-5072234.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Chuỗi nhà thuốc của Thế Giới Di Động sắp hết lỗ</h2>
+                <div class="date">📅 Mon, 11 May 2026 00:02:00 +0700</div>
+                <p class="summary">Thế Giới Di Động cho biết chuỗi nhà thuốc An Khang "gần ngưỡng hòa vốn" và có thể đóng góp lợi nhuận sau khoảng 8 năm doanh nghiệp này tham gia mảng bán lẻ dược.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/gia-vang-tuan-nay-co-the-tang-5072198.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Giá vàng tuần này có thể tăng</h2>
+                <div class="date">📅 Mon, 11 May 2026 00:00:00 +0700</div>
+                <p class="summary">Tiếp đà phục hồi tuần qua, Phố Wall lẫn nhà đầu tư cá nhân cùng dự báo giá vàng tăng, với kỳ vọng hạ nhiệt căng thẳng Mỹ - Iran.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/msr-dat-doanh-thu-gan-3-000-ty-trong-quy-i-5072256.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>MSR đạt doanh thu gần 3.000 tỷ trong quý I</h2>
+                <div class="date">📅 Mon, 11 May 2026 09:00:00 +0700</div>
+                <p class="summary">Doanh thu Masan High-Tech Materials (MSR) tăng gần 115% so với cùng kỳ, đạt 2.993 tỷ trong quý I/2026 nhờ sự cải thiện đồng thời của giá hàng hóa, sản lượng và cấu trúc tài chính.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/so-do-cap-sai-quy-dinh-duoc-xem-xet-dieu-chinh-nop-bo-sung-thue-5072135.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Sổ đỏ cấp sai quy định được xem xét điều chỉnh, nộp bổ sung thuế</h2>
+                <div class="date">📅 Sun, 10 May 2026 17:40:04 +0700</div>
+                <p class="summary">Các dự án được cấp sổ đỏ sai quy định trước đây sẽ được xem xét điều chỉnh và nộp bổ sung nghĩa vụ tài chính, theo cơ chế đặc thù của Chính phủ.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/de-xuat-doanh-nghiep-nop-thue-thay-nguoi-gom-ve-chai-phe-lieu-5072084.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Đề xuất doanh nghiệp nộp thuế thay người gom ve chai, phế liệu</h2>
+                <div class="date">📅 Sun, 10 May 2026 12:48:02 +0700</div>
+                <p class="summary">VCCI đề nghị Bộ Tài chính bổ sung cơ chế khai, nộp thuế thay với hộ kinh doanh ve chai, đồng nát và sửa cách tính thuế với mô hình tài xế công nghệ.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/kinh-te-viet-an-rong-cua-don-ty-usd-5072031.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Kinh tế Việt - Ấn: Rộng cửa đón tỷ USD</h2>
+                <div class="date">📅 Sun, 10 May 2026 07:00:07 +0700</div>
+                <p class="summary">Chuyến thăm Ấn Độ của Tổng Bí thư, Chủ tịch nước Tô Lâm mở ra dư địa thúc đẩy thương mại song phương, hướng tới mục tiêu 25 tỷ USD vào năm 2030.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/msci-va-ftse-khac-nhau-the-nao-trong-nang-hang-thi-truong-chung-khoan-5070886.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>MSCI và FTSE khác nhau thế nào trong nâng hạng thị trường chứng khoán?</h2>
+                <div class="date">📅 Sun, 10 May 2026 00:02:00 +0700</div>
+                <p class="summary">Cùng là nâng hạng thị trường chứng khoán, nhưng MSCI và FTSE có tiêu chí, tầm ảnh hưởng và sức hấp dẫn khác nhau.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/viet-nam-chi-gan-ty-usd-nhap-hat-dieu-trong-mot-thang-5071916.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Việt Nam chi gần tỷ USD nhập hạt điều trong một tháng</h2>
+                <div class="date">📅 Sat, 09 May 2026 19:58:16 +0700</div>
+                <p class="summary">Là nước xuất khẩu điều nhân lớn nhất thế giới, nhưng riêng tháng 4, các doanh nghiệp Việt đã chi gần 943 triệu USD để nhập khẩu điều thô.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/co-nen-ban-nha-ha-noi-khi-gia-da-giam-1-ty-dong-5071849.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Có nên bán nhà Hà Nội khi giá đã giảm 1 tỷ đồng?</h2>
+                <div class="date">📅 Sat, 09 May 2026 13:00:55 +0700</div>
+                <p class="summary">Theo chuyên gia, thị trường bất động sản không trả tiền theo "ký ức" mà theo khả năng, cần đưa ra giá bán phù hợp với thanh khoản thực tế.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/ceo-nvidia-apple-se-cung-ong-trump-den-trung-quoc-5071620.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>CEO Nvidia, Apple sẽ cùng ông Trump đến Trung Quốc</h2>
+                <div class="date">📅 Sat, 09 May 2026 00:00:00 +0700</div>
+                <p class="summary">Hơn 10 lãnh đạo doanh nghiệp, trong đó có CEO Nvidia, Apple, Qualcomm, Citigroup và Boeing sẽ cùng Tổng thống Mỹ đến Trung Quốc tuần tới.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/thu-tuong-sri-lanka-muon-doanh-nghiep-viet-tang-hop-tac-thuong-mai-hang-khong-5071709.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Thủ tướng Sri Lanka muốn doanh nghiệp Việt tăng hợp tác thương mại, hàng không</h2>
+                <div class="date">📅 Fri, 08 May 2026 21:48:02 +0700</div>
+                <p class="summary">Thủ tướng Sri Lanka muốn doanh nghiệp Việt mở rộng hợp tác trong lĩnh vực thương mại, chế biến thực phẩm, logistics, hàng không và du lịch.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/vn-index-len-1-915-diem-5071587.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>VN-Index lên 1.915 điểm</h2>
+                <div class="date">📅 Fri, 08 May 2026 15:54:08 +0700</div>
+                <p class="summary">Dù hơn 58% mã giảm giá, chứng khoán vẫn đóng cửa ở mức cao kỷ lục 1.915 điểm nhờ sự hỗ trợ của cổ phiếu nhóm Vingroup và ngân hàng.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/co-phieu-pc1-giam-manh-5071548.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Cổ phiếu PC1 giảm mạnh</h2>
+                <div class="date">📅 Fri, 08 May 2026 15:21:50 +0700</div>
+                <p class="summary">Cổ phiếu PC1 chạm giá sàn và chốt phiên giảm 5% với thanh khoản lớn.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/ceo-hoa-chat-duc-giang-se-ke-thua-y-chi-tam-nhin-cua-ong-dao-huu-huyen-5071498.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>CEO Hóa chất Đức Giang: Sẽ kế thừa ý chí, tầm nhìn của ông Đào Hữu Huyền</h2>
+                <div class="date">📅 Fri, 08 May 2026 13:09:09 +0700</div>
+                <p class="summary">Ông Lưu Bách Đạt, Tổng giám đốc Hóa chất Đức Giang, hứa dàn lãnh đạo mới sẽ vận hành tốt doanh nghiệp, kế thừa ý chí, tầm nhìn của cựu Chủ tịch Đào Hữu Huyền.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/cong-ty-dien-mat-troi-cua-trung-nam-lo-gan-1-000-ty-dong-5071456.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Công ty điện mặt trời của Trung Nam lỗ gần 1.000 tỷ đồng</h2>
+                <div class="date">📅 Fri, 08 May 2026 12:32:52 +0700</div>
+                <p class="summary">Trung Nam Thuận Nam, chủ đầu tư nhà máy điện mặt trời 450 MW ở Khánh Hòa, năm ngoái lỗ trước thuế 970 tỷ đồng, nâng lỗ lũy kế lên trên 1.800 tỷ.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lai-ky-luc-5071398.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Hãng máy lạnh duy nhất trên sàn lãi kỷ lục</h2>
+                <div class="date">📅 Fri, 08 May 2026 11:57:38 +0700</div>
+                <p class="summary">Nhờ đẩy mạnh chương trình bán hàng, chính sách giá và chiết khấu, Nagakawa ghi nhận doanh thu và lợi nhuận kỷ lục trong quý đầu năm.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/toa-an-my-bac-bo-thue-10-cua-ong-trump-5071311.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Tòa án Mỹ bác bỏ thuế 10% của ông Trump</h2>
+                <div class="date">📅 Fri, 08 May 2026 07:36:44 +0700</div>
+                <p class="summary">Tòa án Thương mại Quốc tế Mỹ (CIT) phán quyết bác bỏ thuế nhập khẩu 10% của Mỹ, nhưng chỉ chặn áp dụng với bang Washington và 2 doanh nghiệp nhỏ.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/can-nang-no-thue-cam-xuat-canh-nguoi-bo-dia-chi-kinh-doanh-len-5-trieu-dong-5070760.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>'Cần nâng nợ thuế cấm xuất cảnh người bỏ địa chỉ kinh doanh lên 5 triệu đồng'</h2>
+                <div class="date">📅 Fri, 08 May 2026 06:00:00 +0700</div>
+                <p class="summary">Chuyên gia đề xuất nâng ngưỡng nợ thuế bị tạm hoãn xuất cảnh với cá nhân bỏ địa chỉ kinh doanh lên 5 triệu đồng, thay vì 1 triệu như dự kiến của Bộ Tài chính.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/doanh-nghiep-trung-quoc-chai-li-voi-su-de-doa-cua-my-5070924.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Doanh nghiệp Trung Quốc 'chai lì' với sự đe dọa của Mỹ</h2>
+                <div class="date">📅 Fri, 08 May 2026 02:00:00 +0700</div>
+                <p class="summary">Lợi thế quy mô sản xuất và chuỗi cung ứng đa dạng khiến các hãng xuất khẩu Trung Quốc không còn quá lo ngại trước chính sách của Mỹ như năm ngoái.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/vinpearl-hop-tac-voi-ba-ong-lon-lu-hanh-an-do-5071401.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Vinpearl hợp tác với ba 'ông lớn' lữ hành Ấn Độ</h2>
+                <div class="date">📅 Fri, 08 May 2026 10:00:00 +0700</div>
+                <p class="summary">Vinpearl ký hợp tác với Thomas Cook India, SOTC Travel và MakeMyTrip nhằm khai thác thị trường 1,47 tỷ dân, đưa Việt Nam trở thành điểm đến ưu tiên của du khách Ấn Độ.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/pho-thu-tuong-som-giao-chi-tieu-tang-truong-cho-cac-dia-phuong-doanh-nghiep-nha-nuoc-5071240.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Phó thủ tướng: Sớm giao chỉ tiêu tăng trưởng cho các địa phương, doanh nghiệp Nhà nước</h2>
+                <div class="date">📅 Thu, 07 May 2026 20:26:38 +0700</div>
+                <p class="summary">Phó thủ tướng Nguyễn Văn Thắng yêu cầu sớm giao chỉ tiêu cho các địa phương, doanh nghiệp Nhà nước để hoàn thành mục tiêu tăng trưởng kinh tế giai đoạn 2026-2030.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/kinh-te-nga-kho-huong-loi-lon-tu-gia-dau-cao-5071115.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Kinh tế Nga khó hưởng lợi lớn từ giá dầu cao</h2>
+                <div class="date">📅 Thu, 07 May 2026 19:05:00 +0700</div>
+                <p class="summary">Xung đột với Ukraine và các lệnh trừng phạt mới của phương Tây có thể khiến Nga khó hưởng lợi từ giá dầu tăng cao hai tháng qua.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/an-do-san-sang-ho-tro-viet-nam-phat-trien-thi-truong-von-5071229.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>'Ấn Độ sẵn sàng hỗ trợ Việt Nam phát triển thị trường vốn'</h2>
+                <div class="date">📅 Thu, 07 May 2026 18:37:56 +0700</div>
+                <p class="summary">Lãnh đạo Sàn giao dịch Chứng khoán Quốc gia Ấn Độ cho biết cơ quan này sẵn sàng hỗ trợ quá trình phát triển thị trường vốn của Việt Nam.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-7-5-5068301.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Giá xăng tăng, dầu giảm</h2>
+                <div class="date">📅 Thu, 07 May 2026 14:34:36 +0700</div>
+                <p class="summary">Từ 15h ngày 7/5, giá xăng tăng, còn dầu diesel giảm theo đà biến động của thị trường năng lượng thế giới.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/chung-khoan-vuot-dinh-5071073.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Chứng khoán vượt đỉnh</h2>
+                <div class="date">📅 Thu, 07 May 2026 13:58:54 +0700</div>
+                <p class="summary">Chứng khoán lập kỷ lục mới khi VN-Index đóng cửa trên 1.909 điểm với sự dẫn dắt của cổ phiếu Vingroup và Vinhomes.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/nike-chua-the-phuc-hoi-voi-chien-luoc-win-now-5070718.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Nike chưa thể phục hồi với chiến lược 'Win Now'</h2>
+                <div class="date">📅 Thu, 07 May 2026 01:10:00 +0700</div>
+                <p class="summary">Sau 18 tháng triển khai chiến lược vực dậy "Chiến thắng ngay", thị phần của Nike tiếp tục sụt giảm khiến giới đầu tư Phố Wall mất dần kiên nhẫn.</p>
+            </a>
+            
+            <a href="https://vnexpress.net/luu-y-gi-khi-su-dung-margin-trong-chung-khoan-5066173.html" target="_blank" class="card">
+                <span class="badge">VnExpress Business</span>
+                <h2>Lưu ý gì khi sử dụng margin trong chứng khoán?</h2>
+                <div class="date">📅 Thu, 07 May 2026 00:01:00 +0700</div>
+                <p class="summary">Margin có thể khuếch đại lợi nhuận, nhưng cũng khiến thua lỗ tăng nhanh, nhà đầu tư cần lưu ý để sử dụng đòn bẩy an toàn trong giao dịch chứng khoán.</p>
+            </a>
+            
+        </div>
+        
+        <footer class="footer">
+            <p>&copy; 2026 Vibecoding AI News Assistant</p>
+        </footer>
+    </div>
+</body>
+</html>
+        
