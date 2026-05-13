@@ -135,19 +135,19 @@
         </div>
         <header>
             <h1>Financial News Dashboard</h1>
-            <p class="stats">Cập nhật: 2026-05-13 16:37 | Tổng: 72 tin tức</p>
+            <p class="stats">Cập nhật: 2026-05-13 16:49 | Tổng: 72 tin tức</p>
             <div class="stats-detail">
                 <span style="color:#ef4444">★★★ Rất quan trọng: 6</span>
-                <span style="color:#f59e0b">★★☆ Quan trọng: 25</span>
-                <span style="color:#94a3b8">★☆☆ Bình thường: 41</span>
+                <span style="color:#f59e0b">★★☆ Quan trọng: 26</span>
+                <span style="color:#94a3b8">★☆☆ Bình thường: 40</span>
             </div>
         </header>
         
         <div class="controls">
             <div class="controls-label">🔍 Lọc theo nguồn</div>
             <button class="filter-btn active" onclick="filterSource('all')">Tất cả</button>
-<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (32)</button>
 <button class="filter-btn" onclick="filterSource('CafeF')">CafeF (40)</button>
+<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (32)</button>
 
         </div>
         
@@ -155,11 +155,21 @@
             <div class="controls-label">⭐ Lọc theo mức độ quan trọng</div>
             <button class="filter-btn active" onclick="filterImportance('all')">Tất cả</button>
             <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (6)</button>
-            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (25)</button>
-            <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (41)</button>
+            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (26)</button>
+            <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (40)</button>
         </div>
 
         <div class="grid" id="newsGrid">
+            
+            <a href="https://cafef.vn/cong-bo-gia-xang-e10-petrolimex-188260513154754794.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>Công bố giá xăng E10 Petrolimex</h2>
+                <div class="date">📅 Wed, 13 May 26 16:45:00 +0700</div>
+                <p class="summary">Tập đoàn Xăng dầu Việt Nam (Petrolimex) vừa thông báo giá bán xăng sinh học E10 RON 95 áp dụng từ ngày 0h ngày 13/5. Theo đó, giá bán xăng sinh học E10 RON 95-V tại cửa hàng xăng dầu tại thị trường vùng 1 là 24.630 đồng/lít, tại các thị trường vùng 2 là 25.120 đồng/lít.</p>
+            </a>
             
             <a href="https://vnexpress.net/co-phieu-dau-khi-hut-tien-nha-dau-tu-trong-nuoc-5073515.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="2" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
@@ -679,16 +689,6 @@
                 <h2>Lãnh đạo doanh nghiệp hé lộ lý do đề xuất xây 2 toà tháp tưởng niệm giữa trung tâm Hà Nội</h2>
                 <div class="date">📅 Tue, 12 May 26 10:10:00 +0700</div>
                 <p class="summary">Lý giải việc điều chỉnh quy hoạch, ông Đinh Ngọc Dương cho rằng mô hình “công viên nhà tang lễ” là hướng tiếp cận mới nhằm đáp ứng nhu cầu tổ chức tang lễ văn minh hơn tại đô thị lớn, với nhiều không gian xanh và trải nghiệm tiễn biệt mang tính nhân văn hơn.</p>
-            </a>
-            
-            <a href="https://cafef.vn/cii-keo-dai-thoi-gian-chao-ban-25-trieu-trai-phieu-chuyen-doi-188260512094932988.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" style="">
-                <div class="card-header">
-                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>CII kéo dài thời gian chào bán 25 triệu trái phiếu chuyển đổi</h2>
-                <div class="date">📅 Tue, 12 May 26 09:52:00 +0700</div>
-                <p class="summary">CII kéo dài thời gian nhận tiền mua trái phiếu tới chậm nhất 17 giờ ngày 25/6/2026 thay vì 17 giờ ngày 2/6/2026 như trước đó.</p>
             </a>
             
             <a href="https://vnexpress.net/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-5072646.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="3" style="border-left: 4px solid #ef4444;">

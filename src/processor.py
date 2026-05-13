@@ -5,6 +5,7 @@ class DataProcessor:
     def __init__(self, file_path):
         self.file_path = file_path
         self.df = None
+        self.full_df = None
 
     def load_data(self):
         """Load and clean the CSV data."""
@@ -20,15 +21,29 @@ class DataProcessor:
             self.df = self.df.drop(columns=['Ticker.1'])
             
         print(f"[+] Loaded {len(self.df)} rows.")
+        self.full_df = self.df.copy()
+        return self.df
+
+    def reset_filter(self):
+        """Reset the current dataframe to the full loaded dataset."""
+        if self.full_df is not None:
+            self.df = self.full_df.copy()
         return self.df
 
     def filter_recent_week(self):
         """Filter data to only include the current business week (Monday to today)."""
-        if self.df is not None and not self.df.empty:
+        if self.full_df is not None and not self.full_df.empty:
             today = pd.Timestamp.now().normalize()
             # Find Monday of the current week (dayofweek: 0=Mon, 6=Sun)
             monday = today - pd.Timedelta(days=today.dayofweek)
-            self.df = self.df[(self.df['Date'] >= monday) & (self.df['Date'] <= today)]
+            self.df = self.full_df[(self.full_df['Date'] >= monday) & (self.full_df['Date'] <= today)]
+        return self.df
+
+    def filter_latest_day(self):
+        """Filter data to only include the most recent day in the dataset."""
+        if self.full_df is not None and not self.full_df.empty:
+            latest_date = self.full_df['Date'].max()
+            self.df = self.full_df[self.full_df['Date'] == latest_date]
         return self.df
 
     def get_date_range_str(self):

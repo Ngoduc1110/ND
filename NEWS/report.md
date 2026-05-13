@@ -1,4 +1,4 @@
-# Báo cáo tin tức thị trường (2026-05-13 16:37)
+# Báo cáo tin tức thị trường (2026-05-13 16:49)
 
 Tổng cộng: **72** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
@@ -132,6 +132,10 @@ Tổng cộng: **72** tin tức liên quan đến thị trường chứng khoán
   - Trung Nam Thuận Nam, chủ đầu tư nhà máy điện mặt trời 450 MW ở Khánh Hòa, năm ngoái lỗ trước thuế 970 tỷ đồng, nâng lỗ lũy kế lên trên 1.800 tỷ....
 
 ## CafeF
+- ★★☆ **[Công bố giá xăng E10 Petrolimex](https://cafef.vn/cong-bo-gia-xang-e10-petrolimex-188260513154754794.chn)**
+  - *(Wed, 13 May 26 16:45:00 +0700)*
+  - Tập đoàn Xăng dầu Việt Nam (Petrolimex) vừa thông báo giá bán xăng sinh học E10 RON 95 áp dụng từ ngày 0h ngày 13/5. Theo đó, giá bán xăng sinh học E10 RON 95-V tại cửa hàng xăng dầu tại thị trường vù...
+
 - ★★☆ **[Chứng khoán 13-5: Điều gì khiến cổ phiếu dầu khí bùng nổ?](https://cafef.vn/chung-khoan-13-5-dieu-gi-khien-co-phieu-dau-khi-bung-no-18826051316143265.chn)**
   - *(Wed, 13 May 26 16:14:00 +0700)*
   - Phiên giao dịch ngày 13-5 ghi nhận diễn biến đầy biến động của thị trường chứng khoán khi áp lực bán mạnh xuất hiện ở nhóm cổ phiếu vốn hóa lớn...
@@ -287,8 +291,4 @@ Tổng cộng: **72** tin tức liên quan đến thị trường chứng khoán
 - ★☆☆ **[Lãnh đạo doanh nghiệp hé lộ lý do đề xuất xây 2 toà tháp tưởng niệm giữa trung tâm Hà Nội](https://cafef.vn/lanh-dao-doanh-nghiep-he-lo-ly-do-de-xuat-xay-2-toa-thap-tuong-niem-giua-trung-tam-ha-noi-188260512100853346.chn)**
   - *(Tue, 12 May 26 10:10:00 +0700)*
   - Lý giải việc điều chỉnh quy hoạch, ông Đinh Ngọc Dương cho rằng mô hình “công viên nhà tang lễ” là hướng tiếp cận mới nhằm đáp ứng nhu cầu tổ chức tang lễ văn minh hơn tại đô thị lớn, với nhiều không ...
-
-- ★☆☆ **[CII kéo dài thời gian chào bán 25 triệu trái phiếu chuyển đổi](https://cafef.vn/cii-keo-dai-thoi-gian-chao-ban-25-trieu-trai-phieu-chuyen-doi-188260512094932988.chn)**
-  - *(Tue, 12 May 26 09:52:00 +0700)*
-  - CII kéo dài thời gian nhận tiền mua trái phiếu tới chậm nhất 17 giờ ngày 25/6/2026 thay vì 17 giờ ngày 2/6/2026 như trước đó....
 
