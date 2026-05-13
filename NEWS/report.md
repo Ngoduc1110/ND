@@ -1,8 +1,16 @@
-# Báo cáo tin tức thị trường (2026-05-13 09:35)
+# Báo cáo tin tức thị trường (2026-05-13 10:33)
 
-Tổng cộng: **71** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **69** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## CafeF
+- **[Chủ tịch Đoàn Nguyên Đức gom thêm cổ phiếu HAG](https://cafef.vn/chu-tich-doan-nguyen-duc-gom-them-co-phieu-hag-188260513092755881.chn)**
+  - *(Wed, 13 May 26 09:50:00 +0700)*
+  - Ông Đoàn Nguyên Đức- Chủ tịch HĐQT Hoàng Anh Gia Lai, đã mua vào 4 triệu cổ phiếu HAG bằng phương thức khớp lệnh trên sàn, qua đó nâng sở hữu lên 25,09%....
+
+- **[Bà Huỳnh Bích Ngọc muốn bán 15 triệu cổ phiếu AgriS](https://cafef.vn/ba-huynh-bich-ngoc-muon-ban-15-trieu-co-phieu-agris-188260513092914186.chn)**
+  - *(Wed, 13 May 26 09:34:00 +0700)*
+  - Bà Huỳnh Bích Ngọc đăng ký bán ra 15 triệu cổ phiếu SBT của AgriS nhằm mục đích cơ cấu danh mục đầu tư....
+
 - **[Dabaco chia cổ tức tổng tỷ lệ 15%](https://cafef.vn/dabaco-chia-co-tuc-tong-ty-le-15-188260513092502696.chn)**
   - *(Wed, 13 May 26 09:31:00 +0700)*
   - Dabaco sẽ trả cổ tức 3% bằng tiền, tức 300 đồng/cổ phiếu và 12% bằng cổ phiếu. Dự kiến thực hiện trong quý II/2026....
@@ -147,18 +155,6 @@ Tổng cộng: **71** tin tức liên quan đến thị trường chứng khoán
   - *(Mon, 11 May 26 22:00:00 +0700)*
   - Sacombank OCB, Eximbank có thay đổi nhân sự cấp cao ở vị trí tổng giám đốc, phó tổng Giám đốc, thành viên hội đồng quản trị, thành viên ban kiểm soát....
 
-- **[Ông Phạm Nhật Vượng muốn làm dự án điện gần 158.000 tỷ đồng tại Điện Biên](https://cafef.vn/ong-pham-nhat-vuong-muon-lam-du-an-dien-gan-158000-ty-dong-tai-dien-bien-188260511155355596.chn)**
-  - *(Mon, 11 May 26 15:53:00 +0700)*
-  - VinEnergo sẽ triển khai dự án Nhà máy điện mặt trời Điện Biên 1 đã được phê duyệt chủ trương đầu tư, nhằm bổ sung nguồn điện sạch, ổn định cho hệ thống điện khu vực Tây ....
-
-- **[Tiếp đà bán ròng hơn 1.000 tỷ phiên đầu tuần, khối ngoại "xả" mạnh cổ phiếu nào?](https://cafef.vn/tiep-da-ban-rong-hon-1000-ty-phien-dau-tuan-khoi-ngoai-xa-manh-co-phieu-nao-188260511153404318.chn)**
-  - *(Mon, 11 May 26 15:45:00 +0700)*
-  - Tại chiều mua, khối ngoại mua ròng mạnh nhất cổ phiếu BSR với giá trị khoảng 133 tỷ đồng....
-
-- **[Không phải vàng, chuyên gia khuyến nghị tăng mạnh tỷ trọng tài sản này trong quý 2: 'Tôi đang giữ 40-50% danh mục'](https://cafef.vn/khong-phai-vang-chuyen-gia-khuyen-nghi-tang-manh-ty-trong-tai-san-nay-trong-quy-2-toi-dang-giu-40-50-danh-muc-188260511153322807.chn)**
-  - *(Mon, 11 May 26 15:34:00 +0700)*
-  - Chuyên gia cho biết không còn ưu tiên vàng trong quý 2 mà duy trì tỷ trọng cao ở cổ phiếu, tăng tỷ trọng tiền gửi để phòng thủ trước nguy cơ “thiên nga đen” của thị trường....
-
 ## VnExpress Business
 - **[Vì sao nhà đầu tư 'chưa về bờ' dù VN-Index vượt đỉnh?](https://vnexpress.net/vi-sao-nha-dau-tu-chua-ve-bo-du-vn-index-vuot-dinh-5072532.html)**
   - *(Wed, 13 May 2026 06:08:00 +0700)*
@@ -283,8 +279,4 @@ Tổng cộng: **71** tin tức liên quan đến thị trường chứng khoán
 - **[Phó thủ tướng: Sớm giao chỉ tiêu tăng trưởng cho các địa phương, doanh nghiệp Nhà nước](https://vnexpress.net/pho-thu-tuong-som-giao-chi-tieu-tang-truong-cho-cac-dia-phuong-doanh-nghiep-nha-nuoc-5071240.html)**
   - *(Thu, 07 May 2026 20:26:38 +0700)*
   - Phó thủ tướng Nguyễn Văn Thắng yêu cầu sớm giao chỉ tiêu cho các địa phương, doanh nghiệp Nhà nước để hoàn thành mục tiêu tăng trưởng kinh tế giai đoạn 2026-2030....
-
-- **[Kinh tế Nga khó hưởng lợi lớn từ giá dầu cao](https://vnexpress.net/kinh-te-nga-kho-huong-loi-lon-tu-gia-dau-cao-5071115.html)**
-  - *(Thu, 07 May 2026 19:05:00 +0700)*
-  - Xung đột với Ukraine và các lệnh trừng phạt mới của phương Tây có thể khiến Nga khó hưởng lợi từ giá dầu tăng cao hai tháng qua....
 
