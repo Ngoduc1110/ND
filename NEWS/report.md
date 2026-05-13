@@ -1,8 +1,16 @@
-# Báo cáo tin tức thị trường (2026-05-13 09:25)
+# Báo cáo tin tức thị trường (2026-05-13 09:35)
 
-Tổng cộng: **70** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **71** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## CafeF
+- **[Dabaco chia cổ tức tổng tỷ lệ 15%](https://cafef.vn/dabaco-chia-co-tuc-tong-ty-le-15-188260513092502696.chn)**
+  - *(Wed, 13 May 26 09:31:00 +0700)*
+  - Dabaco sẽ trả cổ tức 3% bằng tiền, tức 300 đồng/cổ phiếu và 12% bằng cổ phiếu. Dự kiến thực hiện trong quý II/2026....
+
+- **[Vinhomes phát hành liên tiếp 2 lô trái phiếu trị giá 3.000 tỷ đồng](https://cafef.vn/vinhomes-phat-hanh-lien-tiep-2-lo-trai-phieu-tri-gia-3000-ty-dong-188260513092558919.chn)**
+  - *(Wed, 13 May 26 09:29:00 +0700)*
+  - Ngày 11/5 vừa qua, Vinhomes đã phát hành liên tiếp 02 lô trái phiếu trong cùng ngày 11/5/2026 với tổng giá trị huy động 3.000 tỷ đồng....
+
 - **[Nhiều lãnh đạo Imexpharm bán cổ phiếu trong cùng một phiên](https://cafef.vn/nhieu-lanh-dao-imexpharm-ban-co-phieu-trong-cung-mot-phien-188260513072238693.chn)**
   - *(Wed, 13 May 26 08:17:00 +0700)*
   - Tổng giám đốc Trần Thị Đào cùng 2 Phó Tổng giám đốc và Kế toán trưởng Imexpharm đồng loạt bán cổ phiếu IMP trong cùng một phiên....
@@ -150,10 +158,6 @@ Tổng cộng: **70** tin tức liên quan đến thị trường chứng khoán
 - **[Không phải vàng, chuyên gia khuyến nghị tăng mạnh tỷ trọng tài sản này trong quý 2: 'Tôi đang giữ 40-50% danh mục'](https://cafef.vn/khong-phai-vang-chuyen-gia-khuyen-nghi-tang-manh-ty-trong-tai-san-nay-trong-quy-2-toi-dang-giu-40-50-danh-muc-188260511153322807.chn)**
   - *(Mon, 11 May 26 15:34:00 +0700)*
   - Chuyên gia cho biết không còn ưu tiên vàng trong quý 2 mà duy trì tỷ trọng cao ở cổ phiếu, tăng tỷ trọng tiền gửi để phòng thủ trước nguy cơ “thiên nga đen” của thị trường....
-
-- **[Thanh toán QR xuyên biên giới tái định hình dòng chảy thương mại khu vực](https://cafef.vn/thanh-toan-qr-xuyen-bien-gioi-tai-dinh-hinh-dong-chay-thuong-mai-khu-vuc-188260511152039861.chn)**
-  - *(Mon, 11 May 26 15:20:00 +0700)*
-  - Sự trỗi dậy của thanh toán QR xuyên biên giới không chỉ giải quyết triệt để bài toán ngoại tệ và tỷ giá cho hàng triệu du khách Việt mỗi năm, mà còn tạo đòn bẩy vĩ mô giúp các doanh nghiệp trong nước ...
 
 ## VnExpress Business
 - **[Vì sao nhà đầu tư 'chưa về bờ' dù VN-Index vượt đỉnh?](https://vnexpress.net/vi-sao-nha-dau-tu-chua-ve-bo-du-vn-index-vuot-dinh-5072532.html)**
