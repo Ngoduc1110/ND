@@ -1,7 +1,7 @@
 import os
 from src.analyzer import Analyzer
 
-def generate_report(all_time_insights, weekly_insights, output_path):
+def generate_report(all_time_insights, weekly_insights, output_path, weekly_date_str='', all_time_date_str=''):
     """Generate the full HTML report with embedded analysis."""
 
     html = f"""<!DOCTYPE html>
@@ -122,7 +122,7 @@ def generate_report(all_time_insights, weekly_insights, output_path):
             <p style="color: var(--text-dim);">Dữ liệu cập nhật tự động từ hệ thống ND-githup</p>
         </header>
 
-        <h2 class="section-title">1. Báo Cáo Tuần Gần Nhất</h2>
+        <h2 class="section-title">1. Báo Cáo Tuần Gần Nhất ({weekly_date_str})</h2>
         {weekly_insights}
         <div class="chart-container">
             <img src="ND-githup/outputs/weekly_net_flow_history.png" alt="Weekly Net Flow">
@@ -134,7 +134,7 @@ def generate_report(all_time_insights, weekly_insights, output_path):
             <img src="ND-githup/outputs/weekly_top_tickers_proprietary.png" alt="Weekly Top Tickers Proprietary">
         </div>
 
-        <h2 class="section-title">2. Báo Cáo Toàn Thời Gian</h2>
+        <h2 class="section-title">2. Báo Cáo Từ Đầu Năm 2026 Đến Nay ({all_time_date_str})</h2>
         {all_time_insights}
         <div class="chart-container">
             <img src="ND-githup/outputs/all_net_flow_history.png" alt="All Time Net Flow">

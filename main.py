@@ -43,6 +43,7 @@ def main():
     # 1. Generate All-Time insights before filtering
     analyzer = Analyzer(processor)
     all_time_insights = analyzer.generate_insights()
+    all_time_date_str = date_str  # Save before filtering
 
     processor.filter_recent_week()
     week_date_str = processor.get_date_range_str()
@@ -65,7 +66,8 @@ def main():
         
     # Build and update the HTML report
     report_path = os.path.join('..', 'institutional_report.html')
-    generate_report(all_time_insights, weekly_insights, report_path)
+    generate_report(all_time_insights, weekly_insights, report_path, 
+                    weekly_date_str=week_date_str, all_time_date_str=all_time_date_str)
     
     # Export report to PDF for clients
     pdf_path = os.path.join(output_dir, 'institutional_report.pdf')

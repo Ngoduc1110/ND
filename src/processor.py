@@ -23,11 +23,12 @@ class DataProcessor:
         return self.df
 
     def filter_recent_week(self):
-        """Filter data to only include the last 7 calendar days from the latest date."""
+        """Filter data to only include the current business week (Monday to today)."""
         if self.df is not None and not self.df.empty:
-            latest_date = self.df['Date'].max()
-            start_date = latest_date - pd.Timedelta(days=7)
-            self.df = self.df[self.df['Date'] >= start_date]
+            today = pd.Timestamp.now().normalize()
+            # Find Monday of the current week (dayofweek: 0=Mon, 6=Sun)
+            monday = today - pd.Timedelta(days=today.dayofweek)
+            self.df = self.df[(self.df['Date'] >= monday) & (self.df['Date'] <= today)]
         return self.df
 
     def get_date_range_str(self):
