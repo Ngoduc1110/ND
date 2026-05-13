@@ -1,8 +1,12 @@
-# Báo cáo tin tức thị trường (2026-05-13 11:08)
+# Báo cáo tin tức thị trường (2026-05-13 16:37)
 
-Tổng cộng: **69** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **72** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VnExpress Business
+- ★★★ **[Doanh nghiệp Mỹ hưởng lợi gì khi cùng ông Trump tới Trung Quốc?](https://vnexpress.net/doanh-nghiep-my-huong-loi-gi-khi-cung-ong-trump-toi-trung-quoc-5073296.html)**
+  - *(Wed, 13 May 2026 11:18:27 +0700)*
+  - Trong khi Boeing và Cargill có thể đạt thỏa thuận mua hàng, Nvidia, Meta và Tesla lại đến Trung Quốc để giải quyết các rào cản chính sách tại đây....
+
 - ★★★ **[Lãi suất tiết kiệm ngân hàng nào cao nhất?](https://vnexpress.net/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-5072646.html)**
   - *(Tue, 12 May 2026 05:33:34 +0700)*
   - Lãi suất tiết kiệm hạ nhiệt sau chỉ đạo của Thống đốc song mặt bằng chung với các khoản thỏa thuận vẫn ở mức hấp dẫn, một số nhà băng trả 8-9% một năm....
@@ -23,9 +27,9 @@ Tổng cộng: **69** tin tức liên quan đến thị trường chứng khoán
   - *(Fri, 08 May 2026 21:48:02 +0700)*
   - Thủ tướng Sri Lanka muốn doanh nghiệp Việt mở rộng hợp tác trong lĩnh vực thương mại, chế biến thực phẩm, logistics, hàng không và du lịch....
 
-- ★★★ **[Tòa án Mỹ bác bỏ thuế 10% của ông Trump](https://vnexpress.net/toa-an-my-bac-bo-thue-10-cua-ong-trump-5071311.html)**
-  - *(Fri, 08 May 2026 07:36:44 +0700)*
-  - Tòa án Thương mại Quốc tế Mỹ (CIT) phán quyết bác bỏ thuế nhập khẩu 10% của Mỹ, nhưng chỉ chặn áp dụng với bang Washington và 2 doanh nghiệp nhỏ....
+- ★★☆ **[Cổ phiếu dầu khí hút tiền nhà đầu tư trong nước](https://vnexpress.net/co-phieu-dau-khi-hut-tien-nha-dau-tu-trong-nuoc-5073515.html)**
+  - *(Wed, 13 May 2026 16:25:11 +0700)*
+  - Toàn bộ cổ phiếu dầu khí bật mạnh, trong đó GAS chạm trần và dẫn đầu danh sách "trụ đỡ" của VN-Index trước áp lực xả hàng cổ phiếu Vingroup....
 
 - ★★☆ **[Vì sao nhà đầu tư 'chưa về bờ' dù VN-Index vượt đỉnh?](https://vnexpress.net/vi-sao-nha-dau-tu-chua-ve-bo-du-vn-index-vuot-dinh-5072532.html)**
   - *(Wed, 13 May 2026 06:08:00 +0700)*
@@ -59,9 +63,21 @@ Tổng cộng: **69** tin tức liên quan đến thị trường chứng khoán
   - *(Fri, 08 May 2026 13:09:09 +0700)*
   - Ông Lưu Bách Đạt, Tổng giám đốc Hóa chất Đức Giang, hứa dàn lãnh đạo mới sẽ vận hành tốt doanh nghiệp, kế thừa ý chí, tầm nhìn của cựu Chủ tịch Đào Hữu Huyền....
 
-- ★★☆ **[Hãng máy lạnh duy nhất trên sàn lãi kỷ lục](https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lai-ky-luc-5071398.html)**
-  - *(Fri, 08 May 2026 11:57:38 +0700)*
-  - Nhờ đẩy mạnh chương trình bán hàng, chính sách giá và chiết khấu, Nagakawa ghi nhận doanh thu và lợi nhuận kỷ lục trong quý đầu năm....
+- ★☆☆ **[​Chuyên gia quốc tế: Việt Nam có cơ hội thành 'tọa độ vàng' siêu sự kiện](https://vnexpress.net/chuyen-gia-quoc-te-viet-nam-co-co-hoi-thanh-toa-do-vang-sieu-su-kien-5073499.html)**
+  - *(Wed, 13 May 2026 16:00:00 +0700)*
+  - Chính sách mở đường và làn sóng đầu tư hạ tầng quy mô lớn đang tạo đà cho nền công nghiệp văn hóa Việt Nam bứt phá, vươn tầm thành điểm đến mới của kinh tế trải nghiệm toàn cầu....
+
+- ★☆☆ **[Ngân hàng tiếp tục rao bán nhà máy nông sản hơn 1.200 tỷ liên quan bà Trương Mỹ Lan](https://vnexpress.net/ngan-hang-tiep-tuc-rao-ban-nha-may-nong-san-hon-1-200-ty-lien-quan-ba-truong-my-lan-5073438.html)**
+  - *(Wed, 13 May 2026 15:47:20 +0700)*
+  - VietinBank phát mãi lần hai nhà máy Tanifood Tây Ninh liên quan vụ án Vạn Thịnh Phát với giá khởi điểm 1.200 tỷ đồng, thấp hơn 10% so với lần rao bán trước....
+
+- ★☆☆ **[Phát hiện giá Bitcoin tương quan với thị trường cá cược thể thao](https://vnexpress.net/phat-hien-gia-bitcoin-tuong-quan-voi-thi-truong-ca-cuoc-the-thao-5073356.html)**
+  - *(Wed, 13 May 2026 14:35:54 +0700)*
+  - Diễn biến giá của Bitcoin và quỹ ETF lớn nhất thế giới về cá cược thể thao có mối liên hệ về mặt thống kê tới hơn 80%....
+
+- ★☆☆ **[Agribank thúc đẩy giải pháp ngân hàng số khu vực Tây Nam Bộ](https://vnexpress.net/agribank-thuc-day-giai-phap-ngan-hang-so-khu-vuc-tay-nam-bo-5073401.html)**
+  - *(Wed, 13 May 2026 14:00:00 +0700)*
+  - Agribank đẩy mạnh các giải pháp thanh toán không tiền mặt, mở rộng hạ tầng giao dịch, thúc đẩy tài chính số khu vực nông thôn Tây Nam Bộ....
 
 - ★☆☆ **[VinFast sẽ tách mảng sản xuất tại Việt Nam](https://vnexpress.net/vinfast-se-tach-mang-san-xuat-tai-viet-nam-5073349.html)**
   - *(Wed, 13 May 2026 10:46:42 +0700)*
@@ -115,19 +131,19 @@ Tổng cộng: **69** tin tức liên quan đến thị trường chứng khoán
   - *(Fri, 08 May 2026 12:32:52 +0700)*
   - Trung Nam Thuận Nam, chủ đầu tư nhà máy điện mặt trời 450 MW ở Khánh Hòa, năm ngoái lỗ trước thuế 970 tỷ đồng, nâng lỗ lũy kế lên trên 1.800 tỷ....
 
-- ★☆☆ **[Vinpearl hợp tác với ba 'ông lớn' lữ hành Ấn Độ](https://vnexpress.net/vinpearl-hop-tac-voi-ba-ong-lon-lu-hanh-an-do-5071401.html)**
-  - *(Fri, 08 May 2026 10:00:00 +0700)*
-  - Vinpearl ký hợp tác với Thomas Cook India, SOTC Travel và MakeMyTrip nhằm khai thác thị trường 1,47 tỷ dân, đưa Việt Nam trở thành điểm đến ưu tiên của du khách Ấn Độ....
-
-- ★☆☆ **['Cần nâng nợ thuế cấm xuất cảnh người bỏ địa chỉ kinh doanh lên 5 triệu đồng'](https://vnexpress.net/can-nang-no-thue-cam-xuat-canh-nguoi-bo-dia-chi-kinh-doanh-len-5-trieu-dong-5070760.html)**
-  - *(Fri, 08 May 2026 06:00:00 +0700)*
-  - Chuyên gia đề xuất nâng ngưỡng nợ thuế bị tạm hoãn xuất cảnh với cá nhân bỏ địa chỉ kinh doanh lên 5 triệu đồng, thay vì 1 triệu như dự kiến của Bộ Tài chính....
-
-- ★☆☆ **[Doanh nghiệp Trung Quốc 'chai lì' với sự đe dọa của Mỹ](https://vnexpress.net/doanh-nghiep-trung-quoc-chai-li-voi-su-de-doa-cua-my-5070924.html)**
-  - *(Fri, 08 May 2026 02:00:00 +0700)*
-  - Lợi thế quy mô sản xuất và chuỗi cung ứng đa dạng khiến các hãng xuất khẩu Trung Quốc không còn quá lo ngại trước chính sách của Mỹ như năm ngoái....
-
 ## CafeF
+- ★★☆ **[Chứng khoán 13-5: Điều gì khiến cổ phiếu dầu khí bùng nổ?](https://cafef.vn/chung-khoan-13-5-dieu-gi-khien-co-phieu-dau-khi-bung-no-18826051316143265.chn)**
+  - *(Wed, 13 May 26 16:14:00 +0700)*
+  - Phiên giao dịch ngày 13-5 ghi nhận diễn biến đầy biến động của thị trường chứng khoán khi áp lực bán mạnh xuất hiện ở nhóm cổ phiếu vốn hóa lớn...
+
+- ★★☆ **[SSIAM bắt tay 2 định chế tài chính, mở rộng cơ hội đầu tư và tài trợ vốn giữa Nhật Bản và Việt Nam](https://cafef.vn/ssiam-bat-tay-2-dinh-che-tai-chinh-mo-rong-co-hoi-dau-tu-va-tai-tro-von-giua-nhat-ban-va-viet-nam-188260513135311114.chn)**
+  - *(Wed, 13 May 26 13:53:00 +0700)*
+  - Phát huy chuyên môn, mạng lưới và nguồn lực của từng bên, SSIAM, CCIX và DCI sẽ chủ động tìm kiếm, cấu trúc và triển khai các cơ hội đầu tư và tài trợ vốn trung, dài hạn, góp phần thúc đẩy tăng trưởng...
+
+- ★★☆ **[FPT báo lãi tháng 4/2026 tăng 21%](https://cafef.vn/fpt-bao-lai-thang-4-2026-tang-21-188260513120329893.chn)**
+  - *(Wed, 13 May 26 12:03:00 +0700)*
+  - FPT cho biết khối lượng đơn hàng ký mới tại thị trường nước ngoài đã tăng vọt 30% so với cùng kỳ....
+
 - ★★☆ **[Chủ tịch Đoàn Nguyên Đức gom thêm cổ phiếu HAG](https://cafef.vn/chu-tich-doan-nguyen-duc-gom-them-co-phieu-hag-188260513092755881.chn)**
   - *(Wed, 13 May 26 09:50:00 +0700)*
   - Ông Đoàn Nguyên Đức- Chủ tịch HĐQT Hoàng Anh Gia Lai, đã mua vào 4 triệu cổ phiếu HAG bằng phương thức khớp lệnh trên sàn, qua đó nâng sở hữu lên 25,09%....
@@ -180,21 +196,29 @@ Tổng cộng: **69** tin tức liên quan đến thị trường chứng khoán
   - *(Tue, 12 May 26 11:18:00 +0700)*
   - Theo chuyên gia AAS, việc mua được “hàng tốt” ở “mức giá thấp” là lợi thế lớn nhất để có biên lợi nhuận vượt trội trong tương lai....
 
-- ★★☆ **[Hoa Sen Group tăng vốn vượt 8.000 tỷ đồng sau đợt trả cổ tức](https://cafef.vn/hoa-sen-group-tang-von-vuot-8000-ty-dong-sau-dot-tra-co-tuc-188260512095023654.chn)**
-  - *(Tue, 12 May 26 09:50:00 +0700)*
-  - Hoàn tất phân phối gần 186,3 triệu cổ phiếu trả cổ tức cho cổ đông, Hoa Sen Group tăng vốn vượt 8.000 tỷ đồng....
+- ★☆☆ **[Một doanh nghiệp đầu ngành sắp lăn chốt cổ tức tiền mặt 83%, "đại gia" Thái Lan vớ bẫm](https://cafef.vn/mot-doanh-nghiep-dau-nganh-sap-lan-chot-co-tuc-tien-mat-83-dai-gia-thai-lan-vo-bam-188260513161023867.chn)**
+  - *(Wed, 13 May 26 16:11:00 +0700)*
+  - Đây cũng là mức cổ tức tiền mặt cao nhất trong lịch sử hoạt động của doanh nghiệp....
 
-- ★★☆ **[Chủ tịch AgriS (SBT) gia tăng sở hữu khi doanh nghiệp bước vào chu kỳ tăng trưởng mới](https://cafef.vn/chu-tich-agris-sbt-gia-tang-so-huu-khi-doanh-nghiep-buoc-vao-chu-ky-tang-truong-moi-188260512070625123.chn)**
-  - *(Tue, 12 May 26 08:00:00 +0700)*
-  - Bà Đặng Huỳnh Ức My – Chủ tịch HĐQT của CTCP Thành Thành Công – Biên Hòa (AgriS, Hose: SBT) vừa thông báo đăng ký mua 42.755.629 cổ phiếu SBT trong tháng 5, nâng tổng sở hữu lên 13,93%....
+- ★☆☆ **[Fecon sắp phát hành lô trái phiếu 125 tỷ đồng](https://cafef.vn/fecon-sap-phat-hanh-lo-trai-phieu-125-ty-dong-188260513144942479.chn)**
+  - *(Wed, 13 May 26 15:50:00 +0700)*
+  - Fecon dự kiến phát hành 1.250 trái phiếu mã FCN12601 ra thị trường trong nước vào ngày 15/5/2026, mệnh giá 100 triệu đồng/trái phiếu, qua đó huy động 125 tỷ đồng....
 
-- ★★☆ **[Một quỹ đầu tư bất ngờ "bắt đáy" FPT](https://cafef.vn/mot-quy-dau-tu-bat-ngo-bat-day-fpt-188260511215609792.chn)**
-  - *(Tue, 12 May 26 00:01:00 +0700)*
-  - Theo SGI Capital, sự lệch pha của dòng tiền đang mở ra cơ hội ở những doanh nghiệp có kết quả kinh doanh tích cực, định giá rẻ nhưng bị thị trường bỏ qua....
+- ★☆☆ **[Phiên 13/5: Khối ngoại tiếp đà bán ròng nghìn tỷ, ngược chiều gom mạnh một cổ phiếu ngân hàng](https://cafef.vn/phien-13-5-khoi-ngoai-tiep-da-ban-rong-nghin-ty-nguoc-chieu-gom-manh-mot-co-phieu-ngan-hang-1882605131542172.chn)**
+  - *(Wed, 13 May 26 15:45:00 +0700)*
+  - Giao dịch của khối ngoại là điểm trừ khi bán ròng khoảng 1.475 tỷ đồng....
 
-- ★★☆ **[Biến động nhân sự cấp cao nhiều ngân hàng](https://cafef.vn/bien-dong-nhan-su-cap-cao-nhieu-ngan-hang-188260511220028497.chn)**
-  - *(Mon, 11 May 26 22:00:00 +0700)*
-  - Sacombank OCB, Eximbank có thay đổi nhân sự cấp cao ở vị trí tổng giám đốc, phó tổng Giám đốc, thành viên hội đồng quản trị, thành viên ban kiểm soát....
+- ★☆☆ **[Vừa về tay ông lớn dược phẩm Trung Quốc, loạt lãnh đạo Imexpharm cùng bán ra lượng cổ phiếu](https://cafef.vn/vua-ve-tay-ong-lon-duoc-pham-trung-quoc-loat-lanh-dao-imexpharm-cung-ban-ra-luong-co-phieu-188260513145031724.chn)**
+  - *(Wed, 13 May 26 15:20:00 +0700)*
+  - Nhiều lãnh đạo của Công ty cổ phần Dược phẩm Imexpharm (MCK: IMP, sàn: HoSE) vừa báo cáo kết quả bán ra cổ phiếu....
+
+- ★☆☆ **[Người nhà lãnh đạo SeABank đăng ký mua 5 triệu cổ phiếu SSB](https://cafef.vn/nguoi-nha-lanh-dao-seabank-dang-ky-mua-5-trieu-co-phieu-ssb-188260513145128351.chn)**
+  - *(Wed, 13 May 26 15:18:00 +0700)*
+  - Ông Lê Hữu Báu, chồng của bà Nguyễn Thị Nga- Phó Chủ tịch thường trực HĐQT SeABank, vừa đăng ký mua 5 triệu cổ phiếu SSB nhằm mục đích tăng tỷ lệ sở hữu....
+
+- ★☆☆ **[Một doanh nghiệp “lạ” trả cổ tức kỷ lục 60% bằng tiền mặt](https://cafef.vn/mot-doanh-nghiep-la-tra-co-tuc-ky-luc-60-bang-tien-mat-18826051314410115.chn)**
+  - *(Wed, 13 May 26 14:41:00 +0700)*
+  - Đây là công ty duy nhất trên sàn bán các loại kềm....
 
 - ★☆☆ **[Bà Huỳnh Bích Ngọc muốn bán 15 triệu cổ phiếu AgriS](https://cafef.vn/ba-huynh-bich-ngoc-muon-ban-15-trieu-co-phieu-agris-188260513092914186.chn)**
   - *(Wed, 13 May 26 09:34:00 +0700)*
@@ -267,16 +291,4 @@ Tổng cộng: **69** tin tức liên quan đến thị trường chứng khoán
 - ★☆☆ **[CII kéo dài thời gian chào bán 25 triệu trái phiếu chuyển đổi](https://cafef.vn/cii-keo-dai-thoi-gian-chao-ban-25-trieu-trai-phieu-chuyen-doi-188260512094932988.chn)**
   - *(Tue, 12 May 26 09:52:00 +0700)*
   - CII kéo dài thời gian nhận tiền mua trái phiếu tới chậm nhất 17 giờ ngày 25/6/2026 thay vì 17 giờ ngày 2/6/2026 như trước đó....
-
-- ★☆☆ **[Doanh nghiệp thuộc Bộ Công an phát thông báo quan trọng](https://cafef.vn/doanh-nghiep-thuoc-bo-cong-an-phat-thong-bao-quan-trong-188260512073651516.chn)**
-  - *(Tue, 12 May 26 07:36:00 +0700)*
-  - Doanh nghiệp này có 2 cổ đông lớn là Bộ Công an nắm hơn 50% vốn và Tập đoàn FPT nắm 45,7% cổ phần....
-
-- ★☆☆ **[Một cổ phiếu "họ" Gelex bị tự doanh CTCK bán ròng đột biến trong phiên đầu tuần](https://cafef.vn/mot-co-phieu-ho-gelex-bi-tu-doanh-ctck-ban-rong-dot-bien-trong-phien-dau-tuan-188260511221057448.chn)**
-  - *(Mon, 11 May 26 22:10:00 +0700)*
-  - Tự doanh CTCK bán ròng 430 tỷ đồng trên sàn HOSE....
-
-- ★☆☆ **[Nhóm nhà đầu tư VinaCapital rời ghế cổ đông lớn tại TNG](https://cafef.vn/nhom-nha-dau-tu-vinacapital-roi-ghe-co-dong-lon-tai-tng-188260511220414411.chn)**
-  - *(Mon, 11 May 26 22:04:00 +0700)*
-  - Quỹ đầu tư Cổ phiếu Cổ tức năng động VinaCapital vừa bán ra toàn bộ 219.200 cổ phiếu TNG, qua đó giảm tỷ lệ sở hữu của cả nhóm VinaCapital xuống còn 4,9262% và rời ghế cổ đông lớn tại TNG....
 
