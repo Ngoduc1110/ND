@@ -16,3 +16,6 @@ ENV/
 # IDEs
 .vscode/
 .idea/
+
+# Reports
+market_dashboard.html

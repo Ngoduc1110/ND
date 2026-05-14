@@ -1,4 +1,4 @@
-# Báo cáo tin tức thị trường (2026-05-14 10:35)
+# Báo cáo tin tức thị trường (2026-05-14 11:11)
 
 Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
@@ -63,6 +63,10 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
   - *(Sat, 09 May 2026 01:12:23 GMT)*
   - Thị trường chứng kho#225;n Mỹ tăng điểm trong phi#234;n giao dịch ng#224;y thứ S#225;u (8/5), khi số liệu việc l#224;m khả quan hơn dự b#225;o mang lại cho nh#224; đầu tư sự y#234;n t#226;m về sức khỏ...
 
+- ★★☆ **[Chuyên gia SSI Research: Thiếu vắng thông tin thị trường có thể biến động mạnh, quan sát nhóm bán lẻ](https://vneconomy.vn/chuyen-gia-ssi-research-thieu-vang-thong-tin-thi-truong-co-the-bien-dong-manh-quan-sat-nhom-ban-le.htm)**
+  - *(Thu, 14 May 2026 03:07:13 GMT)*
+  - Thị trường chứng kho#225;n đ#227; phục hồi khoảng 300 điểm từ đ#225;y th#225;ng 3 v#224; đ#227; phản #225;nh phần lớn c#225;c th#244;ng tin t#237;ch cực như n#226;ng hạng, hạ nhiệt căng thẳng Trung Đ#...
+
 - ★★☆ **[SSIAM - CCIX và Daiwa ký kết hợp tác, mở rộng đầu tư vốn Nhật Bản vào Việt Nam](https://vneconomy.vn/ssiam-ccix-va-daiwa-ky-ket-hop-tac-mo-rong-dau-tu-von-nhat-ban-vao-viet-nam.htm)**
   - *(Wed, 13 May 2026 07:44:52 GMT)*
   - SSI, CCI CrossBorder (CCIX) v#224; Daiwa Corporate Investment (DCI) vừa k#253; kết Thỏa thuận hợp tác nhằm thiết lập khu#244;n khổ hợp t#225;c chiến lược, hướng tới tạo lập v#224; mở rộng c#225;c c...
@@ -106,10 +110,6 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[Thị trường chứng khoán Việt Nam  2025 và triển vọng 2026](https://vneconomy.vn/thi-truong-chung-khoan-viet-nam-2025-va-trien-vong-2026.htm)**
   - *(Sat, 09 May 2026 02:00:00 GMT)*
   - Thị trường chứng kho#225;n (TTCK) Việt Nam trong năm 2025 trải qua nhiều phi#234;n tăng giảm đan xen nhưng nh#236;n chung duy tr#236; hoạt động ổn định v#224; ghi nhận những kết quả nổi bật nhờ sự hỗ ...
-
-- ★★☆ **[“Lệch pha” ngày càng rõ, VN-Index áp sát ngưỡng 1920 điểm, cổ phiếu đỏ la liệt](https://vneconomy.vn/lech-pha-ngay-cang-ro-vn-index-ap-sat-nguong-1920-diem-co-phieu-do-la-liet.htm)**
-  - *(Fri, 08 May 2026 08:49:38 GMT)*
-  - VN-Index nh#237;ch th#234;m 6,36 điểm trong phi#234;n h#244;m nay tiến l#234;n mức 1915,37 điểm. Chỉ “nhấn” th#234;m ch#250;t nữa l#224; chỉ số c#243; đỉnh cao lịch sử mới v#224; điều n#224;y ho#224;n...
 
 - ★☆☆ **[Thị trường vẫn đang tìm điểm cân bằng mới và giao dịch khá lỏng lẻo](https://vneconomy.vn/thi-truong-van-dang-tim-diem-can-bang-moi-va-giao-dich-kha-long-leo.htm)**
   - *(Wed, 13 May 2026 14:24:07 GMT)*
@@ -430,6 +430,10 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 26 17:30:00 +0700)*
   - Phát biểu tại Diễn đàn Nhịp cầu Phát triển Việt Nam 2026 chiều nay, 13/5, Phó Thủ tướng Nguyễn Văn Thắng nhấn mạnh, FDI thế hệ mới không chỉ đến Việt Nam để sản xuất, để khai thác thị trường, mà cần c...
 
+- ★★☆ **[Một văn bản quan trọng có thể đẩy nhanh tiến độ GPMB, CTCK chỉ ra loạt doanh nghiệp bất động sản dự báo hưởng lợi](https://cafef.vn/mot-van-ban-quan-trong-co-the-day-nhanh-tien-do-gpmb-ctck-chi-ra-loat-doanh-nghiep-bat-dong-san-du-bao-huong-loi-188260514104732194.chn)**
+  - *(Thu, 14 May 26 10:47:00 +0700)*
+  - Theo ACBS, dự thảo Luật Đất đai sửa đổi 2026 có thể giúp rút ngắn thời gian thu hồi đất, minh bạch hóa chi phí đền bù và tạo lợi thế cho các doanh nghiệp có nền tảng tài chính tốt....
+
 - ★★☆ **[Cục trưởng Cục Phát triển DNNN: Huy động vốn qua thị trường chứng khoán là một kênh quan trọng đối với DNNN đã cổ phần hoá](https://cafef.vn/cuc-truong-cuc-phat-trien-dnnn-huy-dong-von-qua-thi-truong-chung-khoan-la-mot-kenh-quan-trong-doi-voi-dnnn-da-co-phan-hoa-188260514101608969.chn)**
   - *(Thu, 14 May 26 10:16:00 +0700)*
   - Cùng với chủ trương đẩy mạnh cổ phần hoá, thoái vốn, tuy giảm mạnh về số lượng nhưng các DNNN vẫn nắm giữ nguồn lực lớn về vốn, tài sản, công nghệ, nhân lực chất lượng cao, đóng góp đáng kể vào ngân s...
@@ -561,8 +565,4 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Kiểm soát hoạt động của người hành nghề môi giới chứng khoán trên mạng xã hội](https://cafef.vn/kiem-soat-hoat-dong-cua-nguoi-hanh-nghe-moi-gioi-chung-khoan-tren-mang-xa-hoi-188260512175208987.chn)**
   - *(Tue, 12 May 26 17:52:00 +0700)*
   - Cần rà soát hoạt động của môi giới chứng khoán nhằm bảo đảm không thực hiện những hoạt động khuyến nghị, tư vấn vượt quá phạm vi....
-
-- ★☆☆ **[Tự doanh CTCK liên tục bán ra hàng trăm tỷ đồng một cổ phiếu họ Gelex](https://cafef.vn/tu-doanh-ctck-lien-tuc-ban-ra-hang-tram-ty-dong-mot-co-phieu-ho-gelex-188260512174822907.chn)**
-  - *(Tue, 12 May 26 17:48:00 +0700)*
-  - Tự doanh CTCK bán ròng 164 tỷ đồng trên HOSE....
 
