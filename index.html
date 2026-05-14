@@ -135,10 +135,10 @@
         </div>
         <header>
             <h1>Financial News Dashboard</h1>
-            <p class="stats">Cập nhật: 2026-05-14 11:11 | Tổng: 140 tin tức</p>
+            <p class="stats">Cập nhật: 2026-05-14 11:31 | Tổng: 139 tin tức</p>
             <div class="stats-detail">
                 <span style="color:#ef4444">★★★ Rất quan trọng: 23</span>
-                <span style="color:#f59e0b">★★☆ Quan trọng: 41</span>
+                <span style="color:#f59e0b">★★☆ Quan trọng: 40</span>
                 <span style="color:#94a3b8">★☆☆ Bình thường: 76</span>
             </div>
         </header>
@@ -146,9 +146,9 @@
         <div class="controls">
             <div class="controls-label">🔍 Lọc theo nguồn</div>
             <button class="filter-btn active" onclick="filterSource('all')">Tất cả</button>
-<button class="filter-btn" onclick="filterSource('CafeF')">CafeF (35)</button>
-<button class="filter-btn" onclick="filterSource('VNeconomy')">VNeconomy (53)</button>
+<button class="filter-btn" onclick="filterSource('CafeF')">CafeF (34)</button>
 <button class="filter-btn" onclick="filterSource('Vietstock')">Vietstock (20)</button>
+<button class="filter-btn" onclick="filterSource('VNeconomy')">VNeconomy (53)</button>
 <button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (32)</button>
 
         </div>
@@ -157,11 +157,31 @@
             <div class="controls-label">⭐ Lọc theo mức độ quan trọng</div>
             <button class="filter-btn active" onclick="filterImportance('all')">Tất cả</button>
             <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (23)</button>
-            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (41)</button>
+            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (40)</button>
             <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (76)</button>
         </div>
 
         <div class="grid" id="newsGrid">
+            
+            <a href="https://cafef.vn/dau-tu-thuong-mai-smc-muon-huy-dong-hon-368-ty-dong-tu-co-dong-de-tra-no-188260514112146077.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" style="">
+                <div class="card-header">
+                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Đầu tư Thương mại SMC muốn huy động hơn 368 tỷ đồng từ cổ đông để trả nợ</h2>
+                <div class="date">📅 Thu, 14 May 26 11:24:00 +0700</div>
+                <p class="summary">Đầu tư Thương mại SMC muốn chào bán hơn 36,8 triệu cổ phiếu cho cổ đông với giá 10.000 đồng/cổ phiếu, nhằm huy động hơn 368 tỷ đồng để thanh toán các khoản nợ vay và nợ nhà cung cấp của công ty.</p>
+            </a>
+            
+            <a href="http://vietstock.vn/2026/05/nhip-dap-thi-truong-1405-tao-mau-hinh-chu-v-ngay-dau-phien-1636-1442403.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" style="">
+                <div class="card-header">
+                    <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Nhịp đập Thị trường 14/05: Tạo mẫu hình “chữ V” ngay đầu phiên</h2>
+                <div class="date">📅 Thu, 14 May 2026 10:55:07 +0700</div>
+                <p class="summary">VN-Index mở đầu phiên 14/05 vô cùng rung lắc khi có lúc điều chỉnh về 1,885 điểm nhưng lập tức hồi phục trở về mốc 1,900 điểm.</p>
+            </a>
             
             <a href="https://cafef.vn/mot-van-ban-quan-trong-co-the-day-nhanh-tien-do-gpmb-ctck-chi-ra-loat-doanh-nghiep-bat-dong-san-du-bao-huong-loi-188260514104732194.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
@@ -973,26 +993,6 @@
                 <p class="summary">VN-Index hồi phục nhưng khối lượng giao dịch sụt giảm xuống dưới mức trung bình 20 ngày cho thấy tâm lý thận trọng của nhà đầu tư. Chỉ báo Stochastic Oscillator đã cắt xuống đường signal trong vùng overbought nên tình trạng rung lắc nhiều khả năng sẽ còn tiếp diễn trong những phiên tới.</p>
             </a>
             
-            <a href="https://cafef.vn/kiem-soat-hoat-dong-cua-nguoi-hanh-nghe-moi-gioi-chung-khoan-tren-mang-xa-hoi-188260512175208987.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" style="">
-                <div class="card-header">
-                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Kiểm soát hoạt động của người hành nghề môi giới chứng khoán trên mạng xã hội</h2>
-                <div class="date">📅 Tue, 12 May 26 17:52:00 +0700</div>
-                <p class="summary">Cần rà soát hoạt động của môi giới chứng khoán nhằm bảo đảm không thực hiện những hoạt động khuyến nghị, tư vấn vượt quá phạm vi.</p>
-            </a>
-            
-            <a href="https://cafef.vn/vn-index-tro-lai-moc-1900-diem-dong-tien-tim-den-co-phieu-bat-dong-san-188260512175253.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" style="border-left: 4px solid #f59e0b;">
-                <div class="card-header">
-                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
-                </div>
-                <h2>VN-Index trở lại mốc 1.900 điểm, dòng tiền tìm đến cổ phiếu bất động sản</h2>
-                <div class="date">📅 Tue, 12 May 26 17:52:00 +0700</div>
-                <p class="summary">Thị trường chứng khoán ngày 12-5 ghi nhận nhịp hồi phục đáng chú ý khi VN-Index lấy lại mốc 1.900 điểm sau phiên rung lắc mạnh đầu ngày</p>
-            </a>
-            
             <a href="http://vietstock.vn/2026/05/nhip-dap-thi-truong-1205-ap-luc-ban-ha-nhiet-vn-index-tro-lai-vung-1900-1636-1441235.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" style="">
                 <div class="card-header">
                     <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
@@ -1081,16 +1081,6 @@
                 <h2>Một công ty chứng khoán hạ dự báo tăng trưởng VN-Index do rủi ro bên ngoài</h2>
                 <div class="date">📅 Tue, 12 May 2026 06:46:27 GMT</div>
                 <p class="summary">Dự b#225;o VN-Index đ#243;ng cửa tại 1.967 điểm, tăng 10,2% so với năm 2025 thấp hơn mức dự b#225;o 2.100 điểm được đưa ra đầu năm do phản #225;nh rủi ro bất định từ b#234;n ngo#224;i.</p>
-            </a>
-            
-            <a href="http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-1205-tiep-tuc-dieu-chinh-585-1441309.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" style="">
-                <div class="card-header">
-                    <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Phân tích kỹ thuật phiên chiều 12/05: Tiếp tục điều chỉnh</h2>
-                <div class="date">📅 Tue, 12 May 2026 13:08:50 +0700</div>
-                <p class="summary">VN-Index tiếp tục điều chỉnh sau khi không thể vượt qua đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index tiếp tục tăng điểm và đang kiểm tra lại đường SMA 50 ngày trong bối cảnh khối lượng giao dịch trồi sụt thất thường.</p>
             </a>
             
             <a href="https://vnexpress.net/sjc-lai-ky-luc-du-doanh-thu-thap-nhat-10-nam-5072912.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="2" style="border-left: 4px solid #f59e0b;">

@@ -1,6 +1,6 @@
-# Báo cáo tin tức thị trường (2026-05-14 11:11)
+# Báo cáo tin tức thị trường (2026-05-14 11:31)
 
-Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **139** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
 - ★★★ **[Chứng khoán Mỹ lập kỷ lục nhờ cổ phiếu công nghệ, giá dầu giảm vì mối lo lãi suất cao hơn lâu hơn](https://vneconomy.vn/chung-khoan-my-lap-ky-luc-nho-co-phieu-cong-nghe-gia-dau-giam-vi-moi-lo-lai-suat-cao-hon-lau-hon.htm)**
@@ -240,6 +240,10 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 12 May 2026 19:38:00 +0700)*
   - Trong phiên thị trường chứng khoán bật tăng trong phiên chiều đầy hứng khởi, khối tự doanh công ty chứng khoán và nhà đầu tư nước ngoài lại đồng thuận bán ròng....
 
+- ★☆☆ **[Nhịp đập Thị trường 14/05: Tạo mẫu hình “chữ V” ngay đầu phiên](http://vietstock.vn/2026/05/nhip-dap-thi-truong-1405-tao-mau-hinh-chu-v-ngay-dau-phien-1636-1442403.htm)**
+  - *(Thu, 14 May 2026 10:55:07 +0700)*
+  - VN-Index mở đầu phiên 14/05 vô cùng rung lắc khi có lúc điều chỉnh về 1,885 điểm nhưng lập tức hồi phục trở về mốc 1,900 điểm....
+
 - ★☆☆ **[Hơn nửa số mã dầu khí vẫn giữ xu hướng tăng dài hạn suốt 5 tháng](http://vietstock.vn/2026/05/hon-nua-so-ma-dau-khi-van-giu-xu-huong-tang-dai-han-suot-5-thang-830-1442029.htm)**
   - *(Thu, 14 May 2026 09:02:00 +0700)*
   - Sau nhịp tăng mạnh đầu năm 2026, nhóm dầu khí đã trải qua giai đoạn điều chỉnh sâu khi hàng loạt cổ phiếu đầu ngành giảm 30-50% so với vùng đỉnh gần nhất. Tuy nhiên, dòng tiền tại nhóm này vẫn chưa rú...
@@ -291,10 +295,6 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Nhịp đập Thị trường 12/05: Áp lực bán hạ nhiệt, VN-Index trở lại vùng 1,900](http://vietstock.vn/2026/05/nhip-dap-thi-truong-1205-ap-luc-ban-ha-nhiet-vn-index-tro-lai-vung-1900-1636-1441235.htm)**
   - *(Tue, 12 May 2026 16:52:00 +0700)*
   - Thị trường thót tim với pha giảm mạnh của VIC trong ATC, tuy vậy, mọi thứ nhanh chóng qua đi. Kết phiên, VN-Index dừng ở 1,901.1 điểm. HNX-Index có một phiên tích cực khi tăng tới hơn 5 điểm, tương ứn...
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 12/05: Tiếp tục điều chỉnh](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-1205-tiep-tuc-dieu-chinh-585-1441309.htm)**
-  - *(Tue, 12 May 2026 13:08:50 +0700)*
-  - VN-Index tiếp tục điều chỉnh sau khi không thể vượt qua đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index tiếp tục tăng điểm và đang kiểm tra lại đường SMA 50 ngày trong bối cản...
 
 ## VnExpress Business
 - ★★★ **[Phó thủ tướng: FDI thế hệ mới phải tạo giá trị cho Việt Nam](https://vnexpress.net/pho-thu-tuong-fdi-the-he-moi-phai-tao-gia-tri-cho-viet-nam-5073553.html)**
@@ -498,9 +498,9 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 12 May 26 18:24:00 +0700)*
   - Sau pha điều chỉnh ở phiên trước, thị trường chứng khoán hôm nay (12/5) hồi phục trở lại khi VN-Index lấy lại mốc 1.900 điểm. Dòng tiền tập trung vào nhóm ngân hàng và dầu khí, trong đó STB trở thành ...
 
-- ★★☆ **[VN-Index trở lại mốc 1.900 điểm, dòng tiền tìm đến cổ phiếu bất động sản](https://cafef.vn/vn-index-tro-lai-moc-1900-diem-dong-tien-tim-den-co-phieu-bat-dong-san-188260512175253.chn)**
-  - *(Tue, 12 May 26 17:52:00 +0700)*
-  - Thị trường chứng khoán ngày 12-5 ghi nhận nhịp hồi phục đáng chú ý khi VN-Index lấy lại mốc 1.900 điểm sau phiên rung lắc mạnh đầu ngày...
+- ★☆☆ **[Đầu tư Thương mại SMC muốn huy động hơn 368 tỷ đồng từ cổ đông để trả nợ](https://cafef.vn/dau-tu-thuong-mai-smc-muon-huy-dong-hon-368-ty-dong-tu-co-dong-de-tra-no-188260514112146077.chn)**
+  - *(Thu, 14 May 26 11:24:00 +0700)*
+  - Đầu tư Thương mại SMC muốn chào bán hơn 36,8 triệu cổ phiếu cho cổ đông với giá 10.000 đồng/cổ phiếu, nhằm huy động hơn 368 tỷ đồng để thanh toán các khoản nợ vay và nợ nhà cung cấp của công ty....
 
 - ★☆☆ **[Quỹ Đầu tư do bà Nguyễn Thanh Phượng làm Chủ tịch bán hết cổ phiếu VCI](https://cafef.vn/quy-dau-tu-do-ba-nguyen-thanh-phuong-lam-chu-tich-ban-het-co-phieu-vci-188260514080941252.chn)**
   - *(Thu, 14 May 26 08:30:00 +0700)*
@@ -561,8 +561,4 @@ Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Quy mô tài sản truyền thống lên tới 1,6 nghìn tỷ USD, Việt Nam có tiềm năng lớn mã hóa tài sản thực](https://cafef.vn/quy-mo-tai-san-truyen-thong-len-toi-16-nghin-ty-usd-viet-nam-co-tiem-nang-lon-ma-hoa-tai-san-thuc-188260512212342162.chn)**
   - *(Tue, 12 May 26 21:23:00 +0700)*
   - Chuyên gia tài chính cấp cao đến từ Singapore cho rằng khung pháp lý và sự ủng hộ từ Chính phủ sẽ tiếp tục đóng vai trò quan trọng trong quá trình phát triển của thị trường tài sản mã hóa....
-
-- ★☆☆ **[Kiểm soát hoạt động của người hành nghề môi giới chứng khoán trên mạng xã hội](https://cafef.vn/kiem-soat-hoat-dong-cua-nguoi-hanh-nghe-moi-gioi-chung-khoan-tren-mang-xa-hoi-188260512175208987.chn)**
-  - *(Tue, 12 May 26 17:52:00 +0700)*
-  - Cần rà soát hoạt động của môi giới chứng khoán nhằm bảo đảm không thực hiện những hoạt động khuyến nghị, tư vấn vượt quá phạm vi....
 
