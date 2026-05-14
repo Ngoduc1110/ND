@@ -25,6 +25,7 @@ echo.
 echo [*] Buoc 2: Xu ly du lieu va tao bao cao HTML...
 C:\Users\ducnx\.venv\Scripts\python.exe main.py
 C:\Users\ducnx\.venv\Scripts\python.exe ..\update_news.py
+C:\Users\ducnx\.venv\Scripts\python.exe ..\generate_market_dashboard.py
 
 echo.
 echo [*] Buoc 3: Day du lieu len GitHub...

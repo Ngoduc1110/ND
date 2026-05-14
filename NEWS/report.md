@@ -1,6 +1,6 @@
-# Báo cáo tin tức thị trường (2026-05-14 09:46)
+# Báo cáo tin tức thị trường (2026-05-14 10:35)
 
-Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
 - ★★★ **[Chứng khoán Mỹ lập kỷ lục nhờ cổ phiếu công nghệ, giá dầu giảm vì mối lo lãi suất cao hơn lâu hơn](https://vneconomy.vn/chung-khoan-my-lap-ky-luc-nho-co-phieu-cong-nghe-gia-dau-giam-vi-moi-lo-lai-suat-cao-hon-lau-hon.htm)**
@@ -220,6 +220,10 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 2026 19:00:32 +0700)*
   - Trong phiên rung lắc của thị trường, cả khối tự doanh và khối ngoại đều bán ròng....
 
+- ★★☆ **[Ngày 14/05/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/05/ngay-14052026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1442206.htm)**
+  - *(Thu, 14 May 2026 10:00:00 +0700)*
+  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: GEX, HDB, MSN, MBB, NLG, SHB, TPB, TCB, VPB, VNM....
+
 - ★★☆ **[Một doanh nghiệp cao su bất ngờ tăng trần 5 phiên, HOSE yêu cầu giải trình](http://vietstock.vn/2026/05/mot-doanh-nghiep-cao-su-bat-ngo-tang-tran-5-phien-hose-yeu-cau-giai-trinh-830-1442288.htm)**
   - *(Wed, 13 May 2026 19:17:24 +0700)*
   - Trong 5 phiên liên tiếp từ 07-13/05/2026, cổ phiếu HRC của CTCP Cao su Hòa Bình (Horuco) đều tím trần. Với diễn biến này, Sở Giao dịch Chứng khoán TP.HCM (HOSE) đã có văn bản yêu cầu Horuco giải trình...
@@ -292,10 +296,6 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 12 May 2026 13:08:50 +0700)*
   - VN-Index tiếp tục điều chỉnh sau khi không thể vượt qua đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index tiếp tục tăng điểm và đang kiểm tra lại đường SMA 50 ngày trong bối cản...
 
-- ★☆☆ **[UBCKNN yêu cầu CTCK giám sát việc nhân viên "phím hàng" trên mạng xã hội](http://vietstock.vn/2026/05/ubcknn-yeu-cau-ctck-giam-sat-viec-nhan-vien-phim-hang-tren-mang-xa-hoi-143-1441306.htm)**
-  - *(Tue, 12 May 2026 12:52:33 +0700)*
-  - UBCKNN vừa có văn bản gửi các công ty chứng khoán, yêu cầu tăng cường rà soát và giám sát hoạt động của người hành nghề chứng khoán trên mạng xã hội, trong bối cảnh các nội dung phân tích, khuyến nghị...
-
 ## VnExpress Business
 - ★★★ **[Phó thủ tướng: FDI thế hệ mới phải tạo giá trị cho Việt Nam](https://vnexpress.net/pho-thu-tuong-fdi-the-he-moi-phai-tao-gia-tri-cho-viet-nam-5073553.html)**
   - *(Wed, 13 May 2026 19:00:10 +0700)*
@@ -320,10 +320,6 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
 - ★★★ **[CEO Nvidia, Apple sẽ cùng ông Trump đến Trung Quốc](https://vnexpress.net/ceo-nvidia-apple-se-cung-ong-trump-den-trung-quoc-5071620.html)**
   - *(Sat, 09 May 2026 00:00:00 +0700)*
   - Hơn 10 lãnh đạo doanh nghiệp, trong đó có CEO Nvidia, Apple, Qualcomm, Citigroup và Boeing sẽ cùng Tổng thống Mỹ đến Trung Quốc tuần tới....
-
-- ★★★ **[Thủ tướng Sri Lanka muốn doanh nghiệp Việt tăng hợp tác thương mại, hàng không](https://vnexpress.net/thu-tuong-sri-lanka-muon-doanh-nghiep-viet-tang-hop-tac-thuong-mai-hang-khong-5071709.html)**
-  - *(Fri, 08 May 2026 21:48:02 +0700)*
-  - Thủ tướng Sri Lanka muốn doanh nghiệp Việt mở rộng hợp tác trong lĩnh vực thương mại, chế biến thực phẩm, logistics, hàng không và du lịch....
 
 - ★★☆ **[Cổ phiếu dầu khí hút tiền nhà đầu tư trong nước](https://vnexpress.net/co-phieu-dau-khi-hut-tien-nha-dau-tu-trong-nuoc-5073515.html)**
   - *(Wed, 13 May 2026 16:25:11 +0700)*
@@ -434,6 +430,10 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 26 17:30:00 +0700)*
   - Phát biểu tại Diễn đàn Nhịp cầu Phát triển Việt Nam 2026 chiều nay, 13/5, Phó Thủ tướng Nguyễn Văn Thắng nhấn mạnh, FDI thế hệ mới không chỉ đến Việt Nam để sản xuất, để khai thác thị trường, mà cần c...
 
+- ★★☆ **[Cục trưởng Cục Phát triển DNNN: Huy động vốn qua thị trường chứng khoán là một kênh quan trọng đối với DNNN đã cổ phần hoá](https://cafef.vn/cuc-truong-cuc-phat-trien-dnnn-huy-dong-von-qua-thi-truong-chung-khoan-la-mot-kenh-quan-trong-doi-voi-dnnn-da-co-phan-hoa-188260514101608969.chn)**
+  - *(Thu, 14 May 26 10:16:00 +0700)*
+  - Cùng với chủ trương đẩy mạnh cổ phần hoá, thoái vốn, tuy giảm mạnh về số lượng nhưng các DNNN vẫn nắm giữ nguồn lực lớn về vốn, tài sản, công nghệ, nhân lực chất lượng cao, đóng góp đáng kể vào ngân s...
+
 - ★★☆ **[Chủ tịch UBCKNN chỉ ra yếu tố "sống còn" để chứng khoán Việt Nam thu hút dòng vốn ngoại](https://cafef.vn/chu-tich-ubcknn-chi-ra-yeu-to-song-con-de-chung-khoan-viet-nam-thu-hut-dong-von-ngoai-188260514094307668.chn)**
   - *(Thu, 14 May 26 09:42:00 +0700)*
   - Theo lãnh đạo UBCKNN, việc minh bạch hóa thông tin và huy động vốn thông qua thị trường quốc tế là yếu tố rất quan trọng, đặc biệt trong việc thu hút các nhà đầu tư tổ chức và nhà đầu tư nước ngoài có...
@@ -497,10 +497,6 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[VN-Index trở lại mốc 1.900 điểm, dòng tiền tìm đến cổ phiếu bất động sản](https://cafef.vn/vn-index-tro-lai-moc-1900-diem-dong-tien-tim-den-co-phieu-bat-dong-san-188260512175253.chn)**
   - *(Tue, 12 May 26 17:52:00 +0700)*
   - Thị trường chứng khoán ngày 12-5 ghi nhận nhịp hồi phục đáng chú ý khi VN-Index lấy lại mốc 1.900 điểm sau phiên rung lắc mạnh đầu ngày...
-
-- ★★☆ **[Cổ phiếu Sacombank (STB) tăng cận trần sau biến động nhân sự cấp cao](https://cafef.vn/co-phieu-sacombank-stb-tang-can-tran-sau-bien-dong-nhan-su-cap-cao-188260512160131532.chn)**
-  - *(Tue, 12 May 26 16:44:00 +0700)*
-  - Cổ phiếu STB của Sacombank bất ngờ trở thành tâm điểm hút dòng tiền từ các nhà đầu tư trong phiên 12/5, khi tăng cận trần – lập đỉnh giá lịch sử mới ngay sau thông tin ngân hàng bổ nhiệm nhân sự cấp c...
 
 - ★☆☆ **[Quỹ Đầu tư do bà Nguyễn Thanh Phượng làm Chủ tịch bán hết cổ phiếu VCI](https://cafef.vn/quy-dau-tu-do-ba-nguyen-thanh-phuong-lam-chu-tich-ban-het-co-phieu-vci-188260514080941252.chn)**
   - *(Thu, 14 May 26 08:30:00 +0700)*
@@ -569,8 +565,4 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Tự doanh CTCK liên tục bán ra hàng trăm tỷ đồng một cổ phiếu họ Gelex](https://cafef.vn/tu-doanh-ctck-lien-tuc-ban-ra-hang-tram-ty-dong-mot-co-phieu-ho-gelex-188260512174822907.chn)**
   - *(Tue, 12 May 26 17:48:00 +0700)*
   - Tự doanh CTCK bán ròng 164 tỷ đồng trên HOSE....
-
-- ★☆☆ **[Đại diện UBCKNN: Khi nào có sàn giao dịch tài sản mã hoá đầu tiên phụ thuộc hoàn toàn vào năng lực của doanh nghiệp](https://cafef.vn/dai-dien-ubcknn-bao-gio-co-san-giao-dich-tai-san-ma-hoa-dau-tien-phu-thuoc-hoan-toan-vao-nang-luc-cua-doanh-nghiep-188260512165347989.chn)**
-  - *(Tue, 12 May 26 16:53:00 +0700)*
-  - Liên quan tới lộ trình triển khai thị trường tài sản mã hóa chính thức, ông Hòa cho biết tiến độ hiện nay không phụ thuộc vào cơ quan quản lý mà phụ thuộc chủ yếu vào năng lực của doanh nghiệp....
 
