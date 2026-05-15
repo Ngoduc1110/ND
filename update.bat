@@ -28,6 +28,16 @@ C:\Users\ducnx\.venv\Scripts\python.exe ..\update_news.py
 C:\Users\ducnx\.venv\Scripts\python.exe ..\generate_market_dashboard.py
 
 echo.
+echo [*] Buoc 2.1: Dong bo file tu thu muc goc vao repo...
+copy /Y "..\index.html" "index.html" >nul
+copy /Y "..\market_dashboard.html" "market_dashboard.html" >nul
+copy /Y "..\institutional_report.html" "institutional_report.html" >nul
+copy /Y "..\industry_report.html" "industry_report.html" >nul
+if not exist "NEWS" mkdir "NEWS"
+xcopy /Y /E /I "..\NEWS\*" "NEWS\" >nul
+echo [+] Da dong bo file thanh cong.
+
+echo.
 echo [*] Buoc 3: Day du lieu len GitHub...
 git add .
 

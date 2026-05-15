@@ -1,4 +1,4 @@
-# Báo cáo tin tức thị trường (2026-05-15 09:49)
+# Báo cáo tin tức thị trường (2026-05-15 09:56)
 
 Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
@@ -498,7 +498,7 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Fri, 15 May 26 07:28:00 +0700)*
   - Hơn 10 lãnh đạo doanh nghiệp hàng đầu của Mỹ, trong đó có CEO Tesla Elon Musk, CEO Apple Tim Cook tháp tùng Tổng thống Donald Trump tới Bắc Kinh, Trung Quốc vào rạng sáng 14/5 (theo giờ địa phương)....
 
-- ★☆☆ **[Dragon Capital: Giá cổ phiếu còn dưa địa để phản ánh sát hơn nền tảng doanh nghiệp](https://cafef.vn/dragon-capital-gia-co-phieu-con-dua-dia-de-phan-anh-sat-hon-nen-tang-doanh-nghiep-188260514223457193.chn)**
+- ★☆☆ **[Dragon Capital: Giá cổ phiếu còn dư địa để phản ánh sát hơn nền tảng doanh nghiệp](https://cafef.vn/dragon-capital-gia-co-phieu-con-dua-dia-de-phan-anh-sat-hon-nen-tang-doanh-nghiep-188260514223457193.chn)**
   - *(Fri, 15 May 26 00:01:00 +0700)*
   - Trong báo cáo mới nhất, Dragon Capital cho rằng câu chuyện nâng hạng không phải là điểm tựa duy nhất của thị trường....
 
