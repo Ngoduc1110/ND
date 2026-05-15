@@ -1,6 +1,6 @@
-# Báo cáo tin tức thị trường (2026-05-15 19:02)
+# Báo cáo tin tức thị trường (2026-05-15 19:09)
 
-Tổng cộng: **137** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **136** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
 - ★★★ **[Ba cổ phiếu ngân hàng tiềm năng tăng giá tốt nhất trong bối cảnh lãi suất cao đe dọa NIM, nợ xấu tăng](https://vneconomy.vn/ba-co-phieu-ngan-hang-tiem-nang-tang-gia-tot-nhat-trong-boi-canh-lai-suat-cao-de-doa-nim-no-xau-tang.htm)**
@@ -489,10 +489,6 @@ Tổng cộng: **137** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[Gelex Electric tăng vốn điều lệ vượt 6.400 tỷ đồng sau đợt phát hành cổ phiếu thưởng](https://cafef.vn/gelex-electric-tang-von-dieu-le-vuot-6400-ty-dong-sau-dot-phat-hanh-co-phieu-thuong-188260513164543308.chn)**
   - *(Wed, 13 May 26 17:09:00 +0700)*
   - Kết thúc đợt phát hành ngày 6/5/2026, Gelex Electric đã phân phối thành công gần 274,5 triệu cổ phiếu cho 5.060 cổ đông, qua đó tăng vốn điều lệ lên mức gần 6.405 tỷ đồng....
-
-- ★★☆ **[Công bố giá xăng E10 Petrolimex](https://cafef.vn/cong-bo-gia-xang-e10-petrolimex-188260513154754794.chn)**
-  - *(Wed, 13 May 26 16:45:00 +0700)*
-  - Tập đoàn Xăng dầu Việt Nam (Petrolimex) vừa thông báo giá bán xăng sinh học E10 RON 95 áp dụng từ ngày 0h ngày 13/5. Theo đó, giá bán xăng sinh học E10 RON 95-V tại cửa hàng xăng dầu tại thị trường vù...
 
 - ★☆☆ **[Chứng khoán Việt Nam "gồng mình" giữa lúc thị trường châu Á đỏ lửa](https://cafef.vn/chung-khoan-viet-nam-gong-minh-giua-luc-thi-truong-chau-a-do-lua-188260515184509181.chn)**
   - *(Fri, 15 May 26 18:45:00 +0700)*
