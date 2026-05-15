@@ -1,4 +1,4 @@
-# Báo cáo tin tức thị trường (2026-05-15 18:33)
+# Báo cáo tin tức thị trường (2026-05-15 19:02)
 
 Tổng cộng: **137** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
@@ -220,9 +220,9 @@ Tổng cộng: **137** tin tức liên quan đến thị trường chứng khoá
   - *(Thu, 14 May 2026 16:37:00 +0700)*
   - Sau phiên sáng ngập tràn điểm nhấn, thị trường phiên chiều lại thiên về giằng co trong biên độ hẹp....
 
-- ★★★ **[Theo dấu dòng tiền cá mập 13/05: Khối ngoại bán ròng phiên thứ mười bốn liên tiếp](http://vietstock.vn/2026/05/theo-dau-dong-tien-ca-map-1305-khoi-ngoai-ban-rong-phien-thu-muoi-bon-lien-tiep-830-1442280.htm)**
-  - *(Wed, 13 May 2026 19:00:32 +0700)*
-  - Trong phiên rung lắc của thị trường, cả khối tự doanh và khối ngoại đều bán ròng....
+- ★★☆ **[Chứng khoán Tuần 11-15/05/2026: Đỉnh cao gió lớn](http://vietstock.vn/2026/05/chung-khoan-tuan-11-15052026-dinh-cao-gio-lon-1636-1443135.htm)**
+  - *(Fri, 15 May 2026 18:16:40 +0700)*
+  - VN-Index điều chỉnh trở lại trong phiên cuối tuần sau khi thiết lập đỉnh lịch sử mới. Dù nhóm cổ phiếu vốn hóa lớn đang luân phiên dẫn dắt và giữ nhịp cho chỉ số, phần còn lại của thị trường vẫn phân ...
 
 - ★★☆ **[DGC gấp rút kiểm toán báo cáo tài chính để cổ phiếu sớm thoát diện kiểm soát](http://vietstock.vn/2026/05/dgc-gap-rut-kiem-toan-bao-cao-tai-chinh-de-co-phieu-som-thoat-dien-kiem-soat-830-1442666.htm)**
   - *(Thu, 14 May 2026 18:48:56 +0700)*
@@ -421,10 +421,6 @@ Tổng cộng: **137** tin tức liên quan đến thị trường chứng khoá
   - *(Mon, 11 May 2026 21:19:05 +0700)*
   - Sau hơn 10 năm nắm giữ, một nhà đầu tư đã chuyển lượng Bitcoin trị giá 40 triệu USD sang ví mới trong bối cảnh tiền số phục hồi....
 
-- ★☆☆ **[VN-Index giảm gần 20 điểm phiên đầu tuần](https://vnexpress.net/vn-index-giam-gan-20-diem-phien-dau-tuan-5072618.html)**
-  - *(Mon, 11 May 2026 15:49:54 +0700)*
-  - Bốn cổ phiếu liên quan đến Vingroup đều giảm, dao động 1-6,5%, trở thành tác nhân chính khiến VN-Index mất gần 20 điểm trong phiên đầu tuần....
-
 ## CafeF
 - ★★★ **[FDI thế hệ mới cần cùng Việt Nam tạo ra giá trị mới, năng lực mới, vị thế mới](https://cafef.vn/fdi-the-he-moi-can-cung-viet-nam-tao-ra-gia-tri-moi-nang-luc-moi-vi-the-moi-188260513165309213.chn)**
   - *(Wed, 13 May 26 17:30:00 +0700)*
@@ -498,7 +494,11 @@ Tổng cộng: **137** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 26 16:45:00 +0700)*
   - Tập đoàn Xăng dầu Việt Nam (Petrolimex) vừa thông báo giá bán xăng sinh học E10 RON 95 áp dụng từ ngày 0h ngày 13/5. Theo đó, giá bán xăng sinh học E10 RON 95-V tại cửa hàng xăng dầu tại thị trường vù...
 
-- ★☆☆ **[Cổ phiếu trong hệ sinh thái của 'Bầu Thụy' dậy sóng](https://cafef.vn/co-phieu-trong-he-sinh-thai-cua-bau-thuy-day-song-188260515170812506.chn)**
+- ★☆☆ **[Chứng khoán Việt Nam "gồng mình" giữa lúc thị trường châu Á đỏ lửa](https://cafef.vn/chung-khoan-viet-nam-gong-minh-giua-luc-thi-truong-chau-a-do-lua-188260515184509181.chn)**
+  - *(Fri, 15 May 26 18:45:00 +0700)*
+  - Khép lại phiên giao dịch ngày 15-5, thị trường chứng khoán Việt Nam chịu áp lực điều chỉnh sau nhịp phục hồi mạnh trước đó...
+
+- ★☆☆ **[Sốt dòng tiền ở nhóm cổ phiếu dầu khí](https://cafef.vn/co-phieu-trong-he-sinh-thai-cua-bau-thuy-day-song-188260515170812506.chn)**
   - *(Fri, 15 May 26 17:57:00 +0700)*
   - Sau phiên lập đỉnh lịch sử 1.925 điểm, thị trường chứng khoán rung lắc mạnh trong ngày hôm nay (15/5) khi áp lực chốt lời lan rộng ở nhóm bluechip. Dù VN-Index giảm điểm, dòng tiền vẫn sôi động tại nh...
 

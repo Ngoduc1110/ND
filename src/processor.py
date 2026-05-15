@@ -31,12 +31,15 @@ class DataProcessor:
         return self.df
 
     def filter_recent_week(self):
-        """Filter data to only include the current business week (Monday to today)."""
+        """Filter data to include the 5 most recent trading days in the dataset."""
         if self.full_df is not None and not self.full_df.empty:
-            today = pd.Timestamp.now().normalize()
-            # Find Monday of the current week (dayofweek: 0=Mon, 6=Sun)
-            monday = today - pd.Timedelta(days=today.dayofweek)
-            self.df = self.full_df[(self.full_df['Date'] >= monday) & (self.full_df['Date'] <= today)]
+            # Get the unique dates present in the dataset, sorted descending
+            unique_dates = sorted(self.full_df['Date'].unique(), reverse=True)
+            # Take the 5 most recent dates
+            recent_dates = unique_dates[:5]
+            if recent_dates:
+                # Filter rows that belong to these dates
+                self.df = self.full_df[self.full_df['Date'].isin(recent_dates)]
         return self.df
 
     def filter_latest_day(self):
