@@ -1,6 +1,6 @@
-# Báo cáo tin tức thị trường (2026-05-15 09:56)
+# Báo cáo tin tức thị trường (2026-05-15 11:32)
 
-Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **137** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
 - ★★★ **[Chứng khoán Mỹ liên tục lập đỉnh dù giá dầu neo cao](https://vneconomy.vn/chung-khoan-my-lien-tuc-lap-dinh-du-gia-dau-neo-cao.htm)**
@@ -248,9 +248,9 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 2026 17:37:35 +0700)*
   - Ngày 13/05/2026, CTCP Tập đoàn Masan (HOSE: MSN) công bố công ty con mà Masan sở hữu 100% vốn đã hoàn tất việc bán 21.99 triệu cp, tương đương 2% tổng số cổ phiếu đang lưu hành của CTCP Masan High-Tec...
 
-- ★★☆ **[IDJ ký hợp đồng kiểm toán mới kỳ vọng khắc phục tình trạng cổ phiếu bị cảnh báo](http://vietstock.vn/2026/05/idj-ky-hop-dong-kiem-toan-moi-ky-vong-khac-phuc-tinh-trang-co-phieu-bi-canh-bao-830-1442032.htm)**
-  - *(Wed, 13 May 2026 17:12:43 +0700)*
-  - CTCP IDJ Việt Nam (HNX: IDJ) vừa báo cáo cơ quan quản lý về các biện pháp và lộ trình khắc phục tình trạng cổ phiếu bị cảnh báo, với trọng tâm là việc ký hợp đồng kiểm toán Báo cáo tài chính năm 2025 ...
+- ★☆☆ **[Chương trình IR Awards 2026 chính thức khởi động](http://vietstock.vn/2026/05/chuong-trinh-ir-awards-2026-chinh-thuc-khoi-dong-830-1442469.htm)**
+  - *(Fri, 15 May 2026 10:02:00 +0700)*
+  - Chương trình vinh danh Doanh nghiệp niêm yết có hoạt động IR tốt nhất năm 2026 (IR Awards 2026) chính thức được khởi động. Đây là năm thứ 16 sự kiện được tổ chức bởi Vietstock, phối hợp cùng Hiệp hội ...
 
 - ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 15/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-phien-1505-830-1441634.htm)**
   - *(Fri, 15 May 2026 08:00:00 +0700)*
@@ -426,6 +426,10 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 26 17:30:00 +0700)*
   - Phát biểu tại Diễn đàn Nhịp cầu Phát triển Việt Nam 2026 chiều nay, 13/5, Phó Thủ tướng Nguyễn Văn Thắng nhấn mạnh, FDI thế hệ mới không chỉ đến Việt Nam để sản xuất, để khai thác thị trường, mà cần c...
 
+- ★★☆ **[Hodeco sẽ phát hành gần 30 triệu cổ phiếu trả cổ tức](https://cafef.vn/hodeco-se-phat-hanh-gan-30-trieu-co-phieu-tra-co-tuc-188260515100220542.chn)**
+  - *(Fri, 15 May 26 10:02:00 +0700)*
+  - Hodeco sẽ phát hành gần 30 triệu cổ phiếu trả cổ tức. Thời gian thực hiện trong quý III/2026....
+
 - ★★☆ **[DDG đối diện nguy cơ hủy niêm yết sau chuỗi kinh doanh thua lỗ kéo dài](https://cafef.vn/ddg-doi-dien-nguy-co-huy-niem-yet-sau-chuoi-kinh-doanh-thua-lo-keo-dai-188260515085017664.chn)**
   - *(Fri, 15 May 26 08:50:00 +0700)*
   - Cổ phiếu DDG đang đứng trước nguy cơ bị hủy niêm yết bắt buộc sau nhiều năm chìm trong khó khăn tài chính. Không chỉ thua lỗ liên tiếp trong 3 năm, doanh nghiệp còn liên tục nhận ý kiến kiểm toán ngoạ...
@@ -490,10 +494,6 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 26 16:14:00 +0700)*
   - Phiên giao dịch ngày 13-5 ghi nhận diễn biến đầy biến động của thị trường chứng khoán khi áp lực bán mạnh xuất hiện ở nhóm cổ phiếu vốn hóa lớn...
 
-- ★★☆ **[SSIAM bắt tay 2 định chế tài chính, mở rộng cơ hội đầu tư và tài trợ vốn giữa Nhật Bản và Việt Nam](https://cafef.vn/ssiam-bat-tay-2-dinh-che-tai-chinh-mo-rong-co-hoi-dau-tu-va-tai-tro-von-giua-nhat-ban-va-viet-nam-188260513135311114.chn)**
-  - *(Wed, 13 May 26 13:53:00 +0700)*
-  - Phát huy chuyên môn, mạng lưới và nguồn lực của từng bên, SSIAM, CCIX và DCI sẽ chủ động tìm kiếm, cấu trúc và triển khai các cơ hội đầu tư và tài trợ vốn trung, dài hạn, góp phần thúc đẩy tăng trưởng...
-
 - ★☆☆ **[Dàn tỷ phú nổi tiếng thế giới tháp tùng Tổng thống Mỹ tới Trung Quốc](https://cafef.vn/dan-ty-phu-noi-tieng-the-gioi-thap-tung-tong-thong-my-toi-trung-quoc-188260515072904742.chn)**
   - *(Fri, 15 May 26 07:28:00 +0700)*
   - Hơn 10 lãnh đạo doanh nghiệp hàng đầu của Mỹ, trong đó có CEO Tesla Elon Musk, CEO Apple Tim Cook tháp tùng Tổng thống Donald Trump tới Bắc Kinh, Trung Quốc vào rạng sáng 14/5 (theo giờ địa phương)....
@@ -553,8 +553,4 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Người nhà lãnh đạo SeABank đăng ký mua 5 triệu cổ phiếu SSB](https://cafef.vn/nguoi-nha-lanh-dao-seabank-dang-ky-mua-5-trieu-co-phieu-ssb-188260513145128351.chn)**
   - *(Wed, 13 May 26 15:18:00 +0700)*
   - Ông Lê Hữu Báu, chồng của bà Nguyễn Thị Nga- Phó Chủ tịch thường trực HĐQT SeABank, vừa đăng ký mua 5 triệu cổ phiếu SSB nhằm mục đích tăng tỷ lệ sở hữu....
-
-- ★☆☆ **[Một doanh nghiệp “lạ” trả cổ tức kỷ lục 60% bằng tiền mặt](https://cafef.vn/mot-doanh-nghiep-la-tra-co-tuc-ky-luc-60-bang-tien-mat-18826051314410115.chn)**
-  - *(Wed, 13 May 26 14:41:00 +0700)*
-  - Đây là công ty duy nhất trên sàn bán các loại kềm....
 

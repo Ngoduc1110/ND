@@ -135,10 +135,10 @@
         </div>
         <header>
             <h1>Financial News Dashboard</h1>
-            <p class="stats">Cập nhật: 2026-05-15 09:56 | Tổng: 138 tin tức</p>
+            <p class="stats">Cập nhật: 2026-05-15 11:32 | Tổng: 137 tin tức</p>
             <div class="stats-detail">
                 <span style="color:#ef4444">★★★ Rất quan trọng: 24</span>
-                <span style="color:#f59e0b">★★☆ Quan trọng: 43</span>
+                <span style="color:#f59e0b">★★☆ Quan trọng: 42</span>
                 <span style="color:#94a3b8">★☆☆ Bình thường: 71</span>
             </div>
         </header>
@@ -146,7 +146,7 @@
         <div class="controls">
             <div class="controls-label">🔍 Lọc theo nguồn</div>
             <button class="filter-btn active" onclick="filterSource('all')">Tất cả</button>
-<button class="filter-btn" onclick="filterSource('CafeF')">CafeF (34)</button>
+<button class="filter-btn" onclick="filterSource('CafeF')">CafeF (33)</button>
 <button class="filter-btn" onclick="filterSource('Vietstock')">Vietstock (19)</button>
 <button class="filter-btn" onclick="filterSource('VNeconomy')">VNeconomy (53)</button>
 <button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (32)</button>
@@ -157,11 +157,31 @@
             <div class="controls-label">⭐ Lọc theo mức độ quan trọng</div>
             <button class="filter-btn active" onclick="filterImportance('all')">Tất cả</button>
             <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (24)</button>
-            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (43)</button>
+            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (42)</button>
             <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (71)</button>
         </div>
 
         <div class="grid" id="newsGrid">
+            
+            <a href="https://cafef.vn/hodeco-se-phat-hanh-gan-30-trieu-co-phieu-tra-co-tuc-188260515100220542.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>Hodeco sẽ phát hành gần 30 triệu cổ phiếu trả cổ tức</h2>
+                <div class="date">📅 Fri, 15 May 26 10:02:00 +0700</div>
+                <p class="summary">Hodeco sẽ phát hành gần 30 triệu cổ phiếu trả cổ tức. Thời gian thực hiện trong quý III/2026.</p>
+            </a>
+            
+            <a href="http://vietstock.vn/2026/05/chuong-trinh-ir-awards-2026-chinh-thuc-khoi-dong-830-1442469.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" style="">
+                <div class="card-header">
+                    <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Chương trình IR Awards 2026 chính thức khởi động</h2>
+                <div class="date">📅 Fri, 15 May 2026 10:02:00 +0700</div>
+                <p class="summary">Chương trình vinh danh Doanh nghiệp niêm yết có hoạt động IR tốt nhất năm 2026 (IR Awards 2026) chính thức được khởi động. Đây là năm thứ 16 sự kiện được tổ chức bởi Vietstock, phối hợp cùng Hiệp hội Các nhà quản trị tài chính Việt Nam (VAFE), Tạp chí điện tử Tài chính và Cuộc sống (FiLi).</p>
+            </a>
             
             <a href="https://cafef.vn/ddg-doi-dien-nguy-co-huy-niem-yet-sau-chuoi-kinh-doanh-thua-lo-keo-dai-188260515085017664.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
@@ -793,16 +813,6 @@
                 <p class="summary">Bà Ngô Thị Minh Phương trở thành cổ đông lớn của CTCP Cơ khí 120 (UPCoM: CK8) sau khi mua vào 665.8 ngàn cổ phiếu. Ở chiều ngược lại, bà Trần Thị Yến Hà đã bán ra đúng bằng số lượng này và thoái sạch vốn CK8. Thương vụ sang tay diễn ra trong bối cảnh công ty đang đối mặt với nguy cơ bị hủy tư cách đại chúng do vốn chủ sở hữu rớt xuống mức âm.</p>
             </a>
             
-            <a href="http://vietstock.vn/2026/05/idj-ky-hop-dong-kiem-toan-moi-ky-vong-khac-phuc-tinh-trang-co-phieu-bi-canh-bao-830-1442032.htm" target="_blank" class="card" data-source="Vietstock" data-importance="2" style="border-left: 4px solid #f59e0b;">
-                <div class="card-header">
-                    <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
-                </div>
-                <h2>IDJ ký hợp đồng kiểm toán mới kỳ vọng khắc phục tình trạng cổ phiếu bị cảnh báo</h2>
-                <div class="date">📅 Wed, 13 May 2026 17:12:43 +0700</div>
-                <p class="summary">CTCP IDJ Việt Nam (HNX: IDJ) vừa báo cáo cơ quan quản lý về các biện pháp và lộ trình khắc phục tình trạng cổ phiếu bị cảnh báo, với trọng tâm là việc ký hợp đồng kiểm toán Báo cáo tài chính năm 2025 với Công ty TNHH Kiểm toán và Tư vấn UHY (UHY). Công ty cho biết sẽ thực hiện việc Công bố Báo cáo tài chính 2025 đã được kiểm toán đúng theo các quy định của pháp luật để sớm đưa cổ phiếu ra khỏi diện bị cảnh báo</p>
-            </a>
-            
             <a href="https://cafef.vn/gelex-electric-tang-von-dieu-le-vuot-6400-ty-dong-sau-dot-phat-hanh-co-phieu-thuong-188260513164543308.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
                     <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
@@ -953,16 +963,6 @@
                 <p class="summary">SSI, CCI CrossBorder (CCIX) v#224; Daiwa Corporate Investment (DCI) vừa k#253; kết Thỏa thuận hợp tác nhằm thiết lập khu#244;n khổ hợp t#225;c chiến lược, hướng tới tạo lập v#224; mở rộng c#225;c cơ hội đồng đầu tư v#224; k#234;́t n#244;́i t#224;i trợ vốn giữa các định ch#234;́ tài chính Nhật Bản với c#225;c doanh nghiệp Việt Nam.</p>
             </a>
             
-            <a href="https://cafef.vn/mot-doanh-nghiep-la-tra-co-tuc-ky-luc-60-bang-tien-mat-18826051314410115.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" style="">
-                <div class="card-header">
-                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Một doanh nghiệp “lạ” trả cổ tức kỷ lục 60% bằng tiền mặt</h2>
-                <div class="date">📅 Wed, 13 May 26 14:41:00 +0700</div>
-                <p class="summary">Đây là công ty duy nhất trên sàn bán các loại kềm.</p>
-            </a>
-            
             <a href="https://vnexpress.net/phat-hien-gia-bitcoin-tuong-quan-voi-thi-truong-ca-cuoc-the-thao-5073356.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="1" style="">
                 <div class="card-header">
                     <span class="badge" style="background:rgba(239, 68, 68, 0.2);color:#ef4444;border:1px solid rgba(239, 68, 68, 0.3)">VnExpress Business</span>
@@ -981,16 +981,6 @@
                 <h2>Agribank thúc đẩy giải pháp ngân hàng số khu vực Tây Nam Bộ</h2>
                 <div class="date">📅 Wed, 13 May 2026 14:00:00 +0700</div>
                 <p class="summary">Agribank đẩy mạnh các giải pháp thanh toán không tiền mặt, mở rộng hạ tầng giao dịch, thúc đẩy tài chính số khu vực nông thôn Tây Nam Bộ.</p>
-            </a>
-            
-            <a href="https://cafef.vn/ssiam-bat-tay-2-dinh-che-tai-chinh-mo-rong-co-hoi-dau-tu-va-tai-tro-von-giua-nhat-ban-va-viet-nam-188260513135311114.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" style="border-left: 4px solid #f59e0b;">
-                <div class="card-header">
-                    <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
-                </div>
-                <h2>SSIAM bắt tay 2 định chế tài chính, mở rộng cơ hội đầu tư và tài trợ vốn giữa Nhật Bản và Việt Nam</h2>
-                <div class="date">📅 Wed, 13 May 26 13:53:00 +0700</div>
-                <p class="summary">Phát huy chuyên môn, mạng lưới và nguồn lực của từng bên, SSIAM, CCIX và DCI sẽ chủ động tìm kiếm, cấu trúc và triển khai các cơ hội đầu tư và tài trợ vốn trung, dài hạn, góp phần thúc đẩy tăng trưởng bền vững cho doanh nghiệp Việt Nam và nền kinh tế.</p>
             </a>
             
             <a href="https://vneconomy.vn/co-phieu-dau-khi-phuc-hoi-manh-gas-kich-tran.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="2" style="border-left: 4px solid #f59e0b;">
