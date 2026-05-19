@@ -31,15 +31,18 @@ class DataProcessor:
         return self.df
 
     def filter_recent_week(self):
-        """Filter data to include the 5 most recent trading days in the dataset."""
+        """Filter data to include only the trading sessions of the latest week present in the dataset (Monday to Friday)."""
         if self.full_df is not None and not self.full_df.empty:
-            # Get the unique dates present in the dataset, sorted descending
-            unique_dates = sorted(self.full_df['Date'].unique(), reverse=True)
-            # Take the 5 most recent dates
-            recent_dates = unique_dates[:5]
-            if recent_dates:
-                # Filter rows that belong to these dates
-                self.df = self.full_df[self.full_df['Date'].isin(recent_dates)]
+            # Find the latest date in the entire dataset
+            latest_date = self.full_df['Date'].max()
+            if pd.notna(latest_date):
+                # Normalize to midnight to avoid any time comparison issues
+                latest_date_normalized = latest_date.normalize() if hasattr(latest_date, 'normalize') else latest_date
+                # Calculate the Monday of the week that contains the latest date
+                # weekday() returns 0 for Monday, 1 for Tuesday, ..., 6 for Sunday
+                monday_of_latest_week = latest_date_normalized - pd.Timedelta(days=latest_date_normalized.weekday())
+                # Filter to include only dates from that Monday onwards
+                self.df = self.full_df[self.full_df['Date'] >= monday_of_latest_week]
         return self.df
 
     def filter_latest_day(self):

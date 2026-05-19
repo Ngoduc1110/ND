@@ -1,6 +1,171 @@
-# Báo cáo tin tức thị trường (2026-05-19 09:11)
+# Báo cáo tin tức thị trường (2026-05-19 10:11)
 
-Tổng cộng: **98** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **139** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+
+## CafeF
+- ★★★ **[Chuyên gia: Xuất hiện tín hiệu rung lắc, chọn lọc nhóm cổ phiếu hút tiền](https://cafef.vn/chuyen-gia-xuat-hien-tin-hieu-rung-lac-chon-loc-nhom-co-phieu-hut-tien-188260519074316348.chn)**
+  - *(Tue, 19 May 26 08:34:00 +0700)*
+  - Theo chuyên gia, rủi ro ngắn hạn áp đảo khi xung đột Trung Đông kéo dài có thể giữ giá dầu cao, khuếch đại áp lực tỷ giá và ngân hàng trong bối cảnh đòn bẩy doanh nghiệp cao....
+
+- ★★☆ **[Bộ Tài chính sửa đổi, bổ sung quy định giao dịch điện tử trên thị trường chứng khoán](https://cafef.vn/bo-tai-chinh-sua-doi-bo-sung-quy-dinh-giao-dich-dien-tu-tren-thi-truong-chung-khoan-188260519090329315.chn)**
+  - *(Tue, 19 May 26 09:03:00 +0700)*
+  - Bộ Tài chính đã dự thảo Thông tư quy định giao dịch điện tử trên thị trường chứng khoán nhằm thay thế Thông tư số 134/2017/TT-BTC ngày 19/12/2017....
+
+- ★★☆ **[Dòng tiền đổ mạnh vào cổ phiếu doanh nghiệp nhà nước](https://cafef.vn/dong-tien-do-manh-vao-co-phieu-doanh-nghiep-nha-nuoc-188260518200336407.chn)**
+  - *(Mon, 18 May 26 20:03:00 +0700)*
+  - Có lúc mất gần 13 điểm vì áp lực bán ở nhóm bất động sản và bán lẻ, VN-Index vẫn bất ngờ đảo chiều tăng mạnh trong phiên 18/5 nhờ dòng tiền đổ dồn vào nhóm doanh nghiệp nhà nước, ngân hàng và dầu khí....
+
+- ★★☆ **[Cổ phiếu Big4 và dầu khí kéo VN-Index thoát hiểm phiên đầu tuần](https://cafef.vn/co-phieu-big4-va-dau-khi-keo-vn-index-thoat-hiem-phien-dau-tuan-188260518180356267.chn)**
+  - *(Mon, 18 May 26 18:06:00 +0700)*
+  - Lực kéo từ 3 cổ phiếu trụ của nhóm ngân hàng là VCB, BID và CTG cùng cổ phiếu dầu khí giúp VN-Index bật tăng về cuối phiên, trong bối cảnh dòng tiền vẫn thận trọng và thị trường rung lắc mạnh....
+
+- ★★☆ **[Doanh nghiệp 'đua' phát hành trái phiếu](https://cafef.vn/doanh-nghiep-dua-phat-hanh-trai-phieu-188260518154328149.chn)**
+  - *(Mon, 18 May 26 16:06:00 +0700)*
+  - Trong tháng 4, thị trường ghi nhận 20 đợt phát hành trái phiếu doanh nghiệp riêng lẻ thành công với tổng giá trị hơn 41.300 tỷ đồng, tăng khoảng 52% so với tháng trước đó. Đây cũng là mức phát hành ca...
+
+- ★★☆ **[Xếp dỡ Hải An đặt mục tiêu lợi nhuận giảm 11%, phát hành gần 1.900 tỷ đồng trái phiếu](https://cafef.vn/xep-do-hai-an-dat-muc-tieu-loi-nhuan-giam-11-phat-hanh-gan-1900-ty-dong-trai-phieu-188260518142157699.chn)**
+  - *(Mon, 18 May 26 14:26:00 +0700)*
+  - Xếp dỡ Hải An lên kế hoạch lợi nhuận giảm 11% về mức 1.250 tỷ đồng, đồng thời chào bán 18,8 triệu trái phiếu kèm chứng quyền....
+
+- ★★☆ **[Taseco Land chốt ngày trả cổ tức và phát hành cổ phiếu thưởng](https://cafef.vn/taseco-land-chot-ngay-tra-co-tuc-va-phat-hanh-co-phieu-thuong-188260518142325518.chn)**
+  - *(Mon, 18 May 26 14:24:00 +0700)*
+  - Ngày 28/5/2026 tới đây, Taseco Land sẽ chốt danh sách cổ đông để thực hiện quyền nhận cổ tức năm 2025 bằng tiền mặt và cổ phiếu, đồng thời nhận cổ phiếu phát hành tăng vốn từ nguồn vốn chủ sở hữu....
+
+- ★★☆ **[Cao su Sao Vàng dự kiến phát hành hơn 8,4 triệu cổ phiếu để tăng vốn](https://cafef.vn/cao-su-sao-vang-du-kien-phat-hanh-hon-84-trieu-co-phieu-de-tang-von-188260518095551216.chn)**
+  - *(Mon, 18 May 26 10:11:00 +0700)*
+  - Cao su Sao Vàng dự kiến phát hành hơn 8,4 triệu cổ phiếu nhằm tăng vốn cổ phần từ nguồn vốn chủ sở hữu....
+
+- ★★☆ **[Công ty con của Masan bán ra gần 22 triệu cổ phiếu Masan High-Tech Materials](https://cafef.vn/cong-ty-con-cua-masan-ban-ra-gan-22-trieu-co-phieu-masan-high-tech-materials-188260518095818388.chn)**
+  - *(Mon, 18 May 26 10:10:00 +0700)*
+  - Tầm nhìn Masan- công ty con của Masan, đã hoàn tất bán ra gần 22 triệu cổ phiếu, tương đương 2% vốn tại Masan High-Tech Materials....
+
+- ★★☆ **[Giữa lúc VN-Index lập kỷ lục, Agriseco gọi tên 5 doanh nghiệp có tỷ suất cổ tức cao đáng chú ý](https://cafef.vn/giua-luc-vn-index-lap-ky-luc-agriseco-goi-ten-5-doanh-nghiep-co-ty-suat-co-tuc-cao-dang-chu-y-188260517215845084.chn)**
+  - *(Mon, 18 May 26 00:03:00 +0700)*
+  - Điểm chung của các DN này còn có nền tảng tài chính tương đối lành mạnh, định giá còn hấp dẫn và khả năng duy trì lợi nhuận ổn định....
+
+- ★★☆ **[PC1 thông báo khẩn: Ủy quyền cho đội ngũ nhân sự chủ chốt tiếp tục quản trị và vận hành doanh nghiệp](https://cafef.vn/pc1-thong-bao-khan-uy-quyen-cho-doi-ngu-nhan-su-chu-chot-tiep-tuc-quan-tri-va-van-hanh-doanh-nghiep-188260517234313479.chn)**
+  - *(Mon, 18 May 26 00:02:00 +0700)*
+  - PC1 khẳng định hệ thống quản trị và vận hành tại các mảng kinh doanh cốt lõi đã được xây dựng theo hướng chuyên nghiệp, độc lập nên không bị ảnh hưởng....
+
+- ★★☆ **[Giám đốc Chứng khoán Dragon Capital gọi tên nhóm cổ phiếu đang bị "bỏ quên" giữa lúc VN-Index lên đỉnh](https://cafef.vn/giam-doc-chung-khoan-dragon-capital-goi-ten-nhom-co-phieu-dang-bi-bo-quen-giua-luc-vn-index-len-dinh-188260517213520802.chn)**
+  - *(Mon, 18 May 26 00:01:00 +0700)*
+  - Chuyên gia chỉ ra các nhóm ngành còn nhiều dư địa ngoài những nhóm Vingroup dẫn dắt hiện nay....
+
+- ★★☆ **[Công ty PC1 tham gia thế nào tại các 'siêu dự án' điện quốc gia?](https://cafef.vn/cong-ty-pc1-tham-gia-the-nao-tai-cac-sieu-du-an-dien-quoc-gia-188260517173511394.chn)**
+  - *(Sun, 17 May 26 18:00:00 +0700)*
+  - Từ một doanh nghiệp xây lắp điện truyền thống, Công ty Cổ phần Tập đoàn PC1 thời gian qua nổi lên như một “ông lớn” hạ tầng năng lượng với dấu ấn tại các đại dự án điện quốc gia....
+
+- ★★☆ **[Phát Đạt lên kế hoạch tăng vốn điều lệ vượt 11.900 tỷ đồng](https://cafef.vn/phat-dat-len-ke-hoach-tang-von-dieu-le-vuot-11900-ty-dong-188260517123044123.chn)**
+  - *(Sun, 17 May 26 12:55:00 +0700)*
+  - Phát Đạt dự kiến chào bán gần 199,6 triệu cổ phiếu cho cổ đông hiện hữu với giá 10.000 đồng/cổ phiếu, qua đó nhằm tăng vốn điều lệ lên mức hơn 11.973,7 tỷ đồng....
+
+- ★★☆ **[Bất động sản dẫn đầu phát hành trái phiếu doanh nghiệp tháng 4/2026](https://cafef.vn/bat-dong-san-dan-dau-phat-hanh-trai-phieu-doanh-nghiep-thang-4-2026-188260517123905148.chn)**
+  - *(Sun, 17 May 26 12:44:00 +0700)*
+  - Nhóm bất động sản dẫn đầu về giá trị trái phiếu doanh nghiệp phát hành riêng lẻ trong tháng 4/2026 với tổng giá trị phát hành đạt khoảng 51.700 tỷ đồng....
+
+- ★★☆ **[Cổ phiếu PLX “bốc hơi” gần 40% từ đỉnh: Cơ hội “bắt đáy” hay rủi ro vẫn còn phía trước?](https://cafef.vn/co-phieu-plx-boc-hoi-gan-40-tu-dinh-co-hoi-bat-day-hay-rui-ro-van-con-phia-truoc-188260517123800536.chn)**
+  - *(Sun, 17 May 26 12:43:00 +0700)*
+  - Áp lực từ biến động giá dầu toàn cầu đang khiến Petrolimex (PLX) trải qua một trong những quý kinh doanh khó khăn nhất nhiều năm trở lại đây. Dù doanh thu tăng mạnh, doanh nghiệp vẫn báo lỗ lớn trong ...
+
+- ★★☆ **[Chủ tịch PC1 sở hữu bao nhiêu tài sản trước khi bị khởi tố?](https://cafef.vn/chu-tich-pc1-so-huu-bao-nhieu-tai-san-truoc-khi-bi-khoi-to-188260517123309171.chn)**
+  - *(Sun, 17 May 26 12:33:00 +0700)*
+  - Chủ tịch HĐQT Trịnh Văn Tuấn cùng nhiều lãnh đạo cấp cao của PC1 vừa bị khởi tố hiện đang nắm giữ lượng lớn cổ phiếu doanh nghiệp, với tổng giá trị theo thị giá lên tới hàng nghìn tỷ đồng. Vừa qua, cổ...
+
+- ★★☆ **[Lợi nhuận dự báo “bùng nổ” 485%, vì sao cổ phiếu BAF vẫn giao dịch ì ạch?](https://cafef.vn/loi-nhuan-du-bao-bung-no-485-vi-sao-co-phieu-baf-van-giao-dich-i-ach-188260517092720968.chn)**
+  - *(Sun, 17 May 26 09:29:00 +0700)*
+  - CTCP Nông nghiệp BAF Việt Nam (HoSE: BAF) đang bước vào chu kỳ tăng trưởng mới khi hưởng lợi đồng thời từ giá heo hơi neo cao và chiến lược mở rộng quy mô chăn nuôi. Tuy nhiên, trái ngược với triển vọ...
+
+- ★★☆ **[Lịch chốt quyền cổ tức trong tuần 18–22/5: Cổ tức tiền mặt cao nhất 83%, một ngân hàng chi gần 5.000 tỷ đồng trả cổ tức](https://cafef.vn/lich-chot-quyen-co-tuc-trong-tuan-1822-5-co-tuc-tien-mat-cao-nhat-83-mot-ngan-hang-chi-gan-5000-ty-dong-tra-co-tuc-18826051622340662.chn)**
+  - *(Sun, 17 May 26 00:03:00 +0700)*
+  - Tuần này có 47 doanh nghiệp trả cổ tức bằng tiền mặt, mức cao nhất là 83% và thấp nhất là 1%....
+
+- ★☆☆ **[VietinBank kiên trì thoái vốn tại Saigon Port](https://cafef.vn/vietinbank-kien-tri-thoai-von-tai-saigon-port-188260519090655348.chn)**
+  - *(Tue, 19 May 26 09:06:00 +0700)*
+  - VietinBank tiếp tục đăng ký bán toàn bộ hơn 19,31 triệu cổ phiếu SGP sau khi không hoàn tất kế hoạch thoái vốn trước đó tại Saigon Port do điều kiện thị trường không phù hợp....
+
+- ★☆☆ **[Tổng công ty Thăng Long trúng thầu dự án hơn 700 tỷ đồng](https://cafef.vn/tong-cong-ty-thang-long-trung-thau-du-an-hon-700-ty-dong-188260519090554617.chn)**
+  - *(Tue, 19 May 26 09:05:00 +0700)*
+  - Tổng công ty Thăng Long trúng thầu Gói thầu số 16 thuộc Dự án đầu tư xây dựng tuyến đường bộ cao tốc Ninh Bình - Hải Phòng, có giá trị hơn 700 tỷ đồng....
+
+- ★☆☆ **[Cổ đông lớn bán ra 5 triệu cổ phiếu SJS của SJ Group](https://cafef.vn/co-dong-lon-ban-ra-5-trieu-co-phieu-sjs-cua-sj-group-188260519090451575.chn)**
+  - *(Tue, 19 May 26 09:04:00 +0700)*
+  - Đầu tư An Phát bán ra 5 triệu cổ phiếu SJS của SJ Group trong phiên 13/5 với lý do cơ cấu danh mục đầu tư....
+
+- ★☆☆ **[Thắng dễ, thua đau và bài học mà thị trường luôn dạy lại](https://cafef.vn/thang-de-thua-dau-va-bai-hoc-ma-thi-truong-luon-day-lai-188260518203143243.chn)**
+  - *(Tue, 19 May 26 08:00:00 +0700)*
+  - Có một khoảnh khắc mà hầu như nhà đầu tư nào cũng nhớ - không phải lúc kiếm được nhiều tiền nhất, mà là lần đầu tiên nhấn nút đặt lệnh. Ở khoảnh khắc đó, thị trường không còn là khái niệm trên trang s...
+
+- ★☆☆ **[Chứng khoán lập đỉnh, tài khoản vẫn âm: Chuyên gia cảnh báo rủi ro lớn](https://cafef.vn/chung-khoan-lap-dinh-tai-khoan-van-am-chuyen-gia-canh-bao-rui-ro-lon-188260519074149085.chn)**
+  - *(Tue, 19 May 26 07:41:00 +0700)*
+  - Đà tăng hiện tại mang tính phân hóa rất cao khi dòng tiền chưa lan tỏa rộng mà chủ yếu tập trung vào một số nhóm ngành hoặc cổ phiếu có câu chuyện riêng....
+
+- ★☆☆ **[Chủ tịch Phạm Minh Hương: Cơ hội lớn chưa từng có đang mở ra, VNDirect chuẩn bị "comeback"](https://cafef.vn/chu-tich-pham-minh-huong-co-hoi-lon-chua-tung-co-dang-mo-ra-vndirect-chuan-bi-comeback-188260518224957016.chn)**
+  - *(Tue, 19 May 26 05:06:00 +0700)*
+  - Lãnh đạo VNDirect đánh giá chưa bao giờ ngành tài chính, chứng khoán và thị trường vốn có cơ hội lớn như hiện nay, khi vai trò của công ty chứng khoán ngày càng được doanh nghiệp, nhà đầu tư và cơ qua...
+
+- ★☆☆ **[Tự doanh CTCK bán ròng hơn 600 tỷ phiên đầu tuần, cổ phiếu nào là tâm điểm?](https://cafef.vn/tu-doanh-ctck-ban-rong-hon-600-ty-phien-dau-tuan-co-phieu-nao-la-tam-diem-188260518200531432.chn)**
+  - *(Mon, 18 May 26 20:05:00 +0700)*
+  - Tự doanh CTCK bán ròng 649 tỷ đồng trên HOSE....
+
+- ★☆☆ **[Sếp VNDirect nói từng 'rất ngây thơ' khi nghĩ tiền có thể mua đội ngũ giỏi](https://cafef.vn/sep-vndirect-noi-tung-rat-ngay-tho-khi-nghi-tien-co-the-mua-doi-ngu-gioi-188260518200410614.chn)**
+  - *(Mon, 18 May 26 20:04:00 +0700)*
+  - Bà Phạm Minh Hương - Chủ tịch Hội đồng quản trị Công ty cổ phần (CTCP) Chứng khoán VNDirect - thừa nhận, từng “rất ngây thơ” khi cho rằng có thể dùng tiền để thu hút nhân sự giỏi từ thị trường. Lãnh đ...
+
+- ★☆☆ **[Tỷ phú Phạm Nhật Vượng vừa "chốt deal" lớn tại thị trường trọng điểm Đông Nam Á](https://cafef.vn/ty-phu-pham-nhat-vuong-vua-chot-deal-lon-tai-thi-truong-trong-diem-dong-nam-a-188260518180649767.chn)**
+  - *(Mon, 18 May 26 18:07:00 +0700)*
+  - V-GREEN muốn triển khai 600 trạm sạc và 1.200 trạm đổi pin tại Bataan, tạo nền tảng cho kế hoạch mở rộng hệ sinh thái xe điện VinFast tại Philippines....
+
+- ★☆☆ **[Khối ngoại tiếp đà bán ròng, ngược chiều tung hơn 200 tỷ gom một cổ phiếu ngân hàng](https://cafef.vn/khoi-ngoai-tiep-da-ban-rong-nguoc-chieu-tung-hon-200-ty-gom-mot-co-phieu-ngan-hang-188260518151633036.chn)**
+  - *(Mon, 18 May 26 15:45:00 +0700)*
+  - Giao dịch của khối ngoại là điểm trừ khi bán ròng khoảng 688 tỷ đồng cổ phiếu trên toàn thị trường....
+
+- ★☆☆ **[Năm Bảy Bảy muốn bán toàn bộ hơn 315.000 cổ phiếu quỹ](https://cafef.vn/nam-bay-bay-muon-ban-toan-bo-hon-315000-co-phieu-quy-188260518142501181.chn)**
+  - *(Mon, 18 May 26 14:25:00 +0700)*
+  - Năm Bảy Bảy vừa thông qua việc bán toàn bộ 315.861 cổ phiếu quỹ hiện có nhằm mục đích cơ cấu lại nguồn vốn của công ty....
+
+- ★☆☆ **[Một cổ phiếu nghìn tỷ trên HoSE bốc đầu kịch trần 8 phiên liên tiếp, chuyện gì đang diễn ra?](https://cafef.vn/mot-co-phieu-nghin-ty-tren-hose-boc-dau-kich-tran-8-phien-lien-tiep-chuyen-gi-dang-dien-ra-188260518131803806.chn)**
+  - *(Mon, 18 May 26 13:22:00 +0700)*
+  - Dù hồi phục lên mức cao nhất gần 2 tháng qua, cổ phiếu này vẫn đang thấp hơn 38% so với đỉnh....
+
+- ★☆☆ **[Nhóm cổ phiếu nào giàu tiềm năng tăng trưởng thời gian tới?](https://cafef.vn/nhom-co-phieu-nao-giau-tiem-nang-tang-truong-thoi-gian-toi-188260518104217227.chn)**
+  - *(Mon, 18 May 26 10:43:00 +0700)*
+  - Theo các chuyên gia, VN-Index có thể tiếp tục tăng trong tuần tới và nhiều nhóm cổ phiếu sẽ có cơ hội tăng trưởng tốt....
+
+- ★☆☆ **[Một nghịch lý đang diễn ra khi VN-Index trên đỉnh lịch sử](https://cafef.vn/mot-nghich-ly-dang-dien-ra-khi-vn-index-tren-dinh-lich-su-188260518103912115.chn)**
+  - *(Mon, 18 May 26 10:41:00 +0700)*
+  - Báo cáo mới nhất của MBS cảnh báo rằng: "Sự thiếu đồng thuận giữa các nhóm ngành trong vùng trũng thông tin là dấu hiệu cho nhịp điều chỉnh ngắn hạn do sự phân kỳ"....
+
+- ★☆☆ **[Chuyển giao thế hệ – nền tảng cho chu kỳ tăng trưởng mới tại AgriS](https://cafef.vn/chuyen-giao-the-he-nen-tang-cho-chu-ky-tang-truong-moi-tai-agris-188260516093051658.chn)**
+  - *(Mon, 18 May 26 08:00:00 +0700)*
+  - CTCP Thành Thành Công – Biên Hòa (AgriS, HOSE: SBT), sau giai đoạn chuyển giao lãnh đạo đã ghi nhận những thay đổi mang tính đột phá về chiến lược, vận hành và định vị thị trường, mở ra giai đoạn phát...
+
+- ★☆☆ **[Quỹ từ thiện của Bill Gates bán sạch cổ phiếu Microsoft nhưng vẫn đổ tiền vào chứng khoán Việt Nam](https://cafef.vn/quy-tu-thien-cua-bill-gates-ban-sach-co-phieu-microsoft-nhung-van-do-tien-vao-chung-khoan-viet-nam-18826051723540103.chn)**
+  - *(Mon, 18 May 26 00:10:00 +0700)*
+  - Quỹ từ thiện của Bill Gates đã gián tiếp đầu tư vào thị trường chứng khoán Việt Nam từ lâu thông qua VEIL,  trực tiếp nắm giữ nhiều cổ phiếu Bluechips....
+
+- ★☆☆ **[Chuyên gia: VN-Index sớm tiến đến mốc 2.000 điểm](https://cafef.vn/chuyen-gia-vn-index-som-tien-den-moc-2000-diem-188260517213634531.chn)**
+  - *(Mon, 18 May 26 00:05:00 +0700)*
+  - Về xu hướng tuần tới, VN-Index hiện đã bước vào vùng giá hoàn toàn mới khi không còn vùng kháng cự lịch sử nào phía trên....
+
+- ★☆☆ **[Góc nhìn chuyên gia: VN-Index có thể bước vào nhịp rung lắc mạnh sau khi lập đỉnh lịch sử](https://cafef.vn/goc-nhin-chuyen-gia-vn-index-co-the-buoc-vao-nhip-rung-lac-manh-sau-khi-lap-dinh-lich-su-188260517161417469.chn)**
+  - *(Sun, 17 May 26 16:15:00 +0700)*
+  - Xu hướng ngắn và trung hạn của VN-Index đã được cải thiện, nhưng phần lớn cổ phiếu vẫn chưa hình thành tín hiệu tăng giá rõ ràng. Đà tăng chủ yếu vẫn đến từ một vài cổ phiếu vốn hóa lớn....
+
+- ★☆☆ **[Rớt mạnh từ đỉnh 2 tháng, điều gì chờ đợi giá bạc trong tuần tới?](https://cafef.vn/rot-manh-tu-dinh-2-thang-dieu-gi-cho-doi-gia-bac-trong-tuan-toi-18826051712355545.chn)**
+  - *(Sun, 17 May 26 12:43:00 +0700)*
+  - Vừa lập đỉnh 2 tháng mốc xấp xỉ 90 USD/ounce, giá bạc đã "đổ đèo" lao dốc khiến nhiều nhà đầu tư lo lắng....
+
+- ★☆☆ **[Seaprodex không đáp ứng điều kiện công ty đại chúng](https://cafef.vn/seaprodex-khong-dap-ung-dieu-kien-cong-ty-dai-chung-188260517123155881.chn)**
+  - *(Sun, 17 May 26 12:33:00 +0700)*
+  - Do không đảm bảo có tối thiểu 10% số cổ phiếu có quyền biểu quyết do ít nhất 100 nhà đầu tư không phải cổ đông lớn nắm giữ nên Seaprodex không đáp ứng điều kiện công ty đại chúng....
+
+- ★☆☆ **[Một cổ phiếu thép bất ngờ “cháy hàng” dù thua lỗ triền miên](https://cafef.vn/mot-co-phieu-thep-bat-ngo-chay-hang-du-thua-lo-trien-mien-18826051622544349.chn)**
+  - *(Sun, 17 May 26 08:20:00 +0700)*
+  - Theo BCTC quý 1 mới công bố, doanh nghiệp vẫn đang đối mặt với nhiều khó khăn khi kéo dài chuỗi thua lỗ lên 16 quý liên tiếp....
+
+- ★☆☆ **[Chuyên gia Dragon Capital chỉ ra ba cú hích có thể mở ra chu kỳ mới cho chứng khoán Việt Nam](https://cafef.vn/chuyen-gia-dragon-capital-chi-ra-ba-cu-hich-co-the-mo-ra-chu-ky-moi-cho-chung-khoan-viet-nam-188260516223315.chn)**
+  - *(Sun, 17 May 26 00:01:00 +0700)*
+  - Dù có động lực lớn, song chuyên gia cho rằng cơ hội sẽ không dành cho tất cả, điều quan trọng là phải tìm được những doanh nghiệp thực sự có năng lực hưởng lợi từ quá trình tăng trưởng, sở hữu lợi thế...
 
 ## VNeconomy
 - ★★★ **[SP 500 giảm liền hai phiên vì cổ phiếu công nghệ bị xả, giá dầu giữ đà leo thang](https://vneconomy.vn/sp-500-giam-lien-hai-phien-vi-co-phieu-cong-nghe-bi-xa-gia-dau-giu-da-leo-thang.htm)**

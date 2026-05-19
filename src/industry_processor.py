@@ -7,13 +7,36 @@ class IndustryProcessor:
         self.df = None
 
     def load_data(self):
-        """Load and clean the industry CSV data."""
+        """Load and clean the industry CSV data handling extra commas in Ten Cty."""
         print(f"[*] Loading industry data from {self.file_path}...")
-        self.df = pd.read_csv(self.file_path, on_bad_lines='skip')
         
+        with open(self.file_path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            
+        header = [c.strip() for c in lines[0].strip().split(',')]
+        data = []
+        for line in lines[1:]:
+            parts = [p.strip() for p in line.strip().split(',')]
+            if not parts or parts == ['']:
+                continue
+            if len(parts) > 9:
+                ticker = parts[0]
+                date_time = parts[1]
+                numeric_fields = parts[-6:]
+                company_name = ",".join(parts[2:-6])
+                data.append([ticker, date_time, company_name] + numeric_fields)
+            else:
+                data.append(parts)
+                
+        self.df = pd.DataFrame(data, columns=header)
+        
+        # Convert numeric columns
+        numeric_cols = ['Open', 'High', 'Low', 'Close', 'Volume', 'Open Interest']
+        for col in numeric_cols:
+            self.df[col] = pd.to_numeric(self.df[col], errors='coerce')
+            
         # Date format in CHISONGANH is like '04-Jan-10 00:00:00'
-        # Let's convert it to datetime
-        self.df['Date/Time'] = pd.to_datetime(self.df['Date/Time'], errors='coerce')
+        self.df['Date/Time'] = pd.to_datetime(self.df['Date/Time'], format='%d-%b-%y %H:%M:%S', errors='coerce')
         
         # Drop rows with invalid dates
         self.df = self.df.dropna(subset=['Date/Time'])
