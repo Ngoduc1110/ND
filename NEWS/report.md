@@ -1,8 +1,12 @@
-# Báo cáo tin tức thị trường (2026-05-19 15:08)
+# Báo cáo tin tức thị trường (2026-05-19 18:07)
 
-Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **140** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
+- ★★★ **[Mối lo tài khóa khiến lợi suất trái phiếu chính phủ Nhật Bản cao chưa từng thấy](https://vneconomy.vn/moi-lo-tai-khoa-khien-loi-suat-trai-phieu-chinh-phu-nhat-ban-cao-chua-tung-thay.htm)**
+  - *(Tue, 19 May 2026 09:24:34 GMT)*
+  - Đ#224; tăng mạnh gần đ#226;y của lợi suất tr#225;i phiếu ch#237;nh phủ Nhật kh#244;ng nằm ngo#224;i xu hướng của thị trường tr#225;i phiếu ch#237;nh phủ to#224;n cầu......
+
 - ★★★ **[Chiến tranh Vùng Vịnh khiến lãi suất vay mua nhà trả góp ở Mỹ và châu Âu tăng chóng mặt](https://vneconomy.vn/chien-tranh-vung-vinh-khien-lai-suat-vay-mua-nha-tra-gop-o-my-va-chau-au-tang-chong-mat.htm)**
   - *(Tue, 19 May 2026 07:52:48 GMT)*
   - C#225;c nh#224; đầu tư v#224; chuy#234;n gia kinh tế tin rằng l#227;i suất vay thế chấp nh#224; sẽ tiếp tục tăng nếu giao th#244;ng qua eo biển Hormuz c#242;n gi#225;n đoạn......
@@ -83,9 +87,9 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 2026 01:18:43 GMT)*
   - Mối lo về lạm ph#225;t phủ b#243;ng l#234;n t#226;m tr#237; nh#224; đầu tư ở Phố Wall trong phi#234;n n#224;y......
 
-- ★★★ **[Khối ngoại bán ròng hơn 800 tỷ, chủ yếu xả cổ phiếu ngân hàng](https://vneconomy.vn/khoi-ngoai-ban-rong-hon-800-ty-chu-yeu-xa-co-phieu-ngan-hang.htm)**
-  - *(Tue, 12 May 2026 14:06:05 GMT)*
-  - Khối ngoại tiếp tục b#225;n r#242;ng 836.0 tỷ đồng, t#237;nh ri#234;ng giao dịch khớp lệnh th#236; họ b#225;n r#242;ng 685.3 tỷ đồng....
+- ★★☆ **[Xả đột biến cổ phiếu dầu khí, cao su, sắc đỏ loang rộng](https://vneconomy.vn/xa-dot-bien-co-phieu-dau-khi-cao-su-sac-do-loang-rong.htm)**
+  - *(Tue, 19 May 2026 08:36:25 GMT)*
+  - Sức #233;p gia tăng bất ngờ ở nh#243;m cổ phiếu dầu kh#237; v#224; c#225;c m#227; “neo” với gi#225; dầu. GAS, BSR, PLX, GVR, PVD… đồng loạt giảm s#224;n. Nếu kh#244;ng c#243; VIC, VHM hồi l#234;n v#22...
 
 - ★★☆ **[Blog chứng khoán: Trụ ngân hàng, dầu khí hút dòng tiền](https://vneconomy.vn/blog-chung-khoan-tru-ngan-hang-dau-khi-hut-dong-tien.htm)**
   - *(Mon, 18 May 2026 09:29:04 GMT)*
@@ -131,9 +135,9 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 13 May 2026 02:07:49 GMT)*
   - SGI Capital tiếp tục giữ tỷ trọng tiền mặt cao l#234;n 70,49%, c#242;n lại l#224; ph#226;n bổ v#224;o danh mục c#225;c cổ phiếu gồm DRI, VIP, FMC, BWE, TLG, FPT, ACB, SIP, MWG....
 
-- ★★☆ **[Blog chứng khoán: Thanh khoản giảm mạnh, thị trường “xoay trụ”?](https://vneconomy.vn/blog-chung-khoan-thanh-khoan-giam-manh-thi-truong-xoay-tru.htm)**
-  - *(Tue, 12 May 2026 09:16:01 GMT)*
-  - Ảnh hưởng của c#225;c cổ phiếu vốn h#243;a lớn nhất l#224; VIC, VHM, VCB kh#244;ng qu#225; mạnh trong khi kh#225; nhiều blue-chips tầm trung lại mạnh l#234;n. VNI được neo giữ tốt tạo điều kiện cho số...
+- ★☆☆ **[Blog chứng khoán: Xả lớn, VN-Index gặp nguy](https://vneconomy.vn/blog-chung-khoan-xa-lon-vn-index-gap-nguy.htm)**
+  - *(Tue, 19 May 2026 09:20:41 GMT)*
+  - Đợt b#225;n ở cổ phiếu dầu kh#237; v#224; c#225;c m#227; li#234;n quan dữ dội hơn b#236;nh thường, đẩy nhiều m#227; xuống tới mức s#224;n. Đ#243; l#224; kết quả của hoạt động đầu cơ, lệnh v#224;o lệnh...
 
 - ★☆☆ **[Cổ phiếu ngân hàng, dầu khí chững lại trước áp lực chốt lời](https://vneconomy.vn/co-phieu-ngan-hang-dau-khi-chung-lai-truoc-ap-luc-chot-loi.htm)**
   - *(Tue, 19 May 2026 05:03:15 GMT)*
@@ -203,91 +207,30 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 12 May 2026 15:36:11 GMT)*
   - VnEconomy giới thiệu nhận định v#224; khuyến nghị đầu tư của một số c#244;ng ty chứng kho#225;n về diễn biến thị trường ng#224;y 13/5/2026...
 
-- ★☆☆ **[136 tỷ USD đầu tư cho các dự án điện giai đoạn 2026-2030, cổ phiếu nào hưởng lợi?](https://vneconomy.vn/136-ty-usd-dau-tu-cho-cac-du-an-dien-giai-doan-2026-2030-co-phieu-nao-huong-loi.htm)**
-  - *(Tue, 12 May 2026 12:02:19 GMT)*
-  - Quyết định số 1509/QĐ-BCT của Bộ C#244;ng Thương đưa ra kế hoạch đầu tư lớn cho giai đoạn 2026- 2030, bao gồm 118 tỷ USD (23,6 tỷ USD/năm) cho sản xuất năng lượng v#224; 18 tỷ USD (3,6 tỷ USD/năm) cho...
-
-## Vietstock
-- ★★★ **[FTSE, MSCI đang tái định hình thị trường tài chính châu Á, Hàn Quốc và Việt Nam kỳ vọng hút vốn](http://vietstock.vn/2026/05/ftse-msci-dang-tai-dinh-hinh-thi-truong-tai-chinh-chau-a-han-quoc-va-viet-nam-ky-vong-hut-von-830-1444061.htm)**
-  - *(Tue, 19 May 2026 12:30:46 +0700)*
-  - Hàn Quốc và Việt Nam kỳ vọng hút mạnh dòng vốn ngoại, trong khi Indonesia trả giá vì không đáp ứng tiêu chuẩn....
-
-- ★★☆ **[Ngày 19/05/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/05/ngay-19052026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1443751.htm)**
-  - *(Tue, 19 May 2026 10:00:00 +0700)*
-  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BID, HDB, MSN, MBB, NLG, OCB, TPB, TCB, VPB, VNM....
-
-- ★★☆ **[Tuần 18-22/05/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/05/tuan-18-22052026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1443399.htm)**
-  - *(Mon, 18 May 2026 10:00:00 +0700)*
-  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: GEX, HDB, MSN, MBB, NLG, OCB, TPB, TCB, VPB, VNM....
-
-- ★★☆ **[Chứng khoán Tuần 11-15/05/2026: Đỉnh cao gió lớn](http://vietstock.vn/2026/05/chung-khoan-tuan-11-15052026-dinh-cao-gio-lon-1636-1443135.htm)**
-  - *(Fri, 15 May 2026 18:16:40 +0700)*
-  - VN-Index điều chỉnh trở lại trong phiên cuối tuần sau khi thiết lập đỉnh lịch sử mới. Dù nhóm cổ phiếu vốn hóa lớn đang luân phiên dẫn dắt và giữ nhịp cho chỉ số, phần còn lại của thị trường vẫn phân ...
-
-- ★☆☆ **[Nhịp đập Thị trường 19/05: Giằng co phân hóa với áp lực từ các cổ phiếu trụ](http://vietstock.vn/2026/05/nhip-dap-thi-truong-1905-giang-co-phan-hoa-voi-ap-luc-tu-cac-co-phieu-tru-1636-1443988.htm)**
-  - *(Tue, 19 May 2026 14:22:00 +0700)*
-  - Kết phiên sáng, VN-Index ghi nhận mức giảm 5 điểm về còn 1,922.7 điểm. HNX-Index tăng 2 điểm lên mức 261.3. Dần về cuối phiên sáng, sắc đỏ đã thể hiện ưu thế lớn hơn....
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 19/05: Chú ý tín hiệu từ MACD](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-1905-chu-y-tin-hieu-tu-macd-585-1444074.htm)**
-  - *(Tue, 19 May 2026 13:04:49 +0700)*
-  - VN-Index tiếp tục giằng co sau khi vượt đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index chuẩn bị bước vào phiên tăng thứ 7 liên tiếp kèm theo khối lượng dự kiến vượt mức trung b...
-
-- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 19/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-phien-1905-830-1443924.htm)**
-  - *(Tue, 19 May 2026 08:00:00 +0700)*
-  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
-
-- ★☆☆ **[19/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/1905-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1443925.htm)**
-  - *(Tue, 19 May 2026 06:00:00 +0700)*
-  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
-
-- ★☆☆ **[Dòng tiền phân hóa trong tuần thanh khoản suy yếu](http://vietstock.vn/2026/05/dong-tien-phan-hoa-trong-tuan-thanh-khoan-suy-yeu-830-1443741.htm)**
-  - *(Mon, 18 May 2026 20:30:00 +0700)*
-  - Thanh khoản sụt giảm dù điểm số thị trường có sự cải thiện trong tuần 11 -15/05. Xu hướng dòng tiền cũng không thật sự rõ ràng ở các nhóm ngành....
-
-- ★☆☆ **[Theo dấu dòng tiền cá mập 18/05: Tự doanh, khối ngoại cùng bán ròng](http://vietstock.vn/2026/05/theo-dau-dong-tien-ca-map-1805-tu-doanh-khoi-ngoai-cung-ban-rong-830-1443846.htm)**
-  - *(Mon, 18 May 2026 18:48:05 +0700)*
-  - Chuyển động của những "cá mập" tương đối kém khả quan trong phiên mà VN-Index hồi phục từ vùng giá đỏ....
-
-- ★☆☆ **[Vietstock Daily 19/05/2026: Giữ nhịp trên đỉnh cao](http://vietstock.vn/2026/05/vietstock-daily-19052026-giu-nhip-tren-dinh-cao-1636-1443750.htm)**
-  - *(Mon, 18 May 2026 18:11:28 +0700)*
-  - VN-Index tăng điểm trở lại và tiếp tục thiết lập đỉnh lịch sử mới. Tuy nhiên, MACD đang dần thu hẹp khoảng cách với đường signal nên rủi ro có thể gia tăng nếu chỉ báo cắt xuống đường này trong các ph...
-
-- ★☆☆ **[Nhịp đập Thị trường 18/05: VN-Index tiếp tục bứt phá, nhóm năng lượng vững đà phục hồi](http://vietstock.vn/2026/05/nhip-dap-thi-truong-1805-vn-index-tiep-tuc-but-pha-nhom-nang-luong-vung-da-phuc-hoi-1636-1443539.htm)**
-  - *(Mon, 18 May 2026 16:05:50 +0700)*
-  - Kết thúc phiên giao dịch, VN-Index tăng 6.34 điểm (+0.33%), lên mức 1,927.94 điểm; HNX-Index tăng 1.83 điểm (+0.71%), lên mức 259.25 điểm. Độ rộng toàn thị trường với sắc đỏ lấn lướt khi bên bán có 37...
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 18/05: Tiếp tục test đỉnh cũ tháng 1/2026](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-1805-tiep-tuc-test-dinh-cu-thang-12026-585-1443612.htm)**
-  - *(Mon, 18 May 2026 13:06:13 +0700)*
-  - VN-Index tiếp tục giằng co khi kiểm tra lại đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index tiếp tục tăng điểm đồng thời xuất hiện mẫu hình nến Big White Candle....
-
-- ★☆☆ **[Top cổ phiếu đáng chú ý đầu tuần 18/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-tuan-1805-830-1443045.htm)**
-  - *(Mon, 18 May 2026 08:00:00 +0700)*
-  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
-
-- ★☆☆ **[18/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/1805-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1442212.htm)**
-  - *(Mon, 18 May 2026 06:02:00 +0700)*
-  - Cập nhật nhanh những diễn biến kinh tế, tài chính trong nước và thế giới những ngày cuối tuần trước khi thị trường mở cửa....
-
-- ★☆☆ **[Vietstock Weekly 18-22/05/2026: Rung lắc khó tránh?](http://vietstock.vn/2026/05/vietstock-weekly-18-22052026-rung-lac-kho-tranh-1636-1443401.htm)**
-  - *(Sun, 17 May 2026 18:00:00 +0700)*
-  - VN-Index hình thành mẫu hình nến Long Lower Shadow và nối dài chuỗi tăng sang tuần thứ 8 liên tiếp. Tuy nhiên, khối lượng giao dịch vẫn duy trì dưới mức trung bình 20 tuần cho thấy nhà đầu tư chưa tho...
-
-- ★☆☆ **[Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 18-22/05/2026](http://vietstock.vn/2026/05/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-18-22052026-585-1443400.htm)**
-  - *(Sun, 17 May 2026 07:30:00 +0700)*
-  - Chiến lược đầu tư & Phân tích kỹ thuật chuyên sâu thị trường chứng khoán Việt Nam....
-
-- ★☆☆ **[VN-Index tiếp tục lập đỉnh mới](http://vietstock.vn/2026/05/vn-index-tiep-tuc-lap-dinh-moi-830-1443435.htm)**
-  - *(Sat, 16 May 2026 21:02:00 +0700)*
-  - Tuần 11 - 15/05, mặc dù có diễn biến khá lình xình thị trường chứng khoán vẫn tăng nhẹ về điểm số. VN-Index chốt ở 1,921 điểm và trong tuần có lúc đạt trên 1,925 điểm, tiếp tục xác lập kỷ lục mới về đ...
-
-- ★☆☆ **[Nhóm dầu khí dậy sóng kéo VN-Index, cổ phiếu nhà "Bầu Thụy" liên tục tăng trần](http://vietstock.vn/2026/05/nhom-dau-khi-day-song-keo-vn-index-co-phieu-nha-bau-thuy-lien-tuc-tang-tran-830-1443421.htm)**
-  - *(Sat, 16 May 2026 20:30:00 +0700)*
-  - VN-Index liên tục rung lắc trong tuần giao dịch 11 - 15/05, nhưng động lực từ nhóm cổ phiếu dầu khí đã giúp chỉ số cải thiện nhẹ về điểm. Còn trên HNX-Index, nhịp tăng diễn ra nhẹ nhàng hơn với động l...
-
 ## CafeF
+- ★★★ **[Chứng khoán thế giới 'đỏ lửa' sau vụ Elon Musk thua kiện chấn động](https://cafef.vn/chung-khoan-the-gioi-do-lua-sau-vu-elon-musk-thua-kien-chan-dong-188260519154458003.chn)**
+  - *(Tue, 19 May 26 16:12:00 +0700)*
+  - Vụ Elon Musk thất bại trong cuộc chiến pháp lý với OpenAI cùng loạt dữ liệu lạm phát nóng lên tại Mỹ đang đẩy Phố Wall vào trạng thái căng thẳng mới. Trong khi cơn sốt AI tiếp tục nâng đỡ nhóm cổ phiế...
+
+- ★★★ **[Phiên 19/5: Một cổ phiếu ngân hàng được khối ngoại mua ròng đột biến 600 tỷ đồng](https://cafef.vn/phien-19-5-mot-co-phieu-ngan-hang-duoc-khoi-ngoai-mua-rong-dot-bien-600-ty-dong-188260519153634095.chn)**
+  - *(Tue, 19 May 26 15:45:00 +0700)*
+  - Xếp sau, khối ngoại mua ròng VIC với khoảng 155 tỷ đồng, GEX gần 100 tỷ đồng....
+
 - ★★★ **[Chuyên gia: Xuất hiện tín hiệu rung lắc, chọn lọc nhóm cổ phiếu hút tiền](https://cafef.vn/chuyen-gia-xuat-hien-tin-hieu-rung-lac-chon-loc-nhom-co-phieu-hut-tien-188260519074316348.chn)**
   - *(Tue, 19 May 26 08:34:00 +0700)*
   - Theo chuyên gia, rủi ro ngắn hạn áp đảo khi xung đột Trung Đông kéo dài có thể giữ giá dầu cao, khuếch đại áp lực tỷ giá và ngân hàng trong bối cảnh đòn bẩy doanh nghiệp cao....
+
+- ★★☆ **[Cổ phiếu dầu khí, phân bón bị “xả hàng” dữ dội, VN-Index mất hơn 15 điểm](https://cafef.vn/co-phieu-dau-khi-phan-bon-bi-xa-hang-du-doi-vn-index-mat-hon-15-diem-188260518174317586.chn)**
+  - *(Tue, 19 May 26 16:40:00 +0700)*
+  - Thị trường chứng khoán ngày 19/5 trải qua một phiên giao dịch đầy biến động khi áp lực bán lan rộng trên nhiều nhóm ngành, đặc biệt là dầu khí và phân bón, kéo VN-Index giảm mạnh hơn 15 điểm....
+
+- ★★☆ **[LPBS IPO: Bước đi chiến lược trong chu kỳ tăng trưởng mới của thị trường vốn](https://cafef.vn/lpbs-ipo-buoc-di-chien-luoc-trong-chu-ky-tang-truong-moi-cua-thi-truong-von-188260519162358328.chn)**
+  - *(Tue, 19 May 26 16:30:00 +0700)*
+  - Công ty Cổ phần Chứng khoán LPBank (LPBS) vừa chính thức công bố kế hoạch chào bán cổ phiếu lần đầu ra công chúng (IPO)....
+
+- ★★☆ **[Cổ phiếu PC1 bất ngờ "có biến"](https://cafef.vn/co-phieu-pc1-bat-ngo-co-bien-188260519152430502.chn)**
+  - *(Tue, 19 May 26 15:45:00 +0700)*
+  - Dù bật tăng mạnh, thị giá PC1 hiện vẫn thấp hơn gần 40% so với vùng đỉnh ngắn hạn 31.000 đồng/cp thiết lập hồi đầu tháng 3....
 
 - ★★☆ **[HSC muốn vay ngân hàng hạn mức 10.000 tỷ đồng để làm gì?](https://cafef.vn/hsc-muon-vay-ngan-hang-han-muc-10000-ty-dong-de-lam-gi-188260519143229913.chn)**
   - *(Tue, 19 May 26 15:02:00 +0700)*
@@ -337,21 +280,17 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Mon, 18 May 26 10:10:00 +0700)*
   - Tầm nhìn Masan- công ty con của Masan, đã hoàn tất bán ra gần 22 triệu cổ phiếu, tương đương 2% vốn tại Masan High-Tech Materials....
 
-- ★★☆ **[Giữa lúc VN-Index lập kỷ lục, Agriseco gọi tên 5 doanh nghiệp có tỷ suất cổ tức cao đáng chú ý](https://cafef.vn/giua-luc-vn-index-lap-ky-luc-agriseco-goi-ten-5-doanh-nghiep-co-ty-suat-co-tuc-cao-dang-chu-y-188260517215845084.chn)**
-  - *(Mon, 18 May 26 00:03:00 +0700)*
-  - Điểm chung của các DN này còn có nền tảng tài chính tương đối lành mạnh, định giá còn hấp dẫn và khả năng duy trì lợi nhuận ổn định....
+- ★☆☆ **[Chứng khoán ngày 19/5: Nhóm dầu khí bị bán mạnh, VN-Index giảm 15 điểm](https://cafef.vn/chung-khoan-ngay-19-5-nhom-dau-khi-bi-ban-manh-vn-index-giam-15-diem-188260519171847749.chn)**
+  - *(Tue, 19 May 26 17:36:00 +0700)*
+  - Thị trường chứng khoán ngày 19/5 ghi nhận nhóm cổ phiếu dầu khí bị bán tháo dẫn tới loạt mã giảm sàn. Thiếu vắng các trụ đỡ khiến VN-Index giảm 15 điểm....
 
-- ★★☆ **[PC1 thông báo khẩn: Ủy quyền cho đội ngũ nhân sự chủ chốt tiếp tục quản trị và vận hành doanh nghiệp](https://cafef.vn/pc1-thong-bao-khan-uy-quyen-cho-doi-ngu-nhan-su-chu-chot-tiep-tuc-quan-tri-va-van-hanh-doanh-nghiep-188260517234313479.chn)**
-  - *(Mon, 18 May 26 00:02:00 +0700)*
-  - PC1 khẳng định hệ thống quản trị và vận hành tại các mảng kinh doanh cốt lõi đã được xây dựng theo hướng chuyên nghiệp, độc lập nên không bị ảnh hưởng....
+- ★☆☆ **[Phiên 19/5: Tự doanh CTCK bán ròng gần 200 tỷ đồng, ngược chiều "gom" mạnh 2 cổ phiếu nhà tỷ phú Phạm Nhật Vượng](https://cafef.vn/phien-19-5-tu-doanh-ctck-ban-rong-gan-200-ty-dong-nguoc-chieu-gom-manh-2-co-phieu-nha-ty-phu-pham-nhat-vuong-188260519165539968.chn)**
+  - *(Tue, 19 May 26 16:55:00 +0700)*
+  - Tự doanh CTCK bán ròng 190 tỷ đồng trên HOSE....
 
-- ★★☆ **[Giám đốc Chứng khoán Dragon Capital gọi tên nhóm cổ phiếu đang bị "bỏ quên" giữa lúc VN-Index lên đỉnh](https://cafef.vn/giam-doc-chung-khoan-dragon-capital-goi-ten-nhom-co-phieu-dang-bi-bo-quen-giua-luc-vn-index-len-dinh-188260517213520802.chn)**
-  - *(Mon, 18 May 26 00:01:00 +0700)*
-  - Chuyên gia chỉ ra các nhóm ngành còn nhiều dư địa ngoài những nhóm Vingroup dẫn dắt hiện nay....
-
-- ★★☆ **[Công ty PC1 tham gia thế nào tại các 'siêu dự án' điện quốc gia?](https://cafef.vn/cong-ty-pc1-tham-gia-the-nao-tai-cac-sieu-du-an-dien-quoc-gia-188260517173511394.chn)**
-  - *(Sun, 17 May 26 18:00:00 +0700)*
-  - Từ một doanh nghiệp xây lắp điện truyền thống, Công ty Cổ phần Tập đoàn PC1 thời gian qua nổi lên như một “ông lớn” hạ tầng năng lượng với dấu ấn tại các đại dự án điện quốc gia....
+- ★☆☆ **[Nhà đầu tư cá nhân lại "đu đỉnh" khi hàng loạt cổ phiếu dầu khí nằm sàn](https://cafef.vn/nha-dau-tu-ca-nhan-lai-du-dinh-khi-hang-loat-co-phieu-dau-khi-nam-san-188260519153538805.chn)**
+  - *(Tue, 19 May 26 16:21:00 +0700)*
+  - Sau một vài phiên tăng mạnh, cổ phiếu dầu khí bị bán tháo dữ dội khiến cả thị trường suy yếu, VN-Index chốt phiên 19-5 giảm hơn 15 điểm...
 
 - ★☆☆ **[Giám đốc Dự án Bệnh viện TNH mua vào 2 triệu cổ phiếu](https://cafef.vn/giam-doc-du-an-benh-vien-tnh-mua-vao-2-trieu-co-phieu-188260519143441383.chn)**
   - *(Tue, 19 May 26 14:35:00 +0700)*
@@ -429,17 +368,82 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Mon, 18 May 26 08:00:00 +0700)*
   - CTCP Thành Thành Công – Biên Hòa (AgriS, HOSE: SBT), sau giai đoạn chuyển giao lãnh đạo đã ghi nhận những thay đổi mang tính đột phá về chiến lược, vận hành và định vị thị trường, mở ra giai đoạn phát...
 
-- ★☆☆ **[Quỹ từ thiện của Bill Gates bán sạch cổ phiếu Microsoft nhưng vẫn đổ tiền vào chứng khoán Việt Nam](https://cafef.vn/quy-tu-thien-cua-bill-gates-ban-sach-co-phieu-microsoft-nhung-van-do-tien-vao-chung-khoan-viet-nam-18826051723540103.chn)**
-  - *(Mon, 18 May 26 00:10:00 +0700)*
-  - Quỹ từ thiện của Bill Gates đã gián tiếp đầu tư vào thị trường chứng khoán Việt Nam từ lâu thông qua VEIL,  trực tiếp nắm giữ nhiều cổ phiếu Bluechips....
+## Vietstock
+- ★★★ **[FTSE, MSCI đang tái định hình thị trường tài chính châu Á, Hàn Quốc và Việt Nam kỳ vọng hút vốn](http://vietstock.vn/2026/05/ftse-msci-dang-tai-dinh-hinh-thi-truong-tai-chinh-chau-a-han-quoc-va-viet-nam-ky-vong-hut-von-830-1444061.htm)**
+  - *(Tue, 19 May 2026 12:30:46 +0700)*
+  - Hàn Quốc và Việt Nam kỳ vọng hút mạnh dòng vốn ngoại, trong khi Indonesia trả giá vì không đáp ứng tiêu chuẩn....
 
-- ★☆☆ **[Chuyên gia: VN-Index sớm tiến đến mốc 2.000 điểm](https://cafef.vn/chuyen-gia-vn-index-som-tien-den-moc-2000-diem-188260517213634531.chn)**
-  - *(Mon, 18 May 26 00:05:00 +0700)*
-  - Về xu hướng tuần tới, VN-Index hiện đã bước vào vùng giá hoàn toàn mới khi không còn vùng kháng cự lịch sử nào phía trên....
+- ★★☆ **[Ngày 19/05/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/05/ngay-19052026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1443751.htm)**
+  - *(Tue, 19 May 2026 10:00:00 +0700)*
+  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BID, HDB, MSN, MBB, NLG, OCB, TPB, TCB, VPB, VNM....
 
-- ★☆☆ **[Góc nhìn chuyên gia: VN-Index có thể bước vào nhịp rung lắc mạnh sau khi lập đỉnh lịch sử](https://cafef.vn/goc-nhin-chuyen-gia-vn-index-co-the-buoc-vao-nhip-rung-lac-manh-sau-khi-lap-dinh-lich-su-188260517161417469.chn)**
-  - *(Sun, 17 May 26 16:15:00 +0700)*
-  - Xu hướng ngắn và trung hạn của VN-Index đã được cải thiện, nhưng phần lớn cổ phiếu vẫn chưa hình thành tín hiệu tăng giá rõ ràng. Đà tăng chủ yếu vẫn đến từ một vài cổ phiếu vốn hóa lớn....
+- ★★☆ **[Tuần 18-22/05/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/05/tuan-18-22052026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1443399.htm)**
+  - *(Mon, 18 May 2026 10:00:00 +0700)*
+  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: GEX, HDB, MSN, MBB, NLG, OCB, TPB, TCB, VPB, VNM....
+
+- ★★☆ **[Chứng khoán Tuần 11-15/05/2026: Đỉnh cao gió lớn](http://vietstock.vn/2026/05/chung-khoan-tuan-11-15052026-dinh-cao-gio-lon-1636-1443135.htm)**
+  - *(Fri, 15 May 2026 18:16:40 +0700)*
+  - VN-Index điều chỉnh trở lại trong phiên cuối tuần sau khi thiết lập đỉnh lịch sử mới. Dù nhóm cổ phiếu vốn hóa lớn đang luân phiên dẫn dắt và giữ nhịp cho chỉ số, phần còn lại của thị trường vẫn phân ...
+
+- ★☆☆ **[Nhịp đập Thị trường 19/05: Họ dầu khí, cao su bất ngờ giảm sâu](http://vietstock.vn/2026/05/nhip-dap-thi-truong-1905-ho-dau-khi-cao-su-bat-ngo-giam-sau-1636-1443988.htm)**
+  - *(Tue, 19 May 2026 16:37:00 +0700)*
+  - Sau khoảng thời gian tương đối bình lặng đầu phiên, thị trường biến động có phần dữ dội trong phiên chiều. Áp lực bán có lúc đẩy chỉ số VN-Index giảm hơn 23 điểm và rồi tiếp tục rung lắc mạnh. Kết phi...
+
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 19/05: Chú ý tín hiệu từ MACD](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-1905-chu-y-tin-hieu-tu-macd-585-1444074.htm)**
+  - *(Tue, 19 May 2026 13:04:49 +0700)*
+  - VN-Index tiếp tục giằng co sau khi vượt đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index chuẩn bị bước vào phiên tăng thứ 7 liên tiếp kèm theo khối lượng dự kiến vượt mức trung b...
+
+- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 19/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-phien-1905-830-1443924.htm)**
+  - *(Tue, 19 May 2026 08:00:00 +0700)*
+  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
+
+- ★☆☆ **[19/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/1905-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1443925.htm)**
+  - *(Tue, 19 May 2026 06:00:00 +0700)*
+  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
+
+- ★☆☆ **[Dòng tiền phân hóa trong tuần thanh khoản suy yếu](http://vietstock.vn/2026/05/dong-tien-phan-hoa-trong-tuan-thanh-khoan-suy-yeu-830-1443741.htm)**
+  - *(Mon, 18 May 2026 20:30:00 +0700)*
+  - Thanh khoản sụt giảm dù điểm số thị trường có sự cải thiện trong tuần 11 -15/05. Xu hướng dòng tiền cũng không thật sự rõ ràng ở các nhóm ngành....
+
+- ★☆☆ **[Theo dấu dòng tiền cá mập 18/05: Tự doanh, khối ngoại cùng bán ròng](http://vietstock.vn/2026/05/theo-dau-dong-tien-ca-map-1805-tu-doanh-khoi-ngoai-cung-ban-rong-830-1443846.htm)**
+  - *(Mon, 18 May 2026 18:48:05 +0700)*
+  - Chuyển động của những "cá mập" tương đối kém khả quan trong phiên mà VN-Index hồi phục từ vùng giá đỏ....
+
+- ★☆☆ **[Vietstock Daily 19/05/2026: Giữ nhịp trên đỉnh cao](http://vietstock.vn/2026/05/vietstock-daily-19052026-giu-nhip-tren-dinh-cao-1636-1443750.htm)**
+  - *(Mon, 18 May 2026 18:11:28 +0700)*
+  - VN-Index tăng điểm trở lại và tiếp tục thiết lập đỉnh lịch sử mới. Tuy nhiên, MACD đang dần thu hẹp khoảng cách với đường signal nên rủi ro có thể gia tăng nếu chỉ báo cắt xuống đường này trong các ph...
+
+- ★☆☆ **[Nhịp đập Thị trường 18/05: VN-Index tiếp tục bứt phá, nhóm năng lượng vững đà phục hồi](http://vietstock.vn/2026/05/nhip-dap-thi-truong-1805-vn-index-tiep-tuc-but-pha-nhom-nang-luong-vung-da-phuc-hoi-1636-1443539.htm)**
+  - *(Mon, 18 May 2026 16:05:50 +0700)*
+  - Kết thúc phiên giao dịch, VN-Index tăng 6.34 điểm (+0.33%), lên mức 1,927.94 điểm; HNX-Index tăng 1.83 điểm (+0.71%), lên mức 259.25 điểm. Độ rộng toàn thị trường với sắc đỏ lấn lướt khi bên bán có 37...
+
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 18/05: Tiếp tục test đỉnh cũ tháng 1/2026](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-1805-tiep-tuc-test-dinh-cu-thang-12026-585-1443612.htm)**
+  - *(Mon, 18 May 2026 13:06:13 +0700)*
+  - VN-Index tiếp tục giằng co khi kiểm tra lại đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index tiếp tục tăng điểm đồng thời xuất hiện mẫu hình nến Big White Candle....
+
+- ★☆☆ **[Top cổ phiếu đáng chú ý đầu tuần 18/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-tuan-1805-830-1443045.htm)**
+  - *(Mon, 18 May 2026 08:00:00 +0700)*
+  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
+
+- ★☆☆ **[18/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/1805-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1442212.htm)**
+  - *(Mon, 18 May 2026 06:02:00 +0700)*
+  - Cập nhật nhanh những diễn biến kinh tế, tài chính trong nước và thế giới những ngày cuối tuần trước khi thị trường mở cửa....
+
+- ★☆☆ **[Vietstock Weekly 18-22/05/2026: Rung lắc khó tránh?](http://vietstock.vn/2026/05/vietstock-weekly-18-22052026-rung-lac-kho-tranh-1636-1443401.htm)**
+  - *(Sun, 17 May 2026 18:00:00 +0700)*
+  - VN-Index hình thành mẫu hình nến Long Lower Shadow và nối dài chuỗi tăng sang tuần thứ 8 liên tiếp. Tuy nhiên, khối lượng giao dịch vẫn duy trì dưới mức trung bình 20 tuần cho thấy nhà đầu tư chưa tho...
+
+- ★☆☆ **[Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 18-22/05/2026](http://vietstock.vn/2026/05/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-18-22052026-585-1443400.htm)**
+  - *(Sun, 17 May 2026 07:30:00 +0700)*
+  - Chiến lược đầu tư & Phân tích kỹ thuật chuyên sâu thị trường chứng khoán Việt Nam....
+
+- ★☆☆ **[VN-Index tiếp tục lập đỉnh mới](http://vietstock.vn/2026/05/vn-index-tiep-tuc-lap-dinh-moi-830-1443435.htm)**
+  - *(Sat, 16 May 2026 21:02:00 +0700)*
+  - Tuần 11 - 15/05, mặc dù có diễn biến khá lình xình thị trường chứng khoán vẫn tăng nhẹ về điểm số. VN-Index chốt ở 1,921 điểm và trong tuần có lúc đạt trên 1,925 điểm, tiếp tục xác lập kỷ lục mới về đ...
+
+- ★☆☆ **[Nhóm dầu khí dậy sóng kéo VN-Index, cổ phiếu nhà "Bầu Thụy" liên tục tăng trần](http://vietstock.vn/2026/05/nhom-dau-khi-day-song-keo-vn-index-co-phieu-nha-bau-thuy-lien-tuc-tang-tran-830-1443421.htm)**
+  - *(Sat, 16 May 2026 20:30:00 +0700)*
+  - VN-Index liên tục rung lắc trong tuần giao dịch 11 - 15/05, nhưng động lực từ nhóm cổ phiếu dầu khí đã giúp chỉ số cải thiện nhẹ về điểm. Còn trên HNX-Index, nhịp tăng diễn ra nhẹ nhàng hơn với động l...
 
 ## VnExpress Business
 - ★★★ **[Giá vàng thế giới xuống thấp nhất gần 2 tuần](https://vnexpress.net/gia-vang-the-gioi-xuong-thap-nhat-gan-2-tuan-5074551.html)**
@@ -450,9 +454,9 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Fri, 15 May 2026 19:15:20 +0700)*
   - Ngân hàng Nhà nước vừa nới cách tính tỷ lệ dư nợ cho vay trên tổng tiền gửi (LDR), qua đó hỗ trợ thanh khoản cho nhóm ngân hàng quốc doanh....
 
-- ★★★ **[Giá xăng, dầu cùng giảm](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-144-5-5073823.html)**
-  - *(Thu, 14 May 2026 14:34:59 +0700)*
-  - Từ 15h ngày 14/5, giá xăng, dầu cùng giảm theo đà biến động của thị trường năng lượng thế giới....
+- ★★☆ **[Mua bán chứng khoán có thể cần xác thực sinh trắc học khuôn mặt](https://vnexpress.net/mua-ban-chung-khoan-co-the-can-xac-thuc-sinh-trac-hoc-khuon-mat-5075640.html)**
+  - *(Tue, 19 May 2026 15:23:36 +0700)*
+  - Để mua bán chứng khoán trực tuyến, nhà đầu tư cần khớp đúng thông tin sinh trắc học trong giao dịch đầu tiên của mỗi phiên đăng nhập, theo đề xuất mới của Bộ Tài chính....
 
 - ★★☆ **[Bảo Tín Mạnh Hải chuẩn bị niêm yết cổ phiếu](https://vnexpress.net/bao-tin-manh-hai-chuan-bi-niem-yet-co-phieu-5075244.html)**
   - *(Mon, 18 May 2026 19:06:50 +0700)*
@@ -481,6 +485,14 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[Chứng khoán tiếp tục lập kỷ lục mới](https://vnexpress.net/chung-khoan-tiep-tuc-lap-ky-luc-moi-5073931.html)**
   - *(Thu, 14 May 2026 16:06:50 +0700)*
   - Nhờ sức nâng đỡ của cổ phiếu Vingroup, chứng khoán hôm nay tiếp tục ghi nhận kỷ lục mới, đóng cửa ở trên mốc 1.925 điểm....
+
+- ★☆☆ **[LPBS dự kiến chào bán hơn 141 triệu cổ phiếu trong quý II](https://vnexpress.net/lpbs-du-kien-chao-ban-hon-141-trieu-co-phieu-trong-quy-ii-5075733.html)**
+  - *(Tue, 19 May 2026 16:30:00 +0700)*
+  - Công ty Cổ phần Chứng khoán LPBank (LPBS) dự kiến chào bán hơn 141,86 triệu cổ phiếu ra công chúng trong quý II với giá 30.000 đồng mỗi cổ phiếu....
+
+- ★☆☆ **[VN-Index không chinh phục được mốc 1.950 điểm](https://vnexpress.net/vn-index-khong-chinh-phuc-duoc-moc-1-950-diem-5075728.html)**
+  - *(Tue, 19 May 2026 16:16:42 +0700)*
+  - VN-Index giảm 15 điểm bởi áp lực xả hàng những mã có vốn nhà nước chi phối, do vậy chưa thể chinh phục mốc 1.950 điểm như dự đoán của nhiều nhóm phân tích....
 
 - ★☆☆ **[3 khái niệm 'nhập môn' cho nhà đầu tư quỹ mở](https://vnexpress.net/3-khai-niem-nhap-mon-cho-nha-dau-tu-quy-mo-5075334.html)**
   - *(Tue, 19 May 2026 08:00:00 +0700)*
@@ -553,8 +565,4 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Thu giữ loạt hàng giả ở Saigon Square, chợ Bến Thành](https://vnexpress.net/thu-giu-loat-hang-gia-o-saigon-square-cho-ben-thanh-5074046.html)**
   - *(Thu, 14 May 2026 21:42:38 +0700)*
   - Quản lý thị trường TP HCM vừa kiểm tra đột xuất Saigon Square và chợ Bến Thành thu giữ nhiều hàng giả, không rõ nguồn gốc và xử phạt hơn nửa tỷ đồng....
-
-- ★☆☆ **[Thứ trưởng Hoàng Trung: Doanh nghiệp muốn đầu tư phòng kiểm nghiệm phải chờ 6 tháng duyệt hồ sơ](https://vnexpress.net/thu-truong-hoang-trung-doanh-nghiep-muon-dau-tu-phong-kiem-nghiem-phai-cho-6-thang-duyet-ho-so-5073902.html)**
-  - *(Thu, 14 May 2026 15:48:25 +0700)*
-  - Dù việc kiểm định nông sản đang quá tải, doanh nghiệp xin đầu tư phòng kiểm nghiệm vẫn phải chờ duyệt tới nửa năm vì nhiều thủ tục, theo Thứ trưởng Nông nghiệp & Môi trường Hoàng Trung....
 
