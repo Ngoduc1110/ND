@@ -52,24 +52,37 @@ git commit -m "Auto-update data and report at %mydate% %mytime%"
 git push origin main
 
 echo.
-echo [*] Buoc 4: Day du lieu CHISONGANH len GitHub rieng...
+echo [*] Buoc 4: Day du lieu CHISONGANH ^& TOANBOCOPHIEU len GitHub rieng...
 set "CHISONGANH_SOURCE=D:\Dulieuxuatra\CHISONGANH.csv"
+set "YTD_SOURCE=D:\Dulieuxuatra\toanbocophieu\dulieutoanbocophieutudaunam2026dennay_baogomCSTC.csv"
 set "CHISONGANH_REPO=D:\Vibecoding\ND-CHISONGANH"
 
-if exist "%CHISONGANH_SOURCE%" (
-    if exist "%CHISONGANH_REPO%" (
+if exist "%CHISONGANH_REPO%" (
+    cd /d "%CHISONGANH_REPO%"
+    
+    if exist "%CHISONGANH_SOURCE%" (
         copy /Y "%CHISONGANH_SOURCE%" "%CHISONGANH_REPO%\" >nul
-        cd /d "%CHISONGANH_REPO%"
         git add CHISONGANH.csv
-        git commit -m "Auto-update CHISONGANH data at %mydate% %mytime%"
-        git push origin main
-        cd /d "%~dp0"
-        echo [+] Da day thanh cong CHISONGANH len GitHub
+        echo [+] Da dong bo CHISONGANH.csv
     ) else (
-        echo [!] Khong tim thay repo tai %CHISONGANH_REPO%
+        echo [!] Khong tim thay file nguon CHISONGANH tai %CHISONGANH_SOURCE%
     )
+    
+    if exist "%YTD_SOURCE%" (
+        copy /Y "%YTD_SOURCE%" "%CHISONGANH_REPO%\" >nul
+        git add dulieutoanbocophieutudaunam2026dennay_baogomCSTC.csv
+        echo [+] Da dong bo dulieutoanbocophieutudaunam2026dennay_baogomCSTC.csv
+    ) else (
+        echo [!] Khong tim thay file nguon YTD tai %YTD_SOURCE%
+    )
+    
+    git commit -m "Auto-update data files at %mydate% %mytime%"
+    git push origin main
+    echo [+] Da day thanh cong du lieu moi len repo ND-CHISONGANH
+    
+    cd /d "%~dp0"
 ) else (
-    echo [!] Khong tim thay file nguon CHISONGANH tai %CHISONGANH_SOURCE%
+    echo [!] Khong tim thay repo tai %CHISONGANH_REPO%
 )
 
 echo.
