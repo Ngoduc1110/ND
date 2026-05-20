@@ -1,8 +1,12 @@
-# Báo cáo tin tức thị trường (2026-05-20 08:40)
+# Báo cáo tin tức thị trường (2026-05-20 09:39)
 
 Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
+- ★★★ **[SP 500 giảm ba phiên liên tiếp vì mối lo lãi suất tăng, giá dầu trượt nhẹ](https://vneconomy.vn/sp-500-giam-ba-phien-lien-tiep-vi-moi-lo-lai-suat-tang-gia-dau-truot-nhe.htm)**
+  - *(Wed, 20 May 2026 01:20:49 GMT)*
+  - Kh#244;ng chỉ đặt ra trở ngại đối với triển vọng tăng trưởng kinh tế Mỹ trong d#224;i hạn, lợi suất tăng c#242;n đe dọa mức định gi#225; đ#227; bị đẩy l#234;n rất cao ở nhiều cổ phiếu chip......
+
 - ★★★ **[Giá vàng lao dốc khi lợi suất trái phiếu kho bạc Mỹ lên cao nhất gần 19 năm](https://vneconomy.vn/gia-vang-lao-doc-khi-loi-suat-trai-phieu-kho-bac-my-len-cao-nhat-gan-19-nam.htm)**
   - *(Wed, 20 May 2026 00:30:12 GMT)*
   - Từ tuần trước, t#236;nh trạng b#225;n th#225;o tr#234;n thị trường tr#225;i phiếu ch#237;nh phủ to#224;n cầu đ#227; khiến thị trường kim loại qu#253; “vạ l#226;y”......
@@ -82,10 +86,6 @@ Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoá
 - ★★★ **[Tỷ giá đồng yên biến động mạnh trong lúc Bộ trưởng Bessent thăm Nhật Bản](https://vneconomy.vn/ty-gia-dong-yen-bien-dong-manh-trong-luc-bo-truong-bessent-tham-nhat-ban.htm)**
   - *(Wed, 13 May 2026 03:47:17 GMT)*
   - Giới chức Nhật Bản vốn tin rằng một sự ủng hộ từ #244;ng Bessent sẽ gi#250;p củng cố t#225;c dụng của việc họ can thiệp v#224;o thị trường tiền tệ, theo đ#243; cản lại #225;p lực mất gi#225; đồng y#23...
-
-- ★★★ **[Lạm phát ở Mỹ cao nhất gần 3 năm do giá xăng dầu tăng mạnh, Fed gặp khó](https://vneconomy.vn/lam-phat-o-my-cao-nhat-gan-3-nam-do-gia-xang-dau-tang-manh-fed-gap-kho.htm)**
-  - *(Wed, 13 May 2026 02:04:51 GMT)*
-  - Giới chuy#234;n gia cảnh b#225;o rằng gi#225; cả ở nền kinh tế lớn nhất thế giới sẽ tiếp tục leo thang tr#234;n phạm vi ng#224;y c#224;ng rộng hơn trong những th#225;ng sắp tới, khiến Fed kh#243; hạ l...
 
 - ★★☆ **[Chứng khoán LPBS làm rõ kế hoạch IPO: Tháng 7 lên sàn, thu về 4.200 tỷ, mục tiêu tăng trưởng số 1 thị trường](https://vneconomy.vn/chung-khoan-lpbs-lam-ro-ke-hoach-ipo-thang-7-len-san-thu-ve-4200-ty-muc-tieu-tang-truong-so-1-thi-truong.htm)**
   - *(Tue, 19 May 2026 11:54:52 GMT)*
@@ -248,6 +248,10 @@ Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoá
   - *(Fri, 15 May 2026 20:00:00 +0700)*
   - Hãng taxi điện ký biên bản ghi nhớ, thỏa thuận đặt cọc với các doanh nghiệp vận tải, sắp vận hành 18.497 ôtô điện VinFast tại thị trường Philippines, hôm 15/5....
 
+- ★☆☆ **[Nhiều bạn trẻ bắt đầu tích lũy với sản phẩm bạc](https://vnexpress.net/nhieu-ban-tre-bat-dau-tich-luy-voi-san-pham-bac-5075765.html)**
+  - *(Wed, 20 May 2026 09:00:00 +0700)*
+  - Người trẻ chọn tích lũy bạc nhờ mức vốn dễ tiếp cận, tính linh hoạt cao và khả năng phù hợp với kế hoạch quản lý tài chính cá nhân dài hạn....
+
 - ★☆☆ **[Mô hình 'rổ tài sản chung' của chứng chỉ quỹ](https://vnexpress.net/mo-hinh-ro-tai-san-chung-cua-chung-chi-quy-5075762.html)**
   - *(Wed, 20 May 2026 08:00:00 +0700)*
   - Chứng chỉ quỹ hoạt động theo cơ chế góp vốn, nhà đầu tư chỉ cần bỏ một khoản tiền nhỏ nhưng sở hữu gián tiếp rổ tài sản rộng được quản lý bởi các chuyên gia....
@@ -393,9 +397,13 @@ Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 19 May 26 09:03:00 +0700)*
   - Bộ Tài chính đã dự thảo Thông tư quy định giao dịch điện tử trên thị trường chứng khoán nhằm thay thế Thông tư số 134/2017/TT-BTC ngày 19/12/2017....
 
-- ★★☆ **[Dòng tiền đổ mạnh vào cổ phiếu doanh nghiệp nhà nước](https://cafef.vn/dong-tien-do-manh-vao-co-phieu-doanh-nghiep-nha-nuoc-188260518200336407.chn)**
-  - *(Mon, 18 May 26 20:03:00 +0700)*
-  - Có lúc mất gần 13 điểm vì áp lực bán ở nhóm bất động sản và bán lẻ, VN-Index vẫn bất ngờ đảo chiều tăng mạnh trong phiên 18/5 nhờ dòng tiền đổ dồn vào nhóm doanh nghiệp nhà nước, ngân hàng và dầu khí....
+- ★☆☆ **[Thay đổi nhân sự tại VIB](https://cafef.vn/thay-doi-nhan-su-tai-vib-188260520091152727.chn)**
+  - *(Wed, 20 May 26 09:34:00 +0700)*
+  - Ông Hồ Vân Long không còn đảm nhận chức vụ  Phó Tổng Giám đốc, Giám đốc Ban Dịch vụ Tài chính/Giám đốc Tài chính mà giữ chức Giám đốc Chiến lược cấp cao tại VIB....
+
+- ★☆☆ **[DXG chốt quyền phân bổ 155,7 triệu cổ phiếu thưởng](https://cafef.vn/dxg-chot-quyen-phan-bo-1557-trieu-co-phieu-thuong-18826052009103237.chn)**
+  - *(Wed, 20 May 26 09:10:00 +0700)*
+  - Ngày 29/5 tới, DXG sẽ chốt danh sách cổ đông để phát hành 155,7 triệu cổ phiếu thưởng...
 
 - ★☆☆ **[Hủy tư cách công ty đại chúng của Đại Trường Thành Holdings](https://cafef.vn/huy-tu-cach-cong-ty-dai-chung-cua-dai-truong-thanh-holdings-18826051923521956.chn)**
   - *(Wed, 20 May 26 00:09:00 +0700)*
@@ -480,14 +488,6 @@ Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Chủ tịch Phạm Minh Hương: Cơ hội lớn chưa từng có đang mở ra, VNDirect chuẩn bị "comeback"](https://cafef.vn/chu-tich-pham-minh-huong-co-hoi-lon-chua-tung-co-dang-mo-ra-vndirect-chuan-bi-comeback-188260518224957016.chn)**
   - *(Tue, 19 May 26 05:06:00 +0700)*
   - Lãnh đạo VNDirect đánh giá chưa bao giờ ngành tài chính, chứng khoán và thị trường vốn có cơ hội lớn như hiện nay, khi vai trò của công ty chứng khoán ngày càng được doanh nghiệp, nhà đầu tư và cơ qua...
-
-- ★☆☆ **[Tự doanh CTCK bán ròng hơn 600 tỷ phiên đầu tuần, cổ phiếu nào là tâm điểm?](https://cafef.vn/tu-doanh-ctck-ban-rong-hon-600-ty-phien-dau-tuan-co-phieu-nao-la-tam-diem-188260518200531432.chn)**
-  - *(Mon, 18 May 26 20:05:00 +0700)*
-  - Tự doanh CTCK bán ròng 649 tỷ đồng trên HOSE....
-
-- ★☆☆ **[Sếp VNDirect nói từng 'rất ngây thơ' khi nghĩ tiền có thể mua đội ngũ giỏi](https://cafef.vn/sep-vndirect-noi-tung-rat-ngay-tho-khi-nghi-tien-co-the-mua-doi-ngu-gioi-188260518200410614.chn)**
-  - *(Mon, 18 May 26 20:04:00 +0700)*
-  - Bà Phạm Minh Hương - Chủ tịch Hội đồng quản trị Công ty cổ phần (CTCP) Chứng khoán VNDirect - thừa nhận, từng “rất ngây thơ” khi cho rằng có thể dùng tiền để thu hút nhân sự giỏi từ thị trường. Lãnh đ...
 
 ## Vietstock
 - ★★★ **[FTSE, MSCI đang tái định hình thị trường tài chính châu Á, Hàn Quốc và Việt Nam kỳ vọng hút vốn](http://vietstock.vn/2026/05/ftse-msci-dang-tai-dinh-hinh-thi-truong-tai-chinh-chau-a-han-quoc-va-viet-nam-ky-vong-hut-von-830-1444061.htm)**
