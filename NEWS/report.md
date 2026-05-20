@@ -1,4 +1,4 @@
-# Báo cáo tin tức thị trường (2026-05-20 09:39)
+# Báo cáo tin tức thị trường (2026-05-20 10:06)
 
 Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
@@ -345,6 +345,10 @@ Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 19 May 26 08:34:00 +0700)*
   - Theo chuyên gia, rủi ro ngắn hạn áp đảo khi xung đột Trung Đông kéo dài có thể giữ giá dầu cao, khuếch đại áp lực tỷ giá và ngân hàng trong bối cảnh đòn bẩy doanh nghiệp cao....
 
+- ★★☆ **[SeABank phát hành 583,8 triệu cổ phiếu trả cổ tức](https://cafef.vn/seabank-phat-hanh-5838-trieu-co-phieu-tra-co-tuc-188260520091447843.chn)**
+  - *(Wed, 20 May 26 09:54:00 +0700)*
+  - SeABank dự kiến phát hành 583,8 triệu cổ phiếu để trả cổ tức tỷ lệ hơn 20,5%....
+
 - ★★☆ **[PC1 công bố BCTC, lợi nhuận quý 1 tăng 86% so với cùng kỳ](https://cafef.vn/pc1-cong-bo-bctc-loi-nhuan-quy-1-tang-86-so-voi-cung-ky-188260520082436639.chn)**
   - *(Wed, 20 May 26 08:24:00 +0700)*
   - Trước khi cổ bố BCTC, cổ phiếu PC1 vừa có phiên tăng kịch trần sau chuỗi miệt mài dò đáy khi dàn lãnh đạo bị khởi tố....
@@ -484,10 +488,6 @@ Tổng cộng: **141** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Chứng khoán lập đỉnh, tài khoản vẫn âm: Chuyên gia cảnh báo rủi ro lớn](https://cafef.vn/chung-khoan-lap-dinh-tai-khoan-van-am-chuyen-gia-canh-bao-rui-ro-lon-188260519074149085.chn)**
   - *(Tue, 19 May 26 07:41:00 +0700)*
   - Đà tăng hiện tại mang tính phân hóa rất cao khi dòng tiền chưa lan tỏa rộng mà chủ yếu tập trung vào một số nhóm ngành hoặc cổ phiếu có câu chuyện riêng....
-
-- ★☆☆ **[Chủ tịch Phạm Minh Hương: Cơ hội lớn chưa từng có đang mở ra, VNDirect chuẩn bị "comeback"](https://cafef.vn/chu-tich-pham-minh-huong-co-hoi-lon-chua-tung-co-dang-mo-ra-vndirect-chuan-bi-comeback-188260518224957016.chn)**
-  - *(Tue, 19 May 26 05:06:00 +0700)*
-  - Lãnh đạo VNDirect đánh giá chưa bao giờ ngành tài chính, chứng khoán và thị trường vốn có cơ hội lớn như hiện nay, khi vai trò của công ty chứng khoán ngày càng được doanh nghiệp, nhà đầu tư và cơ qua...
 
 ## Vietstock
 - ★★★ **[FTSE, MSCI đang tái định hình thị trường tài chính châu Á, Hàn Quốc và Việt Nam kỳ vọng hút vốn](http://vietstock.vn/2026/05/ftse-msci-dang-tai-dinh-hinh-thi-truong-tai-chinh-chau-a-han-quoc-va-viet-nam-ky-vong-hut-von-830-1444061.htm)**
