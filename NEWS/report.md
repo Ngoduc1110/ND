@@ -1,202 +1,16 @@
-# Báo cáo tin tức thị trường (2026-05-21 19:08)
+# Báo cáo tin tức thị trường (2026-05-22 10:32)
 
-Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
-
-## VnExpress Business
-- ★★★ **[Điều chỉnh giá xăng dầu từ 15h](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-21-5-5076515.html)**
-  - *(Thu, 21 May 2026 14:31:16 +0700)*
-  - Từ 15h ngày 21/5, giá xăng, dầu cùng điều chỉnh theo đà biến động của thị trường năng lượng thế giới....
-
-- ★★★ **[Ngân hàng Nhà nước: Không thể ưu tiên tín dụng cho riêng bất động sản](https://vnexpress.net/ngan-hang-nha-nuoc-khong-the-uu-tien-tin-dung-cho-rieng-bat-dong-san-5076251.html)**
-  - *(Thu, 21 May 2026 00:01:00 +0700)*
-  - Đại diện Ngân hàng Nhà nước khẳng định điều hành tín dụng phải bảo đảm cân bằng giữa tăng trưởng và an toàn hệ thống, không thể ưu tiên riêng cho bất động sản....
-
-- ★★★ **[Phó thủ tướng: Không để phát sinh cơ chế 'giữ chỗ' dự án điện gió ngoài khơi](https://vnexpress.net/pho-thu-tuong-khong-de-phat-sinh-co-che-giu-cho-du-an-dien-gio-ngoai-khoi-5075819.html)**
-  - *(Tue, 19 May 2026 19:21:32 +0700)*
-  - Phó thủ tướng lưu ý cơ chế giao khảo sát điện gió ngoài khơi, không đồng nghĩa với chấp thuận chủ trương đầu tư, tránh phát sinh tình trạng giữ chỗ hay độc quyền đầu tư....
-
-- ★★★ **[Thủ tướng yêu cầu hoàn thành cơ sở dữ liệu đất đai trong năm nay](https://vnexpress.net/thu-tuong-yeu-cau-hoan-thanh-co-so-du-lieu-dat-dai-trong-nam-nay-5075787.html)**
-  - *(Tue, 19 May 2026 17:44:10 +0700)*
-  - Các địa phương phải hoàn thành cơ sở dữ liệu quốc gia về đất đai trong 2026, nhằm minh bạch thị trường và chuyển đổi số....
-
-- ★★☆ **[VN-Index giảm hơn 16 điểm](https://vnexpress.net/vn-index-giam-hon-16-diem-5076612.html)**
-  - *(Thu, 21 May 2026 15:46:02 +0700)*
-  - Cổ phiếu VIC của Vingroup giảm 3,5% và trở thành nhân tố chính khiến thị trường chứng khoán sụt hơn 16 điểm....
-
-- ★★☆ **[Bầu Đức tiếp tục đăng ký mua thêm 4 triệu cổ phiếu HAG](https://vnexpress.net/bau-duc-tiep-tuc-dang-ky-mua-them-4-trieu-co-phieu-hag-5076173.html)**
-  - *(Wed, 20 May 2026 15:49:38 +0700)*
-  - Đây là lần thứ ba từ đầu năm bầu Đức đăng ký mua cổ phiếu HAG, qua đó nâng tỷ lệ sở hữu tại Hoàng Anh Gia Lai lên khoảng 25,4% nếu giao dịch hoàn tất....
-
-- ★★☆ **[Cổ phiếu Hóa chất Đức Giang sắp bị hạn chế giao dịch](https://vnexpress.net/co-phieu-hoa-chat-duc-giang-sap-bi-han-che-giao-dich-5076043.html)**
-  - *(Wed, 20 May 2026 15:34:08 +0700)*
-  - Cổ phiếu DGC của Hóa chất Đức Giang sẽ chỉ được giao dịch trong phiên chiều kể từ ngày 26/5....
-
-- ★★☆ **[Mua bán chứng khoán có thể cần xác thực sinh trắc học khuôn mặt](https://vnexpress.net/mua-ban-chung-khoan-co-the-can-xac-thuc-sinh-trac-hoc-khuon-mat-5075640.html)**
-  - *(Tue, 19 May 2026 15:23:36 +0700)*
-  - Để mua bán chứng khoán trực tuyến, nhà đầu tư cần khớp đúng thông tin sinh trắc học trong giao dịch đầu tiên của mỗi phiên đăng nhập, theo đề xuất mới của Bộ Tài chính....
-
-- ★★☆ **[Bảo Tín Mạnh Hải chuẩn bị niêm yết cổ phiếu](https://vnexpress.net/bao-tin-manh-hai-chuan-bi-niem-yet-co-phieu-5075244.html)**
-  - *(Mon, 18 May 2026 19:06:50 +0700)*
-  - Bảo Tín Mạnh Hải, một trong những thương hiệu mua bán vàng lớn tại miền Bắc, sẽ chào bán cổ phiếu lần đầu ra công chúng (IPO) vào quý IV....
-
-- ★★☆ **[Cổ phiếu của doanh nghiệp nhà nước 'dậy sóng'](https://vnexpress.net/co-phieu-cua-doanh-nghiep-nha-nuoc-day-song-5075262.html)**
-  - *(Mon, 18 May 2026 15:33:45 +0700)*
-  - Cổ phiếu của loạt doanh nghiệp do nhà nước nắm quyền chi phối như VCB, BID, PLX, BSR, GAS… tăng vọt, giúp VN-Index tích lũy thêm 6 điểm và lập kỷ lục mới....
-
-- ★☆☆ **[Đề xuất thu nhập tháng trên 28,6 triệu đồng mới phải nộp thuế](https://vnexpress.net/de-xuat-thu-nhap-thang-tren-28-6-trieu-dong-moi-phai-nop-thue-5076641.html)**
-  - *(Thu, 21 May 2026 16:46:07 +0700)*
-  - Sau giảm trừ chi phí y tế, giáo dục tối đa 47 triệu đồng mỗi năm, cá nhân có một người phụ thuộc, thu nhập trên 28,63 triệu đồng mỗi tháng mới phải nộp thuế, theo đề xuất của Bộ Tài chính....
-
-- ★☆☆ **[Vì sao Hà Nội chưa hút được nhà đầu tư chiến lược như Samsung, Nvidia?](https://vnexpress.net/vi-sao-ha-noi-chua-hut-duoc-nha-dau-tu-chien-luoc-nhu-samsung-nvidia-5076138.html)**
-  - *(Thu, 21 May 2026 11:34:15 +0700)*
-  - Điểm nghẽn về thủ tục hành chính, yêu cầu chưa rõ ràng khiến Hà Nội vẫn chưa hút được nhà đầu tư chiến lược lớn như Samsung, Nvidia....
-
-- ★☆☆ **[Ông Trần Thanh Tân rời vị trí Phó Chủ tịch HĐQT Dragon Capital](https://vnexpress.net/ong-tran-thanh-tan-roi-vi-tri-pho-chu-tich-hdqt-dragon-capital-5076448.html)**
-  - *(Thu, 21 May 2026 11:00:00 +0700)*
-  - Hội đồng Quản trị Công ty Cổ phần Quản lý Quỹ Đầu tư Dragon Capital Việt Nam đã chấp thuận đơn từ nhiệm vị trí Phó Chủ tịch HĐQT của ông Trần Thanh Tân, có hiệu lực từ ngày 26/5....
-
-- ★☆☆ **[Cổ phiếu Thaiholdings tăng gấp đôi trong gần một tháng](https://vnexpress.net/co-phieu-thaiholdings-tang-gap-doi-trong-gan-mot-thang-5076217.html)**
-  - *(Wed, 20 May 2026 17:05:11 +0700)*
-  - Tính từ đầu tháng 5, cổ phiếu của Thaiholdings tăng 103% sau tin công ty liên kết xây dựng tổ hợp nghỉ dưỡng 5 tỷ USD tại Ninh Bình....
-
-- ★☆☆ **[VN-Index biến động 'như tàu lượn'](https://vnexpress.net/vn-index-bien-dong-nhu-tau-luon-5076178.html)**
-  - *(Wed, 20 May 2026 15:50:41 +0700)*
-  - Nhà đầu tư từ thận trọng cao độ sang giải ngân ồ ạt khiến VN-Index nhiều lần đảo chiều lên xuống, từ giảm 54 điểm thành tăng gần 1 điểm chỉ trong buổi chiều....
-
-- ★☆☆ **[Đề xuất dùng 300 tỷ đồng đào tạo 10.000 CEO trong 5 năm tới](https://vnexpress.net/de-xuat-dung-300-ty-dong-dao-tao-10-000-ceo-trong-5-nam-toi-5076018.html)**
-  - *(Wed, 20 May 2026 11:50:28 +0700)*
-  - Để đào tạo 10.000 CEO trong 5 năm tới, Bộ Tài chính ước tính mỗi năm ngân sách nhà nước cần chi 60 tỷ đồng, tương ứng mỗi học viên được hỗ trợ 28 triệu đồng....
-
-- ★☆☆ **[Nhiều bạn trẻ bắt đầu tích lũy với sản phẩm bạc](https://vnexpress.net/nhieu-ban-tre-bat-dau-tich-luy-voi-san-pham-bac-5075765.html)**
-  - *(Wed, 20 May 2026 09:00:00 +0700)*
-  - Người trẻ chọn tích lũy bạc nhờ mức vốn dễ tiếp cận, tính linh hoạt cao và khả năng phù hợp với kế hoạch quản lý tài chính cá nhân dài hạn....
-
-- ★☆☆ **[Mô hình 'rổ tài sản chung' của chứng chỉ quỹ](https://vnexpress.net/mo-hinh-ro-tai-san-chung-cua-chung-chi-quy-5075762.html)**
-  - *(Wed, 20 May 2026 08:00:00 +0700)*
-  - Chứng chỉ quỹ hoạt động theo cơ chế góp vốn, nhà đầu tư chỉ cần bỏ một khoản tiền nhỏ nhưng sở hữu gián tiếp rổ tài sản rộng được quản lý bởi các chuyên gia....
-
-- ★☆☆ **[Cắt giảm tiếp 56 ngành nghề đầu tư kinh doanh có điều kiện từ 1/7](https://vnexpress.net/cat-giam-tiep-56-nganh-nghe-dau-tu-kinh-doanh-co-dieu-kien-tu-1-7-5075827.html)**
-  - *(Tue, 19 May 2026 20:53:17 +0700)*
-  - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện được cắt giảm từ 198 xuống còn 142, theo Nghị quyết của Chính phủ....
-
-- ★☆☆ **[LPBS dự kiến chào bán hơn 141 triệu cổ phiếu trong quý II](https://vnexpress.net/lpbs-du-kien-chao-ban-hon-141-trieu-co-phieu-trong-quy-ii-5075733.html)**
-  - *(Tue, 19 May 2026 16:30:00 +0700)*
-  - Công ty Cổ phần Chứng khoán LPBank (LPBS) dự kiến chào bán hơn 141,86 triệu cổ phiếu ra công chúng trong quý II với giá 30.000 đồng mỗi cổ phiếu....
-
-- ★☆☆ **[VN-Index không chinh phục được mốc 1.950 điểm](https://vnexpress.net/vn-index-khong-chinh-phuc-duoc-moc-1-950-diem-5075728.html)**
-  - *(Tue, 19 May 2026 16:16:42 +0700)*
-  - VN-Index giảm 15 điểm bởi áp lực xả hàng những mã có vốn nhà nước chi phối, do vậy chưa thể chinh phục mốc 1.950 điểm như dự đoán của nhiều nhóm phân tích....
-
-- ★☆☆ **[3 khái niệm 'nhập môn' cho nhà đầu tư quỹ mở](https://vnexpress.net/3-khai-niem-nhap-mon-cho-nha-dau-tu-quy-mo-5075334.html)**
-  - *(Tue, 19 May 2026 08:00:00 +0700)*
-  - Chứng chỉ quỹ là gì, gồm những loại nào, lưu ý ra sao trước khi xuống tiền, là những khái niệm nhà đầu tư mới cần tìm hiểu....
-
-- ★☆☆ **[Doanh nghiệp TP HCM muốn phát triển du lịch concert](https://vnexpress.net/doanh-nghiep-tp-hcm-muon-phat-trien-du-lich-concert-5075395.html)**
-  - *(Tue, 19 May 2026 05:00:00 +0700)*
-  - Saigontourist và DatVietVAC - nhà sản xuất "Anh trai say hi" - sẽ cùng nhau phát triển nhiều chuỗi concert, fan meeting định kỳ tại TP HCM để thu hút du lịch....
-
-- ★☆☆ **[Cách để tránh chốt lời 'hụt' khi đầu tư chứng khoán](https://vnexpress.net/cach-de-tranh-chot-loi-hut-khi-dau-tu-chung-khoan-5074851.html)**
-  - *(Tue, 19 May 2026 00:00:00 +0700)*
-  - Chuyên gia khuyên chia nhỏ các lần chốt lời, xác định rõ nguyên tắc và hạn chế lấy mức giá cao trước đó làm cơ sở cho hiện tại....
-
-- ★☆☆ **[Bà Phạm Minh Hương: VNDirect đã bỏ lỡ cơ hội tăng trưởng trong 'cơn sóng' của thị trường](https://vnexpress.net/ba-pham-minh-huong-vndirect-da-bo-lo-co-hoi-tang-truong-trong-con-song-cua-thi-truong-5075360.html)**
-  - *(Mon, 18 May 2026 22:04:32 +0700)*
-  - Bà Phạm Minh Hương, Chủ tịch Chứng khoán VNDirect, cho biết công ty đã bỏ lỡ cơ hội tăng trưởng mảng dịch vụ chứng khoán trong giai đoạn thị trường đi lên, năm nay sẽ xây dựng chiến lược để trở lại đư...
-
-- ★☆☆ **[Doanh số bán lẻ Trung Quốc tăng chậm nhất 4 năm](https://vnexpress.net/doanh-so-ban-le-trung-quoc-tang-cham-nhat-4-nam-5075272.html)**
-  - *(Mon, 18 May 2026 17:05:00 +0700)*
-  - Kinh tế Trung Quốc chững lại trong tháng 4, khi cả tiêu dùng, sản lượng công nghiệp và tăng trưởng đầu tư đều không đạt dự báo....
-
-- ★☆☆ **[Hải Phòng triển khai nhiều chính sách hỗ trợ doanh nghiệp](https://vnexpress.net/hai-phong-trien-khai-nhieu-chinh-sach-ho-tro-doanh-nghiep-5074729.html)**
-  - *(Mon, 18 May 2026 11:00:00 +0700)*
-  - Hải Phòng triển khai hàng loạt chính sách hỗ trợ doanh nghiệp như đào tạo nhân lực, ưu đãi thuế, hỗ trợ vốn, cải cách thủ tục hành chính… nhằm thúc đẩy khu vực kinh tế tư nhân phát triển....
-
-- ★☆☆ **[Nhà đầu tư nên làm gì khi chứng khoán lên cao kỷ lục?](https://vnexpress.net/nha-dau-tu-nen-lam-gi-khi-chung-khoan-len-cao-ky-luc-5074966.html)**
-  - *(Mon, 18 May 2026 07:49:54 +0700)*
-  - Chuyên gia khuyên quan sát thanh khoản chứng khoán, dựa theo đó để chốt lời những cổ phiếu đạt mục tiêu và chỉ mua các mã có nền tảng tốt....
-
-- ★☆☆ **[Sẽ tạo điều kiện để doanh nghiệp chuyển đổi xanh dễ tiếp cận vốn](https://vnexpress.net/se-tao-dieu-kien-de-doanh-nghiep-chuyen-doi-xanh-de-tiep-can-von-5074672.html)**
-  - *(Sat, 16 May 2026 13:50:48 +0700)*
-  - Các tiêu chí về môi trường, dự án xanh, kinh tế tuần hoàn sẽ được sửa, nhằm tạo điều kiện để doanh nghiệp chuyển đổi xanh dễ tiếp cận với nguồn vốn bền vững....
-
-## Vietstock
-- ★★★ **[Đã đến lúc nâng hạng theo chuẩn MSCI](http://vietstock.vn/2026/05/da-den-luc-nang-hang-theo-chuan-msci-3358-1444083.htm)**
-  - *(Thu, 21 May 2026 11:02:00 +0700)*
-  - Việc FTSE Russell xác nhận lộ trình nâng hạng từ tháng 9/2026 là bước ngoặt quan trọng, nhưng đích đến tiếp theo của thị trường chứng khoán Việt Nam là MSCI. Sau nhiều cải cách về giao dịch, thanh toá...
-
-- ★★★ **[Theo dấu dòng tiền cá mập 20/05: Khối ngoại mua ròng trong phiên biến động](http://vietstock.vn/2026/05/theo-dau-dong-tien-ca-map-2005-khoi-ngoai-mua-rong-trong-phien-bien-dong-830-1444758.htm)**
-  - *(Wed, 20 May 2026 19:14:36 +0700)*
-  - Các mã ngân hàng là tâm điểm giao dịch của nhà đầu tư nước ngoài trong phiên hôm nay....
-
-- ★★☆ **[Cổ phiếu DGC vẫn được giao dịch cả ngày](http://vietstock.vn/2026/05/co-phieu-dgc-van-duoc-giao-dich-ca-ngay-830-1444962.htm)**
-  - *(Thu, 21 May 2026 10:33:55 +0700)*
-  - Sau công bố đưa cổ phiếu DGC của CTCP Tập đoàn Hóa chất Đức Giang vào diện hạn chế giao dịch, Sở Giao dịch Chứng khoán TP.HCM (HOSE) mới đây đã ra quyết định điều chỉnh án phạt dành cho ông lớn ngành ...
-
-- ★★☆ **[Ngày 21/05/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/05/ngay-21052026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1444735.htm)**
-  - *(Thu, 21 May 2026 10:00:00 +0700)*
-  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BCM, FPT, MSN, MBB, NLG, OCB, TPB, TCB, VPB, VNM....
-
-- ★★☆ **[DGC bị hạn chế giao dịch](http://vietstock.vn/2026/05/dgc-bi-han-che-giao-dich-830-1444563.htm)**
-  - *(Wed, 20 May 2026 12:01:44 +0700)*
-  - Do vẫn chưa thể nộp BCTC kiểm toán năm 2025, Sở Giao dịch Chứng khoán TPHCM (HOSE) quyết định chuyển cổ phiếu DGC của CTCP Tập đoàn Hóa chất Đức Giang từ diện kiểm soát sang hạn chế giao dịch....
-
-- ★☆☆ **[Vietstock Daily 22/05/2026: Thận trọng trở lại](http://vietstock.vn/2026/05/vietstock-daily-22052026-than-trong-tro-lai-1636-1445211.htm)**
-  - *(Thu, 21 May 2026 18:11:17 +0700)*
-  - VN-Index giảm điểm và test lại đường Middle của Bollinger Bands. Khối lượng giao dịch sụt giảm xuống dưới mức trung bình 20 phiên phản ánh tâm lý thận trọng của nhà đầu tư. Các chỉ báo Stochastic Osci...
-
-- ★☆☆ **[Nhịp đập Thị trường 21/05: Không giữ được mốc 1,900 sau phiên ATC](http://vietstock.vn/2026/05/nhip-dap-thi-truong-2105-khong-giu-duoc-moc-1900-sau-phien-atc-1636-1444975.htm)**
-  - *(Thu, 21 May 2026 16:37:00 +0700)*
-  - Dù rất nỗ lực trong phiên chiều, VN-Index vẫn thất bại trong việc duy trì mốc 1,900 điểm sau phiên ATC....
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 21/05: Rung lắc mạnh](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-2105-rung-lac-manh-585-1445057.htm)**
-  - *(Thu, 21 May 2026 12:55:20 +0700)*
-  - VN-Index rung lắc mạnh và chưa thể phá vỡ đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index tiếp tục tăng và vượt đỉnh cũ tháng 04/2026. HNX-Index diễn biến giằng co ...
-
-- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 21/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-phien-2105-830-1444831.htm)**
-  - *(Thu, 21 May 2026 08:00:00 +0700)*
-  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
-
-- ★☆☆ **[21/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/2105-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1444905.htm)**
-  - *(Thu, 21 May 2026 06:00:00 +0700)*
-  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
-
-- ★☆☆ **[Chứng khoán JB Việt Nam vi phạm công bố thông tin](http://vietstock.vn/2026/05/chung-khoan-jb-viet-nam-vi-pham-cong-bo-thong-tin-830-1444870.htm)**
-  - *(Wed, 20 May 2026 19:47:00 +0700)*
-  - Ngày 19/05 vừa qua, Thanh tra Chứng khoán Nhà nước đã ban hành quyết định xử phạt vi phạm hành chính đối với Công ty TNHH Chứng khoán JB Việt Nam (JBSV)...
-
-- ★☆☆ **[Vietstock Daily 21/05/2026: Diễn biến khó lường](http://vietstock.vn/2026/05/vietstock-daily-21052026-dien-bien-kho-luong-1636-1444739.htm)**
-  - *(Wed, 20 May 2026 18:29:59 +0700)*
-  - VN-Index hồi phục mạnh về cuối phiên và hình thành mẫu hình nến Long Lower Shadow, qua đó vẫn duy trì trên đường Middle của Bollinger Bands. Chỉ báo Stochastic Oscillator đã cắt xuống đường signal tro...
-
-- ★☆☆ **[Nhịp đập Thị trường 20/05: Phục hồi về sát mốc tham chiếu sau cú giảm sâu](http://vietstock.vn/2026/05/nhip-dap-thi-truong-2005-phuc-hoi-ve-sat-moc-tham-chieu-sau-cu-giam-sau-1636-1444515.htm)**
-  - *(Wed, 20 May 2026 16:57:00 +0700)*
-  - Kết thúc phiên giao dịch, VN-Index tăng 0.3 điểm (+0.02%), lên mức 1,913.23 điểm; HNX-Index tăng 1.83 điểm (+0.71%), lên mức 261.33 điểm. Độ rộng toàn thị trường với sắc đỏ áp đảo khi bên bán có 483 m...
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 20/05: Rủi ro ngắn hạn gia tăng](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-2005-rui-ro-ngan-han-gia-tang-585-1444598.htm)**
-  - *(Wed, 20 May 2026 13:21:42 +0700)*
-  - VN-Index chuẩn bị bước vào phiên giảm điểm  thứ hai và đang kiểm tra lại đường Middle của Bollinger Bands. HNX-Index đảo chiều giảm điểm đồng thời xuất hiện mẫu hình nến Bearish Engulfing....
-
-- ★☆☆ **[QNS - Đối diện thách thức (Kỳ 2)](http://vietstock.vn/2026/05/qns-doi-dien-thach-thuc-ky-2-582-1442082.htm)**
-  - *(Wed, 20 May 2026 10:02:00 +0700)*
-  - CTCP Đường Quảng Ngãi (UPCoM: QNS) duy trì nền tảng tài chính ổn định và chính sách cổ tức cao trong nhiều năm. Đồng thời, doanh nghiệp định hướng mở rộng sang ethanol nhiên liệu thông qua dự án Nhà m...
-
-- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 20/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-phien-2005-830-1444278.htm)**
-  - *(Wed, 20 May 2026 08:00:00 +0700)*
-  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
-
-- ★☆☆ **[20/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/2005-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1444423.htm)**
-  - *(Wed, 20 May 2026 06:02:00 +0700)*
-  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
-
-- ★☆☆ **[Nhựa bao bì Kiến Đức bị xử phạt lỗi công bố thông tin](http://vietstock.vn/2026/05/nhua-bao-bi-kien-duc-bi-xu-phat-loi-cong-bo-thong-tin-830-1444410.htm)**
-  - *(Tue, 19 May 2026 20:12:00 +0700)*
-  - Ngày 18/05/2026, Ủy ban Chứng khoán Nhà nước (UBCKNN) ban hành Quyết định xử phạt CTCP Thương mại Dịch vụ Nhựa bao bì Kiến Đức (NKDC) vì lỗi công bố thông tin....
-
-- ★☆☆ **[Một tập đoàn đa ngành bị xử phạt do vi phạm công bố thông tin](http://vietstock.vn/2026/05/mot-tap-doan-da-nganh-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-830-1444373.htm)**
-  - *(Tue, 19 May 2026 19:50:00 +0700)*
-  - CTCP Tập đoàn Xuân Thiện (HDAC) của doanh nhân Nguyễn Văn Thiện vừa bị Ủy ban Chứng khoán Nhà nước (UBCKNN) ban hành Quyết định xử phạt trong ngày 18/05/2026 do vi phạm quy định công bố thông tin....
+Tổng cộng: **143** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
+- ★★★ **[Dow Jones lập kỷ lục khi giá dầu giảm hai phiên liên tiếp](https://vneconomy.vn/dow-jones-lap-ky-luc-khi-gia-dau-giam-hai-phien-lien-tiep.htm)**
+  - *(Fri, 22 May 2026 01:10:06 GMT)*
+  - Thị trường chứng kho#225;n Mỹ tăng điểm trong phi#234;n giao dịch ng#224;y thứ Năm (21/5), với chỉ số Dow Jones đ#243;ng cửa ở mức cao chưa từng thấy......
+
+- ★★★ **[Giá vàng giằng co trong lúc chờ bước tiến đàm phán Mỹ - Iran](https://vneconomy.vn/gia-vang-giang-co-trong-luc-cho-buoc-tien-dam-phan-my-iran.htm)**
+  - *(Fri, 22 May 2026 00:21:58 GMT)*
+  - Gi#225; v#224;ng thế giới tiếp tục giằng co trong phạm vi rộng trong phi#234;n giao dịch ng#224;y thứ Năm (21/5), khi nh#224; đầu tư nghiền ngẫm những t#237;n hiệu tr#225;i chiều về đ#224;m ph#225;n k...
+
 - ★★★ **[Chứng khoán Mỹ xanh rực, giá dầu lao dốc 5%](https://vneconomy.vn/chung-khoan-my-xanh-ruc-gia-dau-lao-doc-5.htm)**
   - *(Thu, 21 May 2026 00:53:15 GMT)*
   - #193;p lực b#225;n th#225;o tr#234;n thị trường tr#225;i phiếu kho bạc Mỹ  giảm bớt, đưa lợi suất giảm trở lại, giải tỏa bớt sức #233;p b#225;n đ#232; nặng l#234;n cổ phiếu......
@@ -257,10 +71,6 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Sat, 16 May 2026 09:00:45 GMT)*
   - Thị trường tr#225;i phiếu to#224;n cầu đang trải qua một đợt b#225;n th#225;o mạnh mẽ khi nỗi lo về lạm ph#225;t k#233;o d#224;i. Động th#225;i n#224;y do t#225;c động từ cuộc chiến tranh Mỹ - Iran g#...
 
-- ★★★ **[Chứng khoán Mỹ giảm điểm mạnh vì cổ phiếu công nghệ bị bán, giá dầu leo thang](https://vneconomy.vn/chung-khoan-my-giam-diem-manh-vi-co-phieu-cong-nghe-bi-ban-gia-dau-leo-thang.htm)**
-  - *(Sat, 16 May 2026 01:44:28 GMT)*
-  - Lợi suất tr#225;i phiếu tăng mạnh cũng l#224; một nguy#234;n nh#226;n quan trọng khiến cổ phiếu bị b#225;n th#225;o......
-
 - ★★☆ **[VCBS chính thức tăng vốn điều lệ lên 8.500 tỷ đồng](https://vneconomy.vn/vcbs-chinh-thuc-tang-von-dieu-le-len-8500-ty-dong.htm)**
   - *(Thu, 21 May 2026 09:18:49 GMT)*
   - C#244;ng ty Chứng kho#225;n Vietcombank (VCBS) vừa được chấp thuận tăng vốn điều lệ l#234;n 8.500 tỷ đồng nhằm n#226;ng cao năng lực t#224;i ch#237;nh, mở rộng quy m#244; hoạt động v#224; đầu tư mạnh ...
@@ -308,6 +118,10 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[Xoay trụ thành công, VN-Index tiếp tục có đỉnh cao mới](https://vneconomy.vn/xoay-tru-thanh-cong-vn-index-tiep-tuc-co-dinh-cao-moi.htm)**
   - *(Mon, 18 May 2026 08:30:22 GMT)*
   - Bất chấp hai cổ phiếu vốn h#243;a lớn nhất thị trường l#224; VIC v#224; VHM giảm mạnh, VN-Index vẫn tăng nhẹ 0,33% phi#234;n đầu tuần, l#234;n mức đ#243;ng cửa cao lịch sử mới tại 1927,94 điểm. Cổ phi...
+
+- ★☆☆ **[Trạng thái giằng co vẫn chưa kết thúc](https://vneconomy.vn/trang-thai-giang-co-van-chua-ket-thuc.htm)**
+  - *(Fri, 22 May 2026 00:24:14 GMT)*
+  - VnEconomy giới thiệu nhận định v#224; khuyến nghị đầu tư của một số c#244;ng ty chứng kho#225;n về diễn biến thị trường ng#224;y 22/5/2026...
 
 - ★☆☆ **[Thanh khoản thấp đột biến, VN-Index lại mất mốc 1900 điểm](https://vneconomy.vn/thanh-khoan-thap-dot-bien-vn-index-lai-mat-moc-1900-diem.htm)**
   - *(Thu, 21 May 2026 08:26:49 GMT)*
@@ -409,11 +223,19 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Sun, 17 May 2026 02:55:36 GMT)*
   - Mặc d#249; VN-Index c#243; tuần tăng thứ 8 li#234;n tiếp nhưng qu#225;n t#237;nh đ#227; suy yếu nghi#234;m trọng khi c#225;c cổ phiếu dẫn dắt kh#244;ng duy tr#236; được sự đồng thuận....
 
-- ★☆☆ **[Nhà đầu tư cá nhân mua ròng đột biến, gần 2.000 tỷ đồng](https://vneconomy.vn/nha-dau-tu-ca-nhan-mua-rong-dot-bien-gan-2000-ty-dong.htm)**
-  - *(Fri, 15 May 2026 15:14:21 GMT)*
-  - Nh#224; đầu tư c#225; nh#226;n mua r#242;ng 1.946,9 tỷ đồng, trong đ#243; họ mua r#242;ng khớp lệnh l#224; 642,0 tỷ đồng....
-
 ## CafeF
+- ★★★ **[Thị trường tiền số hôm nay, 21-5: Một đề xuất mới từ Fed khiến giới đầu tư “đứng ngồi không yên”](https://cafef.vn/thi-truong-tien-so-hom-nay-21-5-mot-de-xuat-moi-tu-fed-khien-gioi-dau-tu-dung-ngoi-khong-yen-188260521220224126.chn)**
+  - *(Thu, 21 May 26 22:27:00 +0700)*
+  - Đề xuất mới của Fed khiến tổ chức liên quan tiền số buộc phải hoạt động thông qua một đơn vị liên kết đủ điều kiện...
+
+- ★★☆ **[Ông Đoàn Văn Hiểu Em bán xong 2 triệu cổ phiếu MWG, sẵn sàng tham ra IPO DMX](https://cafef.vn/ong-doan-van-hieu-em-ban-xong-2-trieu-co-phieu-mwg-san-sang-tham-ra-ipo-dmx-188260522102043705.chn)**
+  - *(Fri, 22 May 26 10:20:00 +0700)*
+  - Theo bản đăng ký giao dịch trước đó, mục đích ông Hiểu Em bán cổ phiếu MWG lần này là nhằm tham gia đầu tư vào đợt IPO của CTCP Đầu tư Điện Máy Xanh (DMX) – công ty con của MWG....
+
+- ★★☆ **[Thông tin bất thường về Chủ tịch Công ty Xây dựng Điện 2](https://cafef.vn/thong-tin-bat-thuong-ve-chu-tich-cong-ty-xay-dung-dien-2-188260521222246887.chn)**
+  - *(Fri, 22 May 26 00:01:00 +0700)*
+  - Công ty Cổ phần (CTCP) Tư vấn Xây dựng Điện 2 (PECC2, mã chứng khoán: TV2) vừa công bố thông tin bất thường liên quan đến việc Chủ tịch Hội đồng quản trị (HĐQT) Nguyễn Chơn Hùng và Kế toán trưởng Bùi ...
+
 - ★★☆ **[L40 chốt ngày đăng ký cuối cùng phát hành cổ phiếu trả cổ tức tỷ lệ 120%](https://cafef.vn/l40-chot-ngay-dang-ky-cuoi-cung-phat-hanh-co-phieu-tra-co-tuc-ty-le-120-188260521160503309.chn)**
   - *(Thu, 21 May 26 16:04:00 +0700)*
   - Trước đó, hồi đầu tháng 3/2026, HĐQT L40 đã thông qua phương án phát hành gần 12,96 triệu cổ phiếu để trả cổ tức từ nguồn lợi nhuận sau thuế chưa phân phối lũy kế đến ngày 31/12/2025 theo báo cáo tài ...
@@ -474,13 +296,21 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 20 May 26 14:40:00 +0700)*
   - Ngày 13/5 vừa qua, Chứng khoán Rồng Việt đã thanh toán 4,3 tỷ đồng tiền lãi và 659,1 tỷ đồng tiền gốc của trái phiếu mã VDS12502....
 
-- ★★☆ **[Vietcap dự kiến phát hành 4,6 triệu cổ phiếu ESOP cho 178 nhân viên](https://cafef.vn/vietcap-du-kien-phat-hanh-46-trieu-co-phieu-esop-cho-178-nhan-vien-188260520104408214.chn)**
-  - *(Wed, 20 May 26 11:43:00 +0700)*
-  - Vietcap triển khai phát hành 4,6 triệu cổ phiếu ESOP với giá 11.000 đồng/cổ phiếu cho 178 cán bộ, nhân viên....
+- ★☆☆ **[Nhóm nhà đầu tư VinaCapital trở lại ghế cổ đông lớn tại TNG](https://cafef.vn/nhom-nha-dau-tu-vinacapital-tro-lai-ghe-co-dong-lon-tai-tng-188260522094825212.chn)**
+  - *(Fri, 22 May 26 09:52:00 +0700)*
+  - Forum One - VinaCapital Vietnam Fund vừa mua vào 100.000 cổ phiếu TNG, qua đó tăng tỷ lệ sở hữu của cả nhóm VinaCapital lên mức 5,0165% và trở thành cổ đông lớn tại TNG....
 
-- ★★☆ **[Bầu Đức tăng tốc gom HAG và điều bất ngờ về tỉ lệ sở hữu cổ phiếu của người nhà](https://cafef.vn/bau-duc-tang-toc-gom-hag-va-dieu-bat-ngo-ve-ti-le-so-huu-co-phieu-cua-nguoi-nha-188260520103658069.chn)**
-  - *(Wed, 20 May 26 11:32:00 +0700)*
-  - Bầu Đức, tức ông Đoàn Nguyên Đức, Chủ tịch HĐQT Công ty CP Hoàng Anh Gia Lai (HAGL), tiếp tục đăng ký mua thêm 4 triệu cổ phiếu HAG....
+- ★☆☆ **[Giá cước cho thuê neo cao, doanh nghiệp sở hữu đội tàu container lớn nhất Việt Nam kỳ vọng tăng trưởng mạnh](https://cafef.vn/gia-cuoc-cho-thue-neo-cao-doanh-nghiep-so-huu-doi-tau-container-lon-nhat-viet-nam-ky-vong-tang-truong-manh-188260521214537445.chn)**
+  - *(Fri, 22 May 26 00:07:00 +0700)*
+  - MBS dự báo doanh thu cho thuê tàu của HAH đạt khoảng 2.178 tỷ trong năm 2026, tăng 17% so với cùng kỳ....
+
+- ★☆☆ **[Cổ đông một doanh nghiệp khoáng sản chuẩn bị nhận 3.500 đồng/cp ngay trong tháng 6](https://cafef.vn/co-dong-mot-doanh-nghiep-khoang-san-chuan-bi-nhan-3500-dong-cp-ngay-trong-thang-6-188260521221926482.chn)**
+  - *(Fri, 22 May 26 00:01:00 +0700)*
+  - Với 18 triệu cổ phiếu đang lưu hành, TMG sẽ phải chi khoảng 63 tỷ đồng trả cổ tức đợt này....
+
+- ★☆☆ **[Một cổ phiếu ngân hàng được tự doanh CTCK "gom" mạnh trong phiên 21/5](https://cafef.vn/mot-co-phieu-ngan-hang-duoc-tu-doanh-ctck-gom-manh-trong-phien-21-5-188260521194713.chn)**
+  - *(Thu, 21 May 26 19:47:00 +0700)*
+  - Tự doanh CTCK mua ròng 524 tỷ đồng trên HOSE....
 
 - ★☆☆ **[Đang thúc đẩy thu hồi tiền phong tỏa tại SCB để trả cho trái chủ vụ Vạn Thịnh Phát](https://cafef.vn/dang-thuc-day-thu-hoi-tien-phong-toa-tai-scb-de-tra-cho-trai-chu-vu-van-thinh-phat-188260521134731339.chn)**
   - *(Thu, 21 May 26 14:09:00 +0700)*
@@ -558,19 +388,193 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 20 May 26 15:33:00 +0700)*
   - Chuỗi tăng trần gợi nhớ phần nào “con sóng” từng đưa cổ phiếu này trở thành hiện tượng trên HNX cách đây vài năm....
 
-- ★☆☆ **[Đất Xanh chính thức đổi tên](https://cafef.vn/dat-xanh-chinh-thuc-doi-ten-1882605201321532.chn)**
-  - *(Wed, 20 May 26 13:22:00 +0700)*
-  - Đất Xanh Group đổi tên thành BLUEMARQ Group, chuyển từ mô hình phát triển bất động sản thành tập đoàn đầu tư, quản lý tài sản....
+## VnExpress Business
+- ★★★ **[Điều chỉnh giá xăng dầu từ 15h](https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-21-5-5076515.html)**
+  - *(Thu, 21 May 2026 14:31:16 +0700)*
+  - Từ 15h ngày 21/5, giá xăng, dầu cùng điều chỉnh theo đà biến động của thị trường năng lượng thế giới....
 
-- ★☆☆ **[Đón lô thiết bị cốt lõi, nhà máy điện rác Tâm Sinh Nghĩa Củ Chi tổng lực lắp đặt để kịp về đích](https://cafef.vn/don-lo-thiet-bi-cot-loi-nha-may-dien-rac-tam-sinh-nghia-cu-chi-tong-luc-lap-dat-de-kip-ve-dich-188260520132011521.chn)**
-  - *(Wed, 20 May 26 13:20:00 +0700)*
-  - Dự án Nhà máy đốt rác phát điện Tâm Sinh Nghĩa do Công ty cổ phần Đầu tư phát triển Tâm Sinh Nghĩa (Liên doanh giữa CTCP BCG Energy và Shanghai SUS Environment Co., Ltd.) làm chủ đầu tư, với tổng mức ...
+- ★★★ **[Ngân hàng Nhà nước: Không thể ưu tiên tín dụng cho riêng bất động sản](https://vnexpress.net/ngan-hang-nha-nuoc-khong-the-uu-tien-tin-dung-cho-rieng-bat-dong-san-5076251.html)**
+  - *(Thu, 21 May 2026 00:01:00 +0700)*
+  - Đại diện Ngân hàng Nhà nước khẳng định điều hành tín dụng phải bảo đảm cân bằng giữa tăng trưởng và an toàn hệ thống, không thể ưu tiên riêng cho bất động sản....
 
-- ★☆☆ **[Động thái mới nhất của bầu Đức sau tuyên bố “Ai có tiền cứ mua HAG giống tôi, lỗ thì cứ kêu tôi ra mà chửi”](https://cafef.vn/dong-thai-moi-nhat-cua-bau-duc-sau-tuyen-bo-ai-co-tien-cu-mua-hag-giong-toi-lo-thi-cu-keu-toi-ra-ma-chui-188260520111230069.chn)**
-  - *(Wed, 20 May 26 11:12:00 +0700)*
-  - Khi nói về cổ phiếu HAG tại Đại hội, ông Đức cho biết sẽ tiếp tục mua vào trong thời gian tới....
+- ★★★ **[Phó thủ tướng: Không để phát sinh cơ chế 'giữ chỗ' dự án điện gió ngoài khơi](https://vnexpress.net/pho-thu-tuong-khong-de-phat-sinh-co-che-giu-cho-du-an-dien-gio-ngoai-khoi-5075819.html)**
+  - *(Tue, 19 May 2026 19:21:32 +0700)*
+  - Phó thủ tướng lưu ý cơ chế giao khảo sát điện gió ngoài khơi, không đồng nghĩa với chấp thuận chủ trương đầu tư, tránh phát sinh tình trạng giữ chỗ hay độc quyền đầu tư....
 
-- ★☆☆ **[Doanh nghiệp xây lắp điện sắp phải rời sàn HOSE, cổ phiếu lập tức "nằm sàn"](https://cafef.vn/doanh-nghiep-xay-lap-dien-sap-phai-roi-san-hose-co-phieu-lap-tuc-nam-san-188260520105952059.chn)**
-  - *(Wed, 20 May 26 10:59:00 +0700)*
-  - Mặc dù giá giảm mạnh nhưng vẫn có gần 2 triệu cổ phiếu chồng bán tại mức giá sàn....
+- ★★★ **[Thủ tướng yêu cầu hoàn thành cơ sở dữ liệu đất đai trong năm nay](https://vnexpress.net/thu-tuong-yeu-cau-hoan-thanh-co-so-du-lieu-dat-dai-trong-nam-nay-5075787.html)**
+  - *(Tue, 19 May 2026 17:44:10 +0700)*
+  - Các địa phương phải hoàn thành cơ sở dữ liệu quốc gia về đất đai trong 2026, nhằm minh bạch thị trường và chuyển đổi số....
+
+- ★★☆ **[VN-Index giảm hơn 16 điểm](https://vnexpress.net/vn-index-giam-hon-16-diem-5076612.html)**
+  - *(Thu, 21 May 2026 15:46:02 +0700)*
+  - Cổ phiếu VIC của Vingroup giảm 3,5% và trở thành nhân tố chính khiến thị trường chứng khoán sụt hơn 16 điểm....
+
+- ★★☆ **[Bầu Đức tiếp tục đăng ký mua thêm 4 triệu cổ phiếu HAG](https://vnexpress.net/bau-duc-tiep-tuc-dang-ky-mua-them-4-trieu-co-phieu-hag-5076173.html)**
+  - *(Wed, 20 May 2026 15:49:38 +0700)*
+  - Đây là lần thứ ba từ đầu năm bầu Đức đăng ký mua cổ phiếu HAG, qua đó nâng tỷ lệ sở hữu tại Hoàng Anh Gia Lai lên khoảng 25,4% nếu giao dịch hoàn tất....
+
+- ★★☆ **[Cổ phiếu Hóa chất Đức Giang sắp bị hạn chế giao dịch](https://vnexpress.net/co-phieu-hoa-chat-duc-giang-sap-bi-han-che-giao-dich-5076043.html)**
+  - *(Wed, 20 May 2026 15:34:08 +0700)*
+  - Cổ phiếu DGC của Hóa chất Đức Giang sẽ chỉ được giao dịch trong phiên chiều kể từ ngày 26/5....
+
+- ★★☆ **[Mua bán chứng khoán có thể cần xác thực sinh trắc học khuôn mặt](https://vnexpress.net/mua-ban-chung-khoan-co-the-can-xac-thuc-sinh-trac-hoc-khuon-mat-5075640.html)**
+  - *(Tue, 19 May 2026 15:23:36 +0700)*
+  - Để mua bán chứng khoán trực tuyến, nhà đầu tư cần khớp đúng thông tin sinh trắc học trong giao dịch đầu tiên của mỗi phiên đăng nhập, theo đề xuất mới của Bộ Tài chính....
+
+- ★★☆ **[Bảo Tín Mạnh Hải chuẩn bị niêm yết cổ phiếu](https://vnexpress.net/bao-tin-manh-hai-chuan-bi-niem-yet-co-phieu-5075244.html)**
+  - *(Mon, 18 May 2026 19:06:50 +0700)*
+  - Bảo Tín Mạnh Hải, một trong những thương hiệu mua bán vàng lớn tại miền Bắc, sẽ chào bán cổ phiếu lần đầu ra công chúng (IPO) vào quý IV....
+
+- ★★☆ **[Cổ phiếu của doanh nghiệp nhà nước 'dậy sóng'](https://vnexpress.net/co-phieu-cua-doanh-nghiep-nha-nuoc-day-song-5075262.html)**
+  - *(Mon, 18 May 2026 15:33:45 +0700)*
+  - Cổ phiếu của loạt doanh nghiệp do nhà nước nắm quyền chi phối như VCB, BID, PLX, BSR, GAS… tăng vọt, giúp VN-Index tích lũy thêm 6 điểm và lập kỷ lục mới....
+
+- ★☆☆ **[Nên làm gì khi danh mục chứng khoán thua lỗ?](https://vnexpress.net/nen-lam-gi-khi-danh-muc-chung-khoan-thua-lo-5076052.html)**
+  - *(Fri, 22 May 2026 00:00:00 +0700)*
+  - Thua lỗ khi đầu tư không hiếm trên thị trường chứng khoán, nhưng cách phản ứng mới quyết định kết quả dài hạn....
+
+- ★☆☆ **[Đề xuất thu nhập tháng trên 28,6 triệu đồng mới phải nộp thuế](https://vnexpress.net/de-xuat-thu-nhap-thang-tren-28-6-trieu-dong-moi-phai-nop-thue-5076641.html)**
+  - *(Thu, 21 May 2026 16:46:07 +0700)*
+  - Sau giảm trừ chi phí y tế, giáo dục tối đa 47 triệu đồng mỗi năm, cá nhân có một người phụ thuộc, thu nhập trên 28,63 triệu đồng mỗi tháng mới phải nộp thuế, theo đề xuất của Bộ Tài chính....
+
+- ★☆☆ **[Vì sao Hà Nội chưa hút được nhà đầu tư chiến lược như Samsung, Nvidia?](https://vnexpress.net/vi-sao-ha-noi-chua-hut-duoc-nha-dau-tu-chien-luoc-nhu-samsung-nvidia-5076138.html)**
+  - *(Thu, 21 May 2026 11:34:15 +0700)*
+  - Điểm nghẽn về thủ tục hành chính, yêu cầu chưa rõ ràng khiến Hà Nội vẫn chưa hút được nhà đầu tư chiến lược lớn như Samsung, Nvidia....
+
+- ★☆☆ **[Ông Trần Thanh Tân rời vị trí Phó Chủ tịch HĐQT Dragon Capital](https://vnexpress.net/ong-tran-thanh-tan-roi-vi-tri-pho-chu-tich-hdqt-dragon-capital-5076448.html)**
+  - *(Thu, 21 May 2026 11:00:00 +0700)*
+  - Hội đồng Quản trị Công ty Cổ phần Quản lý Quỹ Đầu tư Dragon Capital Việt Nam đã chấp thuận đơn từ nhiệm vị trí Phó Chủ tịch HĐQT của ông Trần Thanh Tân, có hiệu lực từ ngày 26/5....
+
+- ★☆☆ **[Cổ phiếu Thaiholdings tăng gấp đôi trong gần một tháng](https://vnexpress.net/co-phieu-thaiholdings-tang-gap-doi-trong-gan-mot-thang-5076217.html)**
+  - *(Wed, 20 May 2026 17:05:11 +0700)*
+  - Tính từ đầu tháng 5, cổ phiếu của Thaiholdings tăng 103% sau tin công ty liên kết xây dựng tổ hợp nghỉ dưỡng 5 tỷ USD tại Ninh Bình....
+
+- ★☆☆ **[VN-Index biến động 'như tàu lượn'](https://vnexpress.net/vn-index-bien-dong-nhu-tau-luon-5076178.html)**
+  - *(Wed, 20 May 2026 15:50:41 +0700)*
+  - Nhà đầu tư từ thận trọng cao độ sang giải ngân ồ ạt khiến VN-Index nhiều lần đảo chiều lên xuống, từ giảm 54 điểm thành tăng gần 1 điểm chỉ trong buổi chiều....
+
+- ★☆☆ **[Đề xuất dùng 300 tỷ đồng đào tạo 10.000 CEO trong 5 năm tới](https://vnexpress.net/de-xuat-dung-300-ty-dong-dao-tao-10-000-ceo-trong-5-nam-toi-5076018.html)**
+  - *(Wed, 20 May 2026 11:50:28 +0700)*
+  - Để đào tạo 10.000 CEO trong 5 năm tới, Bộ Tài chính ước tính mỗi năm ngân sách nhà nước cần chi 60 tỷ đồng, tương ứng mỗi học viên được hỗ trợ 28 triệu đồng....
+
+- ★☆☆ **[Nhiều bạn trẻ bắt đầu tích lũy với sản phẩm bạc](https://vnexpress.net/nhieu-ban-tre-bat-dau-tich-luy-voi-san-pham-bac-5075765.html)**
+  - *(Wed, 20 May 2026 09:00:00 +0700)*
+  - Người trẻ chọn tích lũy bạc nhờ mức vốn dễ tiếp cận, tính linh hoạt cao và khả năng phù hợp với kế hoạch quản lý tài chính cá nhân dài hạn....
+
+- ★☆☆ **[Mô hình 'rổ tài sản chung' của chứng chỉ quỹ](https://vnexpress.net/mo-hinh-ro-tai-san-chung-cua-chung-chi-quy-5075762.html)**
+  - *(Wed, 20 May 2026 08:00:00 +0700)*
+  - Chứng chỉ quỹ hoạt động theo cơ chế góp vốn, nhà đầu tư chỉ cần bỏ một khoản tiền nhỏ nhưng sở hữu gián tiếp rổ tài sản rộng được quản lý bởi các chuyên gia....
+
+- ★☆☆ **[Cắt giảm tiếp 56 ngành nghề đầu tư kinh doanh có điều kiện từ 1/7](https://vnexpress.net/cat-giam-tiep-56-nganh-nghe-dau-tu-kinh-doanh-co-dieu-kien-tu-1-7-5075827.html)**
+  - *(Tue, 19 May 2026 20:53:17 +0700)*
+  - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện được cắt giảm từ 198 xuống còn 142, theo Nghị quyết của Chính phủ....
+
+- ★☆☆ **[LPBS dự kiến chào bán hơn 141 triệu cổ phiếu trong quý II](https://vnexpress.net/lpbs-du-kien-chao-ban-hon-141-trieu-co-phieu-trong-quy-ii-5075733.html)**
+  - *(Tue, 19 May 2026 16:30:00 +0700)*
+  - Công ty Cổ phần Chứng khoán LPBank (LPBS) dự kiến chào bán hơn 141,86 triệu cổ phiếu ra công chúng trong quý II với giá 30.000 đồng mỗi cổ phiếu....
+
+- ★☆☆ **[VN-Index không chinh phục được mốc 1.950 điểm](https://vnexpress.net/vn-index-khong-chinh-phuc-duoc-moc-1-950-diem-5075728.html)**
+  - *(Tue, 19 May 2026 16:16:42 +0700)*
+  - VN-Index giảm 15 điểm bởi áp lực xả hàng những mã có vốn nhà nước chi phối, do vậy chưa thể chinh phục mốc 1.950 điểm như dự đoán của nhiều nhóm phân tích....
+
+- ★☆☆ **[3 khái niệm 'nhập môn' cho nhà đầu tư quỹ mở](https://vnexpress.net/3-khai-niem-nhap-mon-cho-nha-dau-tu-quy-mo-5075334.html)**
+  - *(Tue, 19 May 2026 08:00:00 +0700)*
+  - Chứng chỉ quỹ là gì, gồm những loại nào, lưu ý ra sao trước khi xuống tiền, là những khái niệm nhà đầu tư mới cần tìm hiểu....
+
+- ★☆☆ **[Doanh nghiệp TP HCM muốn phát triển du lịch concert](https://vnexpress.net/doanh-nghiep-tp-hcm-muon-phat-trien-du-lich-concert-5075395.html)**
+  - *(Tue, 19 May 2026 05:00:00 +0700)*
+  - Saigontourist và DatVietVAC - nhà sản xuất "Anh trai say hi" - sẽ cùng nhau phát triển nhiều chuỗi concert, fan meeting định kỳ tại TP HCM để thu hút du lịch....
+
+- ★☆☆ **[Cách để tránh chốt lời 'hụt' khi đầu tư chứng khoán](https://vnexpress.net/cach-de-tranh-chot-loi-hut-khi-dau-tu-chung-khoan-5074851.html)**
+  - *(Tue, 19 May 2026 00:00:00 +0700)*
+  - Chuyên gia khuyên chia nhỏ các lần chốt lời, xác định rõ nguyên tắc và hạn chế lấy mức giá cao trước đó làm cơ sở cho hiện tại....
+
+- ★☆☆ **[Bà Phạm Minh Hương: VNDirect đã bỏ lỡ cơ hội tăng trưởng trong 'cơn sóng' của thị trường](https://vnexpress.net/ba-pham-minh-huong-vndirect-da-bo-lo-co-hoi-tang-truong-trong-con-song-cua-thi-truong-5075360.html)**
+  - *(Mon, 18 May 2026 22:04:32 +0700)*
+  - Bà Phạm Minh Hương, Chủ tịch Chứng khoán VNDirect, cho biết công ty đã bỏ lỡ cơ hội tăng trưởng mảng dịch vụ chứng khoán trong giai đoạn thị trường đi lên, năm nay sẽ xây dựng chiến lược để trở lại đư...
+
+- ★☆☆ **[Doanh số bán lẻ Trung Quốc tăng chậm nhất 4 năm](https://vnexpress.net/doanh-so-ban-le-trung-quoc-tang-cham-nhat-4-nam-5075272.html)**
+  - *(Mon, 18 May 2026 17:05:00 +0700)*
+  - Kinh tế Trung Quốc chững lại trong tháng 4, khi cả tiêu dùng, sản lượng công nghiệp và tăng trưởng đầu tư đều không đạt dự báo....
+
+- ★☆☆ **[Hải Phòng triển khai nhiều chính sách hỗ trợ doanh nghiệp](https://vnexpress.net/hai-phong-trien-khai-nhieu-chinh-sach-ho-tro-doanh-nghiep-5074729.html)**
+  - *(Mon, 18 May 2026 11:00:00 +0700)*
+  - Hải Phòng triển khai hàng loạt chính sách hỗ trợ doanh nghiệp như đào tạo nhân lực, ưu đãi thuế, hỗ trợ vốn, cải cách thủ tục hành chính… nhằm thúc đẩy khu vực kinh tế tư nhân phát triển....
+
+- ★☆☆ **[Nhà đầu tư nên làm gì khi chứng khoán lên cao kỷ lục?](https://vnexpress.net/nha-dau-tu-nen-lam-gi-khi-chung-khoan-len-cao-ky-luc-5074966.html)**
+  - *(Mon, 18 May 2026 07:49:54 +0700)*
+  - Chuyên gia khuyên quan sát thanh khoản chứng khoán, dựa theo đó để chốt lời những cổ phiếu đạt mục tiêu và chỉ mua các mã có nền tảng tốt....
+
+## Vietstock
+- ★★★ **[Đã đến lúc nâng hạng theo chuẩn MSCI](http://vietstock.vn/2026/05/da-den-luc-nang-hang-theo-chuan-msci-3358-1444083.htm)**
+  - *(Thu, 21 May 2026 11:02:00 +0700)*
+  - Việc FTSE Russell xác nhận lộ trình nâng hạng từ tháng 9/2026 là bước ngoặt quan trọng, nhưng đích đến tiếp theo của thị trường chứng khoán Việt Nam là MSCI. Sau nhiều cải cách về giao dịch, thanh toá...
+
+- ★★★ **[Theo dấu dòng tiền cá mập 20/05: Khối ngoại mua ròng trong phiên biến động](http://vietstock.vn/2026/05/theo-dau-dong-tien-ca-map-2005-khoi-ngoai-mua-rong-trong-phien-bien-dong-830-1444758.htm)**
+  - *(Wed, 20 May 2026 19:14:36 +0700)*
+  - Các mã ngân hàng là tâm điểm giao dịch của nhà đầu tư nước ngoài trong phiên hôm nay....
+
+- ★★☆ **[Trên 77% cổ phiếu “cài số lùi”, ngành chứng khoán sẽ thế nào trong nửa cuối năm 2026?](http://vietstock.vn/2026/05/tren-77-co-phieu-cai-so-lui-nganh-chung-khoan-se-the-nao-trong-nua-cuoi-nam-2026-830-1445347.htm)**
+  - *(Fri, 22 May 2026 09:20:13 +0700)*
+  - Thị trường chứng khoán Việt Nam vừa có những phiên lập kỷ lục điểm số sau giai đoạn điều chỉnh do chiến sự và câu chuyện lãi suất. Tuy nhiên, phía sau sự hưng phấn của chỉ số, nhóm cổ phiếu chứng khoá...
+
+- ★★☆ **[Cổ phiếu DGC vẫn được giao dịch cả ngày](http://vietstock.vn/2026/05/co-phieu-dgc-van-duoc-giao-dich-ca-ngay-830-1444962.htm)**
+  - *(Thu, 21 May 2026 10:33:55 +0700)*
+  - Sau công bố đưa cổ phiếu DGC của CTCP Tập đoàn Hóa chất Đức Giang vào diện hạn chế giao dịch, Sở Giao dịch Chứng khoán TP.HCM (HOSE) mới đây đã ra quyết định điều chỉnh án phạt dành cho ông lớn ngành ...
+
+- ★★☆ **[Ngày 21/05/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/05/ngay-21052026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1444735.htm)**
+  - *(Thu, 21 May 2026 10:00:00 +0700)*
+  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BCM, FPT, MSN, MBB, NLG, OCB, TPB, TCB, VPB, VNM....
+
+- ★★☆ **[DGC bị hạn chế giao dịch](http://vietstock.vn/2026/05/dgc-bi-han-che-giao-dich-830-1444563.htm)**
+  - *(Wed, 20 May 2026 12:01:44 +0700)*
+  - Do vẫn chưa thể nộp BCTC kiểm toán năm 2025, Sở Giao dịch Chứng khoán TPHCM (HOSE) quyết định chuyển cổ phiếu DGC của CTCP Tập đoàn Hóa chất Đức Giang từ diện kiểm soát sang hạn chế giao dịch....
+
+- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 22/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-phien-2205-830-1445056.htm)**
+  - *(Fri, 22 May 2026 08:00:00 +0700)*
+  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
+
+- ★☆☆ **[22/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/2205-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1445331.htm)**
+  - *(Fri, 22 May 2026 06:02:00 +0700)*
+  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
+
+- ★☆☆ **[Vietstock Daily 22/05/2026: Thận trọng trở lại](http://vietstock.vn/2026/05/vietstock-daily-22052026-than-trong-tro-lai-1636-1445211.htm)**
+  - *(Thu, 21 May 2026 18:11:17 +0700)*
+  - VN-Index giảm điểm và test lại đường Middle của Bollinger Bands. Khối lượng giao dịch sụt giảm xuống dưới mức trung bình 20 phiên phản ánh tâm lý thận trọng của nhà đầu tư. Các chỉ báo Stochastic Osci...
+
+- ★☆☆ **[Nhịp đập Thị trường 21/05: Không giữ được mốc 1,900 sau phiên ATC](http://vietstock.vn/2026/05/nhip-dap-thi-truong-2105-khong-giu-duoc-moc-1900-sau-phien-atc-1636-1444975.htm)**
+  - *(Thu, 21 May 2026 16:37:00 +0700)*
+  - Dù rất nỗ lực trong phiên chiều, VN-Index vẫn thất bại trong việc duy trì mốc 1,900 điểm sau phiên ATC....
+
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 21/05: Rung lắc mạnh](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-2105-rung-lac-manh-585-1445057.htm)**
+  - *(Thu, 21 May 2026 12:55:20 +0700)*
+  - VN-Index rung lắc mạnh và chưa thể phá vỡ đỉnh cũ tháng 01/2026 (tương đương vùng 1,900-1,920 điểm). HNX-Index tiếp tục tăng và vượt đỉnh cũ tháng 04/2026. HNX-Index diễn biến giằng co ...
+
+- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 21/05](http://vietstock.vn/2026/05/top-co-phieu-dang-chu-y-dau-phien-2105-830-1444831.htm)**
+  - *(Thu, 21 May 2026 08:00:00 +0700)*
+  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
+
+- ★☆☆ **[21/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/2105-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1444905.htm)**
+  - *(Thu, 21 May 2026 06:00:00 +0700)*
+  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
+
+- ★☆☆ **[Chứng khoán JB Việt Nam vi phạm công bố thông tin](http://vietstock.vn/2026/05/chung-khoan-jb-viet-nam-vi-pham-cong-bo-thong-tin-830-1444870.htm)**
+  - *(Wed, 20 May 2026 19:47:00 +0700)*
+  - Ngày 19/05 vừa qua, Thanh tra Chứng khoán Nhà nước đã ban hành quyết định xử phạt vi phạm hành chính đối với Công ty TNHH Chứng khoán JB Việt Nam (JBSV)...
+
+- ★☆☆ **[Vietstock Daily 21/05/2026: Diễn biến khó lường](http://vietstock.vn/2026/05/vietstock-daily-21052026-dien-bien-kho-luong-1636-1444739.htm)**
+  - *(Wed, 20 May 2026 18:29:59 +0700)*
+  - VN-Index hồi phục mạnh về cuối phiên và hình thành mẫu hình nến Long Lower Shadow, qua đó vẫn duy trì trên đường Middle của Bollinger Bands. Chỉ báo Stochastic Oscillator đã cắt xuống đường signal tro...
+
+- ★☆☆ **[Nhịp đập Thị trường 20/05: Phục hồi về sát mốc tham chiếu sau cú giảm sâu](http://vietstock.vn/2026/05/nhip-dap-thi-truong-2005-phuc-hoi-ve-sat-moc-tham-chieu-sau-cu-giam-sau-1636-1444515.htm)**
+  - *(Wed, 20 May 2026 16:57:00 +0700)*
+  - Kết thúc phiên giao dịch, VN-Index tăng 0.3 điểm (+0.02%), lên mức 1,913.23 điểm; HNX-Index tăng 1.83 điểm (+0.71%), lên mức 261.33 điểm. Độ rộng toàn thị trường với sắc đỏ áp đảo khi bên bán có 483 m...
+
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 20/05: Rủi ro ngắn hạn gia tăng](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-2005-rui-ro-ngan-han-gia-tang-585-1444598.htm)**
+  - *(Wed, 20 May 2026 13:21:42 +0700)*
+  - VN-Index chuẩn bị bước vào phiên giảm điểm  thứ hai và đang kiểm tra lại đường Middle của Bollinger Bands. HNX-Index đảo chiều giảm điểm đồng thời xuất hiện mẫu hình nến Bearish Engulfing....
+
+- ★☆☆ **[QNS - Đối diện thách thức (Kỳ 2)](http://vietstock.vn/2026/05/qns-doi-dien-thach-thuc-ky-2-582-1442082.htm)**
+  - *(Wed, 20 May 2026 10:02:00 +0700)*
+  - CTCP Đường Quảng Ngãi (UPCoM: QNS) duy trì nền tảng tài chính ổn định và chính sách cổ tức cao trong nhiều năm. Đồng thời, doanh nghiệp định hướng mở rộng sang ethanol nhiên liệu thông qua dự án Nhà m...
 
