@@ -135,19 +135,19 @@
         </div>
         <header>
             <h1>Financial News Dashboard</h1>
-            <p class="stats">Cập nhật: 2026-05-22 19:31 | Tổng: 145 tin tức</p>
+            <p class="stats">Cập nhật: 2026-05-22 20:50 | Tổng: 143 tin tức</p>
             <div class="stats-detail">
-                <span style="color:#ef4444">★★★ Rất quan trọng: 24</span>
+                <span style="color:#ef4444">★★★ Rất quan trọng: 25</span>
                 <span style="color:#f59e0b">★★☆ Quan trọng: 46</span>
-                <span style="color:#94a3b8">★☆☆ Bình thường: 75</span>
+                <span style="color:#94a3b8">★☆☆ Bình thường: 72</span>
             </div>
         </header>
         
         <div class="controls">
             <div class="controls-label">🔍 Lọc theo nguồn</div>
             <button class="filter-btn active" onclick="filterSource('all')">Tất cả</button>
-<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (32)</button>
-<button class="filter-btn" onclick="filterSource('Vietstock')">Vietstock (18)</button>
+<button class="filter-btn" onclick="filterSource('Vietstock')">Vietstock (17)</button>
+<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (31)</button>
 <button class="filter-btn" onclick="filterSource('CafeF')">CafeF (40)</button>
 <button class="filter-btn" onclick="filterSource('VNeconomy')">VNeconomy (55)</button>
 
@@ -156,9 +156,9 @@
         <div class="controls">
             <div class="controls-label">⭐ Lọc theo mức độ quan trọng</div>
             <button class="filter-btn active" onclick="filterImportance('all')">Tất cả</button>
-            <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (24)</button>
+            <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (25)</button>
             <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (46)</button>
-            <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (75)</button>
+            <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (72)</button>
         </div>
         
         <div class="controls" id="topic-controls">
@@ -168,6 +168,19 @@
         </div>
 
         <div class="grid" id="newsGrid">
+            
+            <a href="http://vietstock.vn/2026/05/ban-chui-co-phieu-chi-dau-lanh-dao-tlh-bi-phat-gan-nua-ty-dong-dinh-chi-giao-dich-4-thang-830-1445819.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Bán "chui" cổ phiếu, chị dâu lãnh đạo TLH bị phạt gần nửa tỷ đồng, đình chỉ giao dịch 4 tháng</h2>
+                <div class="date">📅 Fri, 22 May 2026 20:02:00 +0700</div>
+                <p class="summary">Ngày 21/05/2026, Ủy ban Chứng khoán Nhà nước (UBCKNN) ban hành Quyết định xử phạt bà Phạm Thúy Liễu số tiền gần 480 triệu đồng kèm đình chỉ giao dịch chứng khoán trong vòng 4 tháng, do cá nhân này không báo cáo về việc dự kiến giao dịch.</p>
+            </a>
             
             <a href="https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-thanh-tra-nha-bang-tang-lai-suat-5077143.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
                 <div class="card-header">
@@ -286,15 +299,15 @@
                 <p class="summary">Mặc d#249; nh#243;m Vin c#243; hồi lại ch#250;t #237;t trong phi#234;n chiều nhưng về cơ bản c#225;c d#242;ng cổ phiếu dẫn dắt vẫn đang suy yếu. Khả năng duy tr#236; ph#226;n h#243;a ở c#225;c m#227; c#242;n lại rất yếu v#224; thanh khoản ở ngưỡng thấp cho thấy t#226;m l#253; ngại rủi ro đ#227; l#234;n cao.</p>
             </a>
             
-            <a href="https://cafef.vn/mot-co-phieu-bi-khoi-ngoai-xa-1500-ty-dong-phien-22-5-188260522152017389.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
+            <a href="https://cafef.vn/mot-co-phieu-bi-khoi-ngoai-xa-1500-ty-dong-phien-22-5-188260522152017389.chn" target="_blank" class="card" data-source="CafeF" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
                 <div class="card-header">
                     <div>
                         <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
                         
                     </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                    <span class="importance" data-level="3" style="color:#ef4444" title="Rất quan trọng">★★★</span>
                 </div>
-                <h2>Một cổ phiếu bị khối ngoại "xả" 1.500 tỷ đồng phiên 22/5</h2>
+                <h2>Khối ngoại bán ròng hơn 3.200 tỷ đồng phiên 22/5</h2>
                 <div class="date">📅 Fri, 22 May 26 15:45:00 +0700</div>
                 <p class="summary">Giao dịch của khối ngoại là điểm trừ khi bán ròng khoảng 3.285 tỷ đồng cổ phiếu trên toàn thị trường.</p>
             </a>
@@ -806,19 +819,6 @@
                 <p class="summary">D#242;ng tiền qu#225; yếu chiều nay đ#227; kh#244;ng thể n#226;ng đỡ gi#225; c#225;c cổ phiếu trụ khiến VN-Index tiếp tục l#249;i s#226;u hơn l#250;c đ#243;ng cửa, xuống mức 1896,89 điểm. Đ#226;y l#224; lần thứ 2 chỉ số đ#243;ng cửa để mất mốc 1900, sau 11 phi#234;n trước vượt qua ngưỡng n#224;y.</p>
             </a>
             
-            <a href="https://cafef.vn/elon-musk-tung-canh-bac-lon-nhat-lich-su-pho-wall-188260521150844039.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                        
-                    </div>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
-                </div>
-                <h2>Elon Musk tung 'canh bạc' lớn nhất lịch sử Phố Wall</h2>
-                <div class="date">📅 Thu, 21 May 26 15:26:00 +0700</div>
-                <p class="summary">Sau cú sốc pháp lý lịch sử, tỷ phú Elon Musk dồn toàn lực cho ván cược mang tên SpaceX. Chỉ vài ngày sau khi thua kiện trong vụ tranh chấp với OpenAI và Sam Altman, tập đoàn hàng không vũ trụ SpaceX nộp hồ sơ chào bán cổ phiếu lần đầu ra công chúng (IPO), mở đường cho thương vụ niêm yết được dự đoán có quy mô lớn nhất lịch sử Phố Wall.</p>
-            </a>
-            
             <a href="https://cafef.vn/co-phieu-pc1-lai-tang-kich-tran-188260521152626544.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
                     <div>
@@ -830,6 +830,19 @@
                 <h2>Cổ phiếu PC1 lại tăng kịch trần</h2>
                 <div class="date">📅 Thu, 21 May 26 15:26:00 +0700</div>
                 <p class="summary">Đây đã là phiên tăng trần thứ 2 trong tuần này của PC1.</p>
+            </a>
+            
+            <a href="https://cafef.vn/elon-musk-tung-canh-bac-lon-nhat-lich-su-pho-wall-188260521150844039.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        
+                    </div>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>Elon Musk tung 'canh bạc' lớn nhất lịch sử Phố Wall</h2>
+                <div class="date">📅 Thu, 21 May 26 15:26:00 +0700</div>
+                <p class="summary">Sau cú sốc pháp lý lịch sử, tỷ phú Elon Musk dồn toàn lực cho ván cược mang tên SpaceX. Chỉ vài ngày sau khi thua kiện trong vụ tranh chấp với OpenAI và Sam Altman, tập đoàn hàng không vũ trụ SpaceX nộp hồ sơ chào bán cổ phiếu lần đầu ra công chúng (IPO), mở đường cho thương vụ niêm yết được dự đoán có quy mô lớn nhất lịch sử Phố Wall.</p>
             </a>
             
             <a href="https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-21-5-5076515.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
@@ -1339,19 +1352,6 @@
                 <p class="summary">Các mã ngân hàng là tâm điểm giao dịch của nhà đầu tư nước ngoài trong phiên hôm nay.</p>
             </a>
             
-            <a href="http://vietstock.vn/2026/05/vietstock-daily-21052026-dien-bien-kho-luong-1636-1444739.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Vietstock Daily 21/05/2026: Diễn biến khó lường</h2>
-                <div class="date">📅 Wed, 20 May 2026 18:29:59 +0700</div>
-                <p class="summary">VN-Index hồi phục mạnh về cuối phiên và hình thành mẫu hình nến Long Lower Shadow, qua đó vẫn duy trì trên đường Middle của Bollinger Bands. Chỉ báo Stochastic Oscillator đã cắt xuống đường signal trong vùng overbought nên rủi ro rung lắc nhiều khả năng sẽ còn hiện hữu trong các phiên tới.</p>
-            </a>
-            
             <a href="https://vneconomy.vn/loi-the-cua-co-phieu-co-ty-suat-sinh-loi-cao.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="1" data-dividend="True" style="">
                 <div class="card-header">
                     <div>
@@ -1376,19 +1376,6 @@
                 <h2>Cổ phiếu Thaiholdings tăng gấp đôi trong gần một tháng</h2>
                 <div class="date">📅 Wed, 20 May 2026 17:05:11 +0700</div>
                 <p class="summary">Tính từ đầu tháng 5, cổ phiếu của Thaiholdings tăng 103% sau tin công ty liên kết xây dựng tổ hợp nghỉ dưỡng 5 tỷ USD tại Ninh Bình.</p>
-            </a>
-            
-            <a href="http://vietstock.vn/2026/05/nhip-dap-thi-truong-2005-phuc-hoi-ve-sat-moc-tham-chieu-sau-cu-giam-sau-1636-1444515.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Nhịp đập Thị trường 20/05: Phục hồi về sát mốc tham chiếu sau cú giảm sâu</h2>
-                <div class="date">📅 Wed, 20 May 2026 16:57:00 +0700</div>
-                <p class="summary">Kết thúc phiên giao dịch, VN-Index tăng 0.3 điểm (+0.02%), lên mức 1,913.23 điểm; HNX-Index tăng 1.83 điểm (+0.71%), lên mức 261.33 điểm. Độ rộng toàn thị trường với sắc đỏ áp đảo khi bên bán có 483 mã giảm và bên mua có 215 mã tăng. Tương tự, sắc đỏ lấn lướt trong rổ VN30 với 18 mã giảm, 11 mã tăng và 1 mã tham chiếu.</p>
             </a>
             
             <a href="https://vneconomy.vn/blog-chung-khoan-diem-do-vo-tam-ly.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="1" data-dividend="False" style="">
@@ -2039,19 +2026,6 @@
                 <h2>Dầu khí, ngân hàng nỗ lực “gánh” điểm, sắc đỏ vẫn áp đảo</h2>
                 <div class="date">📅 Mon, 18 May 2026 05:13:36 GMT</div>
                 <p class="summary">Sự ph#226;n h#243;a của nh#243;m cổ phiếu vốn h#243;a lớn vẫn chưa g#226;y kh#243; khăn qu#225; lớn cho VN-Index, nhưng phản ứng từ thị trường kh#225; ti#234;u cực: Sắc đỏ vẫn đang #225;p đảo ho#224;n to#224;n, với gần trăm cổ phiếu đang rớt gi#225; qu#225; 1%.</p>
-            </a>
-            
-            <a href="https://vnexpress.net/nha-dau-tu-nen-lam-gi-khi-chung-khoan-len-cao-ky-luc-5074966.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(239, 68, 68, 0.2);color:#ef4444;border:1px solid rgba(239, 68, 68, 0.3)">VnExpress Business</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Nhà đầu tư nên làm gì khi chứng khoán lên cao kỷ lục?</h2>
-                <div class="date">📅 Mon, 18 May 2026 07:49:54 +0700</div>
-                <p class="summary">Chuyên gia khuyên quan sát thanh khoản chứng khoán, dựa theo đó để chốt lời những cổ phiếu đạt mục tiêu và chỉ mua các mã có nền tảng tốt.</p>
             </a>
             
         </div>
