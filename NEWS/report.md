@@ -1,6 +1,151 @@
-# Báo cáo tin tức thị trường (2026-05-27 13:23)
+# Báo cáo tin tức thị trường (2026-05-27 18:16)
 
-Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+
+## CafeF
+- ★★★ **[Phiên 27/5: Khối ngoại bán ròng gần 800 tỷ đồng cổ phiếu Việt Nam, đâu là tâm điểm "xả hàng"?](https://cafef.vn/phien-27-5-khoi-ngoai-ban-rong-gan-800-ty-dong-co-phieu-viet-nam-dau-la-tam-diem-xa-hang-188260527152205195.chn)**
+  - *(Wed, 27 May 26 15:45:00 +0700)*
+  - Chiều mua, khối ngoại mua ròng mạnh nhất cổ phiếu MSB với giá trị khoảng 104 tỷ đồng....
+
+- ★★★ **[Phiên 26/5: Khối ngoại bán ròng gần 1.000 tỷ đồng, cổ phiếu nào bị "xả" mạnh nhất?](https://cafef.vn/phien-26-5-khoi-ngoai-ban-rong-gan-1000-ty-dong-co-phieu-nao-bi-xa-manh-nhat-188260526154637821.chn)**
+  - *(Tue, 26 May 26 15:47:00 +0700)*
+  - Giao dịch của khối ngoại là điểm trừ khi bán ròng khoảng 940 tỷ đồng cổ phiếu trên toàn thị trường....
+
+- ★★☆ **[Đổi vàng lấy nhà: CEO Vinhomes hé lộ về người "nắm đằng chuôi", cam kết giá vàng tăng nóng cũng không thể sập](https://cafef.vn/doi-vang-lay-nha-ceo-vinhomes-he-lo-ve-nguoi-nam-dang-chuoi-cam-ket-gia-vang-tang-nong-cung-khong-the-sap-188260527180929379.chn)**
+  - *(Wed, 27 May 26 18:09:00 +0700)*
+  - Theo CEO Vinhomes, thay vì chốt cứng thời hạn sau 5 năm nhận hoàn vàng hoặc sở hữu nhà, khách hàng có thể tùy chọn mốc sau 3 năm hoặc sau 5 năm đều được hưởng lãi suất 2%/năm....
+
+- ★★☆ **[Hé lộ tham vọng của V-Film: Vingroup (VIC) muốn đưa phim Việt ra toàn cầu](https://cafef.vn/he-lo-tham-vong-cua-v-film-vingroup-vic-muon-dua-phim-viet-ra-toan-cau-188260527153146733.chn)**
+  - *(Wed, 27 May 26 15:53:00 +0700)*
+  - Ngày 27/05, Tập đoàn Vingroup công bố chiến lược phát triển Công ty CP Phát triển Điện ảnh V-Film, với định hướng đầu tư dài hạn vào dòng phim tôn vinh lịch sử - văn hóa Việt Nam theo chuẩn mực quốc t...
+
+- ★★☆ **[Hơn 1.000 nhân viên Masan Consumer dự kiến được mua cổ phiếu ESOP giá hời](https://cafef.vn/hon-1000-nhan-vien-masan-consumer-du-kien-duoc-mua-co-phieu-esop-gia-hoi-188260527134639836.chn)**
+  - *(Wed, 27 May 26 14:00:00 +0700)*
+  - Masan Consumer dự kiến chào bán hơn 12,94 triệu cổ phiếu ESOP cho 1.054 cho nhân viên với giá 10.000 đồng/cổ phiếu, mức giá chào bán này rẻ hơn 92,4 % so với thị giá cổ phiếu MCH hiện tại....
+
+- ★★☆ **[Thép Nam Kim chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 10%](https://cafef.vn/thep-nam-kim-chuan-bi-chia-co-tuc-bang-co-phieu-ty-le-10-188260527134812859.chn)**
+  - *(Wed, 27 May 26 13:57:00 +0700)*
+  - Thép Nam Kim sẽ trả cổ tức bằng cổ phiếu tỷ lệ 10%, tương đương phát hành thêm 44,7 triệu cổ phiếu....
+
+- ★★☆ **[Yeah1 tăng vốn vượt 2.000 tỷ đồng sau đợt chia cổ phiếu thưởng](https://cafef.vn/yeah1-tang-von-vuot-2000-ty-dong-sau-dot-chia-co-phieu-thuong-188260527134730321.chn)**
+  - *(Wed, 27 May 26 13:56:00 +0700)*
+  - Hoàn tất phân phối hơn 13,4 triệu cổ phiếu thưởng, Yeah1 tăng vốn điều lệ vượt 2.000 tỷ đồng....
+
+- ★★☆ **[Ông Đoàn Văn Hiểu Em "mở bát" chi 160 tỷ đồng mua cổ phiếu DMX trong đợt IPO](https://cafef.vn/ong-doan-van-hieu-em-mo-bat-chi-160-ty-dong-mua-co-phieu-dmx-trong-dot-ipo-18826052712194536.chn)**
+  - *(Wed, 27 May 26 12:19:00 +0700)*
+  - Lãnh đạo này cho biết động thái này nhằm khẳng định niềm tin và cam kết dài hạn với hành trình tăng trưởng mới của DMX 2026-2030....
+
+- ★★☆ **["Bom tấn" IPO Điện Máy Xanh: chính thức mở sổ đăng ký, cơ hội sở hữu cỗ máy in tiền tỷ đô với cổ tức tiền mặt 40% ngay trong 2026](https://cafef.vn/bom-tan-ipo-dien-may-xanh-chinh-thuc-mo-so-dang-ky-co-hoi-so-huu-co-may-in-tien-ty-do-voi-co-tuc-tien-mat-40-ngay-trong-2026-188260527111917795.chn)**
+  - *(Wed, 27 May 26 11:19:00 +0700)*
+  - Đúng 8h00 hôm nay, ngày 27/05/2026, thương vụ IPO lớn nhất ngành bán lẻ hơn thập kỷ qua  - Điện Máy Xanh (DMX) sẽ chính thức mở sổ nhận đăng ký mua cổ phiếu. Với quy mô chào bán 14.360 tỷ đồng (hơn 54...
+
+- ★★☆ **[Một cổ phiếu trên HoSE liên tục "trần cứng" từ khi niêm yết, vốn hóa vượt 1.300 tỷ đồng](https://cafef.vn/mot-co-phieu-tren-hose-lien-tuc-tran-cung-tu-khi-niem-yet-von-hoa-vuot-1300-ty-dong-188260527103014129.chn)**
+  - *(Wed, 27 May 26 10:31:00 +0700)*
+  - Lực cầu tiếp tục duy trì tích cực, giúp AAN giữ trọn sắc tím trong cả 3 phiên đầu tiên trên sàn....
+
+- ★★☆ **[CEO Điện Máy Xanh tiết lộ lý do IPO: Muốn “giải oan” cho ngành bán lẻ điện máy](https://cafef.vn/ceo-dien-may-xanh-tiet-lo-ly-do-ipo-muon-giai-oan-cho-nganh-ban-le-dien-may-188260527102929433.chn)**
+  - *(Wed, 27 May 26 10:30:00 +0700)*
+  - “Việc niêm yết và tách bạch riêng Điện Máy Xanh sẽ giúp nhà đầu tư có cái nhìn chính xác hơn về tốc độ tăng trưởng của ngành điện thoại, điện máy”, ông Hiểu Em chia sẻ....
+
+- ★★☆ **[Xoá bỏ định kiến "bão hòa", CEO Điện Máy Xanh hé lộ bí kíp tăng trưởng vượt giới hạn và lý do quyết định IPO](https://cafef.vn/xoa-bo-dinh-kien-bao-hoa-ceo-dien-may-xanh-he-lo-bi-kip-tang-truong-vuot-gioi-han-va-ly-do-quyet-dinh-ipo-188260527082931804.chn)**
+  - *(Wed, 27 May 26 10:00:00 +0700)*
+  - Sau nhiều năm tích luỹ, ông Đoàn Văn Hiểu Em cùng Điện Máy Xanh đang chuẩn bị cho một "trận đánh" lớn: IPO và biến doanh nghiệp thành một cỗ máy tăng trưởng mới trên thị trường chứng khoán....
+
+- ★★☆ **["Bom tấn" Điện Máy Xanh xuống tiền làm điều chưa từng có trước thềm IPO](https://cafef.vn/bom-tan-dien-may-xanh-xuong-tien-lam-dieu-chua-tung-co-truoc-them-ipo-188260527005128576.chn)**
+  - *(Wed, 27 May 26 00:51:00 +0700)*
+  - Sức nóng của thương vụ IPO vừa được đẩy lên cao khi Điện Máy Xanh vừa công bố chương trình ưu đãi đặc biệt dành riêng cho các nhà đầu tư cá nhân....
+
+- ★★☆ **[Gần 200 cổ phiếu tăng giá, vì sao VN-Index vẫn mất điểm?](https://cafef.vn/gan-200-co-phieu-tang-gia-vi-sao-vn-index-van-mat-diem-188260526210259045.chn)**
+  - *(Tue, 26 May 26 21:05:00 +0700)*
+  - Sau phiên hồi phục đầu tuần, thị trường chứng khoán hôm nay (26/5) lại quay về trạng thái rung lắc mạnh. Dù sắc xanh áp đảo trên bảng điện với gần 200 cổ phiếu HoSE tăng giá, song VN-Index vẫn đóng cử...
+
+- ★☆☆ **[Cổ phiếu liên quan 'bầu Thụy' tăng 15 phiên liên tiếp](https://cafef.vn/co-phieu-lien-quan-bau-thuy-tang-15-phien-lien-tiep-188260527170436053.chn)**
+  - *(Wed, 27 May 26 17:45:00 +0700)*
+  - Dòng tiền quay lại mạnh với nhóm ngân hàng nhưng vẫn không đủ giúp thị trường giữ sắc xanh. Chỉ số mất gần 10 điểm trong phiên 27/5, trong bối cảnh khối ngoại duy trì bán ròng mạnh, cổ phiếu trụ tiếp ...
+
+- ★☆☆ **[3 cổ phiếu HOSE bất ngờ được tự doanh CTCK "gom" hàng trăm tỷ trong phiên giảm điểm](https://cafef.vn/3-co-phieu-hose-bat-ngo-duoc-tu-doanh-ctck-gom-hang-tram-ty-trong-phien-giam-diem-188260527173123138.chn)**
+  - *(Wed, 27 May 26 17:31:00 +0700)*
+  - Tự doanh CTCK mua ròng 462 tỷ đồng trên HOSE....
+
+- ★☆☆ **[Ông Đoàn Văn Hiểu Em: Điện Máy Xanh sẽ vượt kế hoạch, định giá đang quá rẻ](https://cafef.vn/ong-doan-van-hieu-em-dien-may-xanh-se-vuot-ke-hoach-dinh-gia-dang-qua-re-188260527160623965.chn)**
+  - *(Wed, 27 May 26 16:06:00 +0700)*
+  - Theo ông Hiểu Em, với việc vượt kế hoạch ban đầu, P/E fw 2026 của doanh nghiệp sẽ chỉ còn khoảng 10 lần, “quá thấp, quá rẻ với ngành điện máy”....
+
+- ★☆☆ **[Đổi vàng thành tiền để mua nhà: Cách hay chống 'vàng hóa' nền kinh tế](https://cafef.vn/doi-vang-thanh-tien-de-mua-nha-cach-hay-chong-vang-hoa-nen-kinh-te-188260527150601045.chn)**
+  - *(Wed, 27 May 26 15:59:00 +0700)*
+  - Theo chuyên gia, người Việt có tâm lý tích lũy vàng, khiến dòng tiền lớn bị rút khỏi sản xuất, kinh doanh, thậm chí có thể làm "vàng hóa" nền kinh tế....
+
+- ★☆☆ **[Vừa về hệ sinh thái của tỷ phú Nguyễn Thị Phương Thảo, một công ty chứng khoán bị đình chỉ hoạt động giao dịch trái phiếu](https://cafef.vn/vua-ve-he-sinh-thai-cua-ty-phu-nguyen-thi-phuong-thao-mot-cong-ty-chung-khoan-bi-dinh-chi-hoat-dong-giao-dich-trai-phieu-188260527154205499.chn)**
+  - *(Wed, 27 May 26 15:41:00 +0700)*
+  - Nguyên nhân do trong tháng 04/2026 công ty có 24 giao dịch trái phiếu riêng lẻ bị loại bỏ không thanh toán...
+
+- ★☆☆ **[Viettel bắt tay ông lớn xăng dầu "khủng" nhất Việt Nam: Sẽ có hàng nghìn trạm xăng thông minh thế hệ mới?](https://cafef.vn/viettel-bat-tay-ong-lon-xang-dau-khung-nhat-viet-nam-se-co-hang-nghin-tram-xang-thong-minh-the-he-moi-188260527134333743.chn)**
+  - *(Wed, 27 May 26 14:46:00 +0700)*
+  - Doanh nghiệp này có 5.500 cửa hàng xăng dầu trên toàn quốc....
+
+- ★☆☆ **[Shark Hùng Anh: Rót vốn dễ nhưng thủ tục hành chính phức tạp](https://cafef.vn/shark-hung-anh-rot-von-de-nhung-thu-tuc-hanh-chinh-phuc-tap-188260527132529636.chn)**
+  - *(Wed, 27 May 26 14:15:00 +0700)*
+  - Theo ông Lê Hùng Anh - Tổng Giám đốc BIN Corporation Group, điều đầu tiên cần quan tâm chính là tính minh bạch và sự cởi mở của hành lang pháp lý. Doanh nghiệp rất sợ việc dòng vốn khi mang vào thì dễ...
+
+- ★☆☆ **[Mẹ Á hậu Dương Trương Thiên Lý rời ghế cổ đông lớn Chứng khoán Bảo Minh](https://cafef.vn/me-a-hau-duong-truong-thien-ly-roi-ghe-co-dong-lon-chung-khoan-bao-minh-188260527134916123.chn)**
+  - *(Wed, 27 May 26 13:58:00 +0700)*
+  - Sau khi bán ra 6,2 triệu cổ phiếu BMS trong phiên 20/5, bà Trương Thị Mỹ An giảm sở hữu còn 4,98% vốn qua đó không còn là cổ đông lớn của Chứng khoán Bảo Minh....
+
+- ★☆☆ **[Lãnh đạo Kido muốn ‘gom’ thêm 1,5 triệu cổ phiếu KDC](https://cafef.vn/lanh-dao-kido-muon-gom-them-15-trieu-co-phieu-kdc-188260527092929444.chn)**
+  - *(Wed, 27 May 26 10:46:00 +0700)*
+  - Bà Vương Bửu Linh- Thành viên HĐQT của Kido vừa tiếp tục đăng ký mua 1,5 triệu cổ phiếu KDC nhằm mục đích nhu cầu cá nhân....
+
+- ★☆☆ **[Loạt lãnh đạo Chứng khoán Thành Công xin từ nhiệm](https://cafef.vn/loat-lanh-dao-chung-khoan-thanh-cong-xin-tu-nhiem-188260527092831597.chn)**
+  - *(Wed, 27 May 26 10:39:00 +0700)*
+  - Chứng khoán Thành Công đã nhận được Đơn từ nhiệm của 3 lãnh đạo doanh nghiệp này với lý do cá nhân....
+
+- ★☆☆ **[Cổ phiếu đình đám một thời tăng dựng đứng gấp 3 sau ba tuần, vốn hóa cán mốc 1,3 tỷ USD](https://cafef.vn/co-phieu-dinh-dam-mot-thoi-tang-dung-dung-gap-3-sau-ba-tuan-von-hoa-can-moc-13-ty-usd-188260527103046884.chn)**
+  - *(Wed, 27 May 26 10:31:00 +0700)*
+  - Đà tăng mạnh cũng kéo vốn hóa thị trường của doanh nghiệp vượt mốc 35.000 tỷ đồng, tương đương khoảng 1,3 tỷ USD....
+
+- ★☆☆ **[Hai quỹ ETF gần 30.000 tỉ đồng chuẩn bị “đảo danh mục"](https://cafef.vn/hai-quy-etf-gan-30000-ti-dong-chuan-bi-dao-danh-muc-188260527093055863.chn)**
+  - *(Wed, 27 May 26 09:59:00 +0700)*
+  - Các chuyên gia MBS cho rằng hoạt động tái cơ cấu ETF thường tạo ra biến động mạnh về thanh khoản và giá cổ phiếu...
+
+- ★☆☆ **[Sonadezi Long Thành muốn bán toàn bộ hơn 1,2 cổ phiếu quỹ còn lại](https://cafef.vn/sonadezi-long-thanh-muon-ban-toan-bo-hon-12-co-phieu-quy-con-lai-188260527075409536.chn)**
+  - *(Wed, 27 May 26 08:17:00 +0700)*
+  - Sonadezi Long Thành dự kiến đăng ký bán toàn bộ hơn 1,2 triệu cổ phiếu quỹ còn lại nhằm mục đích bổ sung vốn lưu động cho công ty....
+
+- ★☆☆ **[Viettel Global ‘rót’ 560 triệu USD đầu tư vào thị trường Cộng hòa Dominica](https://cafef.vn/viettel-global-rot-560-trieu-usd-dau-tu-vao-thi-truong-cong-hoa-dominica-188260527075547769.chn)**
+  - *(Wed, 27 May 26 08:00:00 +0700)*
+  - Viettel Global sẽ chi 560 triệu USD để thành lập tổ chức kinh tế nhằm đầu tư, xây dựng, vận hành và khai thác hạ tầng viễn thông và công nghệ số hiện tại tại Cộng hòa Dominica....
+
+- ★☆☆ **[Cổ đông ngoại giảm tỷ lệ sở hữu tại Kido xuống dưới 6%](https://cafef.vn/co-dong-ngoai-giam-ty-le-so-huu-tai-kido-xuong-duoi-6-188260527075240323.chn)**
+  - *(Wed, 27 May 26 07:52:00 +0700)*
+  - Cổ đông ngoại Star Pacifica Pte. Ltd. vừa bán ra 974.000 cổ phiếu KDC nhằm mục đích cơ cấu danh mục đầu tư, qua đó giảm tỷ lệ sở hữu xuống còn 5,759% vốn tại Kido....
+
+- ★☆☆ **[Nhà đầu tư Thái Lan rút vốn khỏi 2 quỹ ETF quy mô hàng đầu Việt Nam](https://cafef.vn/nha-dau-tu-thai-lan-rut-von-khoi-2-quy-etf-quy-mo-hang-dau-viet-nam-188260526230848984.chn)**
+  - *(Wed, 27 May 26 00:01:00 +0700)*
+  - Động thái rút vốn của nhà đầu tư Thái Lan có thể xuất phát từ việc hiệu suất của 2 chứng chỉ quỹ ETF này không mấy khả quan thời gian gần đây....
+
+- ★☆☆ **[Một thế lực "tung" hơn trăm tỷ gom cổ phiếu HOSE phiên giảm điểm](https://cafef.vn/mot-the-luc-tung-hon-tram-ty-gom-co-phieu-hose-phien-giam-diem-188260527005036442.chn)**
+  - *(Tue, 26 May 26 23:57:00 +0700)*
+  - Tự doanh CTCK mua ròng 114 tỷ đồng trên HOSE....
+
+- ★☆☆ **[5 công ty bị gọi tên vì vi phạm lĩnh vực chứng khoán](https://cafef.vn/5-cong-ty-bi-goi-ten-vi-vi-pham-linh-vuc-chung-khoan-188260526205237606.chn)**
+  - *(Tue, 26 May 26 21:45:00 +0700)*
+  - 5 công ty vừa bị xử phạt tổng số tiền 550 triệu đồng với các vi phạm liên quan công bố thông tin trên thị trường chứng khoán....
+
+- ★☆☆ **[Loạt cổ phiếu PDR, VAB, VNE, VVS bất ngờ tăng hết biên độ, “trắng bên bán”](https://cafef.vn/loat-co-phieu-pdr-vab-vne-vvs-bat-ngo-tang-het-bien-do-trang-ben-ban-188260526195133968.chn)**
+  - *(Tue, 26 May 26 19:57:00 +0700)*
+  - Các mã cổ phiếu PDR, VAB, VNE, VVS gây chú ý mạnh đối với các nhà đầu tư khi đồng loạt tăng hết biên độ, cùng thanh khoản đột biến - “trắng bên bán” trong phiên 26/5....
+
+- ★☆☆ **[Chủ đầu tư Usilk City và 2 doanh nghiệp bị xử phạt vì chậm công bố thông tin](https://cafef.vn/chu-dau-tu-usilk-city-va-2-doanh-nghiep-bi-xu-phat-vi-cham-cong-bo-thong-tin-188260526195046725.chn)**
+  - *(Tue, 26 May 26 19:56:00 +0700)*
+  - Thanh tra Chứng khoán Nhà nước vừa đồng loạt ban hành các quyết định xử phạt hành chính đối với 3 doanh nghiệp do vi phạm quy định về thời hạn công bố thông tin trên thị trường chứng khoán. Trong đó đ...
+
+- ★☆☆ **[Vừa báo lãi tăng gấp 3 lần, một doanh nghiệp trên HOSE sắp trả cổ tức tiền mặt kỷ lục](https://cafef.vn/vua-bao-lai-tang-gap-3-lan-mot-doanh-nghiep-tren-hose-sap-tra-co-tuc-tien-mat-ky-luc-188260526154732267.chn)**
+  - *(Tue, 26 May 26 15:48:00 +0700)*
+  - Với gần 106,6 triệu cổ phiếu đang lưu hành, doanh nghiệp dự kiến chi gần 245 tỷ đồng cho đợt cổ tức lần này....
+
+- ★☆☆ **[Sau 1 văn bản, cổ phiếu DN xây lắp điện lập tức tím lịm 2 phiên liên tiếp, lãnh đạo bỏ lỡ cơ hội "bắt đáy"](https://cafef.vn/sau-1-van-ban-co-phieu-dn-xay-lap-dien-lap-tuc-tim-lim-2-phien-lien-tiep-lanh-dao-bo-lo-co-hoi-bat-day-188260526150003122.chn)**
+  - *(Tue, 26 May 26 14:59:00 +0700)*
+  - Lãnh đạo doanh nghiệp không mua vào cổ phiếu với lý do không thu xếp được tài chính, ngày kết thúc giao dịch trùng với phiên giảm sàn cuối trước khi thị giá bật tăng trở lại....
 
 ## VNeconomy
 - ★★★ **[Chứng khoán Mỹ lập kỷ lục mới, mặc giá dầu leo thang trở lại](https://vneconomy.vn/chung-khoan-my-lap-ky-luc-moi-mac-gia-dau-leo-thang-tro-lai.htm)**
@@ -91,9 +236,9 @@ Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoá
   - *(Thu, 21 May 2026 09:18:49 GMT)*
   - C#244;ng ty Chứng kho#225;n Vietcombank (VCBS) vừa được chấp thuận tăng vốn điều lệ l#234;n 8.500 tỷ đồng nhằm n#226;ng cao năng lực t#224;i ch#237;nh, mở rộng quy m#244; hoạt động v#224; đầu tư mạnh ...
 
-- ★★☆ **[Cổ phiếu ngân hàng: Định giá thấp nhưng lợi nhuận suy yếu khiến tiềm năng tăng giá khá hạn chế](https://vneconomy.vn/co-phieu-ngan-hang-dinh-gia-thap-nhung-loi-nhuan-suy-yeu-khien-tiem-nang-tang-gia-kha-han-che.htm)**
-  - *(Thu, 21 May 2026 06:55:27 GMT)*
-  - D#249; định gi#225; hiện tại thấp hơn trung b#236;nh 5 năm nhưng động lực tăng trưởng 2026 suy yếu trước #225;p lực NIM thu hẹp v#224; tr#237;ch lập dự ph#242;ng khi rủi ro suy giảm chất lượng t#224;i...
+- ★☆☆ **[Nỗ lực phục hồi từ cổ phiếu ngân hàng duy trì biên độ hẹp của VN-Index](https://vneconomy.vn/no-luc-phuc-hoi-tu-co-phieu-ngan-hang-duy-tri-bien-do-hep-cua-vn-index.htm)**
+  - *(Wed, 27 May 2026 08:48:12 GMT)*
+  - Một nhịp suy yếu th#234;m của loạt cổ phiếu vốn h#243;a lớn khiến VN-Index chiều nay c#243; l#250;c -1,2%. May mắn d#242;ng tiền quay lại bắt bắt đ#225;y cổ phiếu ng#226;n h#224;ng kh#225; tốt, gi#250...
 
 - ★☆☆ **[Thêm hai hãng chip đạt mức vốn hóa trên 1 nghìn tỷ USD](https://vneconomy.vn/them-hai-hang-chip-dat-muc-von-hoa-tren-1-nghin-ty-usd.htm)**
   - *(Wed, 27 May 2026 02:04:07 GMT)*
@@ -207,175 +352,6 @@ Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoá
   - *(Fri, 22 May 2026 00:24:14 GMT)*
   - VnEconomy giới thiệu nhận định v#224; khuyến nghị đầu tư của một số c#244;ng ty chứng kho#225;n về diễn biến thị trường ng#224;y 22/5/2026...
 
-- ★☆☆ **[Thanh khoản thấp đột biến, VN-Index lại mất mốc 1900 điểm](https://vneconomy.vn/thanh-khoan-thap-dot-bien-vn-index-lai-mat-moc-1900-diem.htm)**
-  - *(Thu, 21 May 2026 08:26:49 GMT)*
-  - D#242;ng tiền qu#225; yếu chiều nay đ#227; kh#244;ng thể n#226;ng đỡ gi#225; c#225;c cổ phiếu trụ khiến VN-Index tiếp tục l#249;i s#226;u hơn l#250;c đ#243;ng cửa, xuống mức 1896,89 điểm. Đ#226;y l#22...
-
-## CafeF
-- ★★★ **[Phiên 26/5: Khối ngoại bán ròng gần 1.000 tỷ đồng, cổ phiếu nào bị "xả" mạnh nhất?](https://cafef.vn/phien-26-5-khoi-ngoai-ban-rong-gan-1000-ty-dong-co-phieu-nao-bi-xa-manh-nhat-188260526154637821.chn)**
-  - *(Tue, 26 May 26 15:47:00 +0700)*
-  - Giao dịch của khối ngoại là điểm trừ khi bán ròng khoảng 940 tỷ đồng cổ phiếu trên toàn thị trường....
-
-- ★★☆ **[Ông Đoàn Văn Hiểu Em "mở bát" chi 160 tỷ đồng mua cổ phiếu DMX trong đợt IPO](https://cafef.vn/ong-doan-van-hieu-em-mo-bat-chi-160-ty-dong-mua-co-phieu-dmx-trong-dot-ipo-18826052712194536.chn)**
-  - *(Wed, 27 May 26 12:19:00 +0700)*
-  - Lãnh đạo này cho biết động thái này nhằm khẳng định niềm tin và cam kết dài hạn với hành trình tăng trưởng mới của DMX 2026-2030....
-
-- ★★☆ **["Bom tấn" IPO Điện Máy Xanh: chính thức mở sổ đăng ký, cơ hội sở hữu cỗ máy in tiền tỷ đô với cổ tức tiền mặt 40% ngay trong 2026](https://cafef.vn/bom-tan-ipo-dien-may-xanh-chinh-thuc-mo-so-dang-ky-co-hoi-so-huu-co-may-in-tien-ty-do-voi-co-tuc-tien-mat-40-ngay-trong-2026-188260527111917795.chn)**
-  - *(Wed, 27 May 26 11:19:00 +0700)*
-  - Đúng 8h00 hôm nay, ngày 27/05/2026, thương vụ IPO lớn nhất ngành bán lẻ hơn thập kỷ qua  - Điện Máy Xanh (DMX) sẽ chính thức mở sổ nhận đăng ký mua cổ phiếu. Với quy mô chào bán 14.360 tỷ đồng (hơn 54...
-
-- ★★☆ **[Một cổ phiếu trên HoSE liên tục "trần cứng" từ khi niêm yết, vốn hóa vượt 1.300 tỷ đồng](https://cafef.vn/mot-co-phieu-tren-hose-lien-tuc-tran-cung-tu-khi-niem-yet-von-hoa-vuot-1300-ty-dong-188260527103014129.chn)**
-  - *(Wed, 27 May 26 10:31:00 +0700)*
-  - Lực cầu tiếp tục duy trì tích cực, giúp AAN giữ trọn sắc tím trong cả 3 phiên đầu tiên trên sàn....
-
-- ★★☆ **[CEO Điện Máy Xanh tiết lộ lý do IPO: Muốn “giải oan” cho ngành bán lẻ điện máy](https://cafef.vn/ceo-dien-may-xanh-tiet-lo-ly-do-ipo-muon-giai-oan-cho-nganh-ban-le-dien-may-188260527102929433.chn)**
-  - *(Wed, 27 May 26 10:30:00 +0700)*
-  - “Việc niêm yết và tách bạch riêng Điện Máy Xanh sẽ giúp nhà đầu tư có cái nhìn chính xác hơn về tốc độ tăng trưởng của ngành điện thoại, điện máy”, ông Hiểu Em chia sẻ....
-
-- ★★☆ **[Xoá bỏ định kiến "bão hòa", CEO Điện Máy Xanh hé lộ bí kíp tăng trưởng vượt giới hạn và lý do quyết định IPO](https://cafef.vn/xoa-bo-dinh-kien-bao-hoa-ceo-dien-may-xanh-he-lo-bi-kip-tang-truong-vuot-gioi-han-va-ly-do-quyet-dinh-ipo-188260527082931804.chn)**
-  - *(Wed, 27 May 26 10:00:00 +0700)*
-  - Sau nhiều năm tích luỹ, ông Đoàn Văn Hiểu Em cùng Điện Máy Xanh đang chuẩn bị cho một "trận đánh" lớn: IPO và biến doanh nghiệp thành một cỗ máy tăng trưởng mới trên thị trường chứng khoán....
-
-- ★★☆ **["Bom tấn" Điện Máy Xanh xuống tiền làm điều chưa từng có trước thềm IPO](https://cafef.vn/bom-tan-dien-may-xanh-xuong-tien-lam-dieu-chua-tung-co-truoc-them-ipo-188260527005128576.chn)**
-  - *(Wed, 27 May 26 00:51:00 +0700)*
-  - Sức nóng của thương vụ IPO vừa được đẩy lên cao khi Điện Máy Xanh vừa công bố chương trình ưu đãi đặc biệt dành riêng cho các nhà đầu tư cá nhân....
-
-- ★★☆ **[Gần 200 cổ phiếu tăng giá, vì sao VN-Index vẫn mất điểm?](https://cafef.vn/gan-200-co-phieu-tang-gia-vi-sao-vn-index-van-mat-diem-188260526210259045.chn)**
-  - *(Tue, 26 May 26 21:05:00 +0700)*
-  - Sau phiên hồi phục đầu tuần, thị trường chứng khoán hôm nay (26/5) lại quay về trạng thái rung lắc mạnh. Dù sắc xanh áp đảo trên bảng điện với gần 200 cổ phiếu HoSE tăng giá, song VN-Index vẫn đóng cử...
-
-- ★★☆ **[Năng lượng Tái tạo Trung Nam phát hành lô trái phiếu hơn 1.900 tỷ đồng](https://cafef.vn/nang-luong-tai-tao-trung-nam-phat-hanh-lo-trai-phieu-hon-1900-ty-dong-188260526135812871.chn)**
-  - *(Tue, 26 May 26 14:31:00 +0700)*
-  - Ngày 18/5 vừa qua, Năng lượng Tái tạo Trung Nam đã phát hành trái phiếu mã TRE32601 trị giá 1.930 tỷ đồng....
-
-- ★★☆ **[Long Giang Land: Tái cấu trúc toàn diện tạo bước đệm hướng đến chu kỳ lợi nhuận 500 tỷ mỗi năm](https://cafef.vn/long-giang-land-tai-cau-truc-toan-dien-tao-buoc-dem-huong-den-chu-ky-loi-nhuan-500-ty-moi-nam-188260526135959829.chn)**
-  - *(Tue, 26 May 26 13:59:00 +0700)*
-  - Trong bối cảnh thị trường bất động sản dần phục hồi sau giai đoạn thanh lọc mạnh, Long Giang Land được kỳ vọng sẽ tận dụng tốt lợi thế về quỹ đất và kinh nghiệm phát triển dự án để quay trở lại đường ...
-
-- ★★☆ **[Chuyên gia: Chuyển đổi vàng để mua nhà giúp chống 'vàng hóa' nền kinh tế](https://cafef.vn/chuyen-gia-chuyen-doi-vang-de-mua-nha-giup-chong-vang-hoa-nen-kinh-te-188260526135415964.chn)**
-  - *(Tue, 26 May 26 13:54:00 +0700)*
-  - Ước tính, người Việt hiện đang “cất két” khoảng 400-500 tấn vàng, tương đương 80 tỷ USD, gây ra sự lãng phí nguồn lực vô cùng lớn. Trong bối cảnh đó, giải pháp hỗ trợ chuyển đổi vàng để mua nhà của Vi...
-
-- ★★☆ **[Cổ đông của Sợi Thế Kỷ sắp nhận cổ tức bằng cổ phiếu tỷ lệ 10%](https://cafef.vn/co-dong-cua-soi-the-ky-sap-nhan-co-tuc-bang-co-phieu-ty-le-10-188260526102518005.chn)**
-  - *(Tue, 26 May 26 11:17:00 +0700)*
-  - Sợi Thế Kỷ dự kiến phát hành hơn 14 triệu cổ phiếu trả cổ tức năm tài chính 2025 cho cổ đông, thời gian dự kiến phát hành trong năm 2026....
-
-- ★★☆ **[4 năm VPBankS: Từ hành trình xây nền tảng đến vị thế hàng đầu thị trường](https://cafef.vn/4-nam-vpbanks-tu-hanh-trinh-xay-nen-tang-den-vi-the-hang-dau-thi-truong-188260522143214761.chn)**
-  - *(Tue, 26 May 26 08:00:00 +0700)*
-  - Sau 4 năm tái định vị và tăng tốc, VPBankS bước vào giai đoạn phát triển mới với tham vọng trở thành trung tâm giải pháp tài chính - ngân hàng đầu tư hàng đầu thị trường....
-
-- ★★☆ **[VinFast, Novaland, REE… đồng loạt thay Chủ tịch, chuyện gì đang xảy ra?](https://cafef.vn/vinfast-novaland-ree-dong-loat-thay-chu-tich-chuyen-gi-dang-xay-ra-188260525231944746.chn)**
-  - *(Tue, 26 May 26 00:05:00 +0700)*
-  - VinFast, Novaland, REE là 3 trong số nhiều doanh nghiệp lớn có biến động thượng tầng thời gian gần đây....
-
-- ★★☆ **[Khối ngoại mạnh tay bán ròng gần 2.100 tỷ đồng phiên đầu tuần, cổ phiếu nào bị "xả" mạnh nhất?](https://cafef.vn/khoi-ngoai-manh-tay-ban-rong-gan-2100-ty-dong-phien-dau-tuan-co-phieu-nao-bi-xa-manh-nhat-188260525151451214.chn)**
-  - *(Mon, 25 May 26 15:45:00 +0700)*
-  - Chiều mua, khối ngoại mua ròng mạnh nhất cổ phiếu MSN với giá trị khoảng 145 tỷ đồng....
-
-- ★★☆ **[HDBank nâng sở hữu tại một công ty chứng khoán lên 90%](https://cafef.vn/hdbank-nang-so-huu-tai-mot-cong-ty-chung-khoan-len-90-188260525152834989.chn)**
-  - *(Mon, 25 May 26 15:28:00 +0700)*
-  - Công ty chứng khoán này vừa chào bán cổ phiếu cho cổ đông hiện hữu và phát hành cổ phiếu trả cổ tức, nâng vốn điều lệ lên gần 11.000 tỷ đồng....
-
-- ★☆☆ **[Lãnh đạo Kido muốn ‘gom’ thêm 1,5 triệu cổ phiếu KDC](https://cafef.vn/lanh-dao-kido-muon-gom-them-15-trieu-co-phieu-kdc-188260527092929444.chn)**
-  - *(Wed, 27 May 26 10:46:00 +0700)*
-  - Bà Vương Bửu Linh- Thành viên HĐQT của Kido vừa tiếp tục đăng ký mua 1,5 triệu cổ phiếu KDC nhằm mục đích nhu cầu cá nhân....
-
-- ★☆☆ **[Loạt lãnh đạo Chứng khoán Thành Công xin từ nhiệm](https://cafef.vn/loat-lanh-dao-chung-khoan-thanh-cong-xin-tu-nhiem-188260527092831597.chn)**
-  - *(Wed, 27 May 26 10:39:00 +0700)*
-  - Chứng khoán Thành Công đã nhận được Đơn từ nhiệm của 3 lãnh đạo doanh nghiệp này với lý do cá nhân....
-
-- ★☆☆ **[Cổ phiếu đình đám một thời tăng dựng đứng gấp 3 sau ba tuần, vốn hóa cán mốc 1,3 tỷ USD](https://cafef.vn/co-phieu-dinh-dam-mot-thoi-tang-dung-dung-gap-3-sau-ba-tuan-von-hoa-can-moc-13-ty-usd-188260527103046884.chn)**
-  - *(Wed, 27 May 26 10:31:00 +0700)*
-  - Đà tăng mạnh cũng kéo vốn hóa thị trường của doanh nghiệp vượt mốc 35.000 tỷ đồng, tương đương khoảng 1,3 tỷ USD....
-
-- ★☆☆ **[Hai quỹ ETF gần 30.000 tỉ đồng chuẩn bị “đảo danh mục"](https://cafef.vn/hai-quy-etf-gan-30000-ti-dong-chuan-bi-dao-danh-muc-188260527093055863.chn)**
-  - *(Wed, 27 May 26 09:59:00 +0700)*
-  - Các chuyên gia MBS cho rằng hoạt động tái cơ cấu ETF thường tạo ra biến động mạnh về thanh khoản và giá cổ phiếu...
-
-- ★☆☆ **[Sonadezi Long Thành muốn bán toàn bộ hơn 1,2 cổ phiếu quỹ còn lại](https://cafef.vn/sonadezi-long-thanh-muon-ban-toan-bo-hon-12-co-phieu-quy-con-lai-188260527075409536.chn)**
-  - *(Wed, 27 May 26 08:17:00 +0700)*
-  - Sonadezi Long Thành dự kiến đăng ký bán toàn bộ hơn 1,2 triệu cổ phiếu quỹ còn lại nhằm mục đích bổ sung vốn lưu động cho công ty....
-
-- ★☆☆ **[Viettel Global ‘rót’ 560 triệu USD đầu tư vào thị trường Cộng hòa Dominica](https://cafef.vn/viettel-global-rot-560-trieu-usd-dau-tu-vao-thi-truong-cong-hoa-dominica-188260527075547769.chn)**
-  - *(Wed, 27 May 26 08:00:00 +0700)*
-  - Viettel Global sẽ chi 560 triệu USD để thành lập tổ chức kinh tế nhằm đầu tư, xây dựng, vận hành và khai thác hạ tầng viễn thông và công nghệ số hiện tại tại Cộng hòa Dominica....
-
-- ★☆☆ **[Cổ đông ngoại giảm tỷ lệ sở hữu tại Kido xuống dưới 6%](https://cafef.vn/co-dong-ngoai-giam-ty-le-so-huu-tai-kido-xuong-duoi-6-188260527075240323.chn)**
-  - *(Wed, 27 May 26 07:52:00 +0700)*
-  - Cổ đông ngoại Star Pacifica Pte. Ltd. vừa bán ra 974.000 cổ phiếu KDC nhằm mục đích cơ cấu danh mục đầu tư, qua đó giảm tỷ lệ sở hữu xuống còn 5,759% vốn tại Kido....
-
-- ★☆☆ **[Nhà đầu tư Thái Lan rút vốn khỏi 2 quỹ ETF quy mô hàng đầu Việt Nam](https://cafef.vn/nha-dau-tu-thai-lan-rut-von-khoi-2-quy-etf-quy-mo-hang-dau-viet-nam-188260526230848984.chn)**
-  - *(Wed, 27 May 26 00:01:00 +0700)*
-  - Động thái rút vốn của nhà đầu tư Thái Lan có thể xuất phát từ việc hiệu suất của 2 chứng chỉ quỹ ETF này không mấy khả quan thời gian gần đây....
-
-- ★☆☆ **[Một thế lực "tung" hơn trăm tỷ gom cổ phiếu HOSE phiên giảm điểm](https://cafef.vn/mot-the-luc-tung-hon-tram-ty-gom-co-phieu-hose-phien-giam-diem-188260527005036442.chn)**
-  - *(Tue, 26 May 26 23:57:00 +0700)*
-  - Tự doanh CTCK mua ròng 114 tỷ đồng trên HOSE....
-
-- ★☆☆ **[5 công ty bị gọi tên vì vi phạm lĩnh vực chứng khoán](https://cafef.vn/5-cong-ty-bi-goi-ten-vi-vi-pham-linh-vuc-chung-khoan-188260526205237606.chn)**
-  - *(Tue, 26 May 26 21:45:00 +0700)*
-  - 5 công ty vừa bị xử phạt tổng số tiền 550 triệu đồng với các vi phạm liên quan công bố thông tin trên thị trường chứng khoán....
-
-- ★☆☆ **[Loạt cổ phiếu PDR, VAB, VNE, VVS bất ngờ tăng hết biên độ, “trắng bên bán”](https://cafef.vn/loat-co-phieu-pdr-vab-vne-vvs-bat-ngo-tang-het-bien-do-trang-ben-ban-188260526195133968.chn)**
-  - *(Tue, 26 May 26 19:57:00 +0700)*
-  - Các mã cổ phiếu PDR, VAB, VNE, VVS gây chú ý mạnh đối với các nhà đầu tư khi đồng loạt tăng hết biên độ, cùng thanh khoản đột biến - “trắng bên bán” trong phiên 26/5....
-
-- ★☆☆ **[Chủ đầu tư Usilk City và 2 doanh nghiệp bị xử phạt vì chậm công bố thông tin](https://cafef.vn/chu-dau-tu-usilk-city-va-2-doanh-nghiep-bi-xu-phat-vi-cham-cong-bo-thong-tin-188260526195046725.chn)**
-  - *(Tue, 26 May 26 19:56:00 +0700)*
-  - Thanh tra Chứng khoán Nhà nước vừa đồng loạt ban hành các quyết định xử phạt hành chính đối với 3 doanh nghiệp do vi phạm quy định về thời hạn công bố thông tin trên thị trường chứng khoán. Trong đó đ...
-
-- ★☆☆ **[Vừa báo lãi tăng gấp 3 lần, một doanh nghiệp trên HOSE sắp trả cổ tức tiền mặt kỷ lục](https://cafef.vn/vua-bao-lai-tang-gap-3-lan-mot-doanh-nghiep-tren-hose-sap-tra-co-tuc-tien-mat-ky-luc-188260526154732267.chn)**
-  - *(Tue, 26 May 26 15:48:00 +0700)*
-  - Với gần 106,6 triệu cổ phiếu đang lưu hành, doanh nghiệp dự kiến chi gần 245 tỷ đồng cho đợt cổ tức lần này....
-
-- ★☆☆ **[Sau 1 văn bản, cổ phiếu DN xây lắp điện lập tức tím lịm 2 phiên liên tiếp, lãnh đạo bỏ lỡ cơ hội "bắt đáy"](https://cafef.vn/sau-1-van-ban-co-phieu-dn-xay-lap-dien-lap-tuc-tim-lim-2-phien-lien-tiep-lanh-dao-bo-lo-co-hoi-bat-day-188260526150003122.chn)**
-  - *(Tue, 26 May 26 14:59:00 +0700)*
-  - Lãnh đạo doanh nghiệp không mua vào cổ phiếu với lý do không thu xếp được tài chính, ngày kết thúc giao dịch trùng với phiên giảm sàn cuối trước khi thị giá bật tăng trở lại....
-
-- ★☆☆ **[Khởi tố ông Nguyễn Duy Dũng](https://cafef.vn/khoi-to-ong-nguyen-duy-dung-188260526143929062.chn)**
-  - *(Tue, 26 May 26 14:39:00 +0700)*
-  - Ông Nguyễn Duy Dũng – Thành viên HĐQT Vinatrans đã bị khởi tố do vi phạm quy định về quản lý, sử dụng tài sản Nhà nước gây thất thoát, lãng phí; Thiếu trách nhiệm gây thiệt hại đến tài sản của nhà nướ...
-
-- ★☆☆ **[Mua IPO cổ phiếu với “0 đồng”?](https://cafef.vn/mua-ipo-co-phieu-voi-0-dong-188260526122501141.chn)**
-  - *(Tue, 26 May 26 13:30:00 +0700)*
-  - Không chỉ miễn phí giao dịch trọn đời, LPBS còn tung chính sách miễn lãi margin trọn đời (với dư nợ 20 triệu đồng đầu tiên) nếu nhà đầu tư sở hữu từ 800 cổ phiếu LPS*, và tặng 48 triệu đồng tiền lãi m...
-
-- ★☆☆ **[Chứng khoán VPS muốn chào bán 240 triệu cổ phiếu riêng lẻ](https://cafef.vn/chung-khoan-vps-muon-chao-ban-240-trieu-co-phieu-rieng-le-188260526102603734.chn)**
-  - *(Tue, 26 May 26 11:16:00 +0700)*
-  - Trong thời gian từ 25/5 tới 15/6/2026, VPS lấy ý kiến cổ đông về kế hoạch chào bán tối đa 240 triệu cổ phiếu riêng lẻ....
-
-- ★☆☆ **[Một cổ phiếu ngân hàng bất ngờ "tím lịm" với thanh khoản đột biến, chuyện gì đang xảy ra?](https://cafef.vn/mot-co-phieu-ngan-hang-bat-ngo-tim-lim-voi-thanh-khoan-dot-bienchuyen-gi-dang-xay-ra-188260526104603754.chn)**
-  - *(Tue, 26 May 26 10:50:00 +0700)*
-  - Thanh khoản cũng bùng nổ khi chưa hết phiên sáng đã có hơn 2 triệu cổ phiếu sang tay, đột biến so với khối lượng bình quân trước đó....
-
-- ★☆☆ **[VN-Index tăng mạnh nhưng phân hóa “hình chữ K”, chuyên gia chỉ tên 5 nhóm ngành đáng chú ý nửa cuối năm 2026](https://cafef.vn/vn-index-tang-manh-nhung-phan-hoa-hinh-chu-k-chuyen-gia-chi-ten-5-nhom-nganh-dang-chu-y-nua-cuoi-nam-2026-188260526102054296.chn)**
-  - *(Tue, 26 May 26 10:21:00 +0700)*
-  - Theo ông Trần Anh Tuấn, thị trường chứng khoán Việt Nam vẫn có triển vọng tích cực trong nửa cuối năm 2026, song trạng thái phân hóa mạnh nhiều khả năng còn tiếp diễn trong ngắn hạn....
-
-- ★☆☆ **[Tỷ phú Trần Đình Long muốn "đánh thức" mỏ sắt hơn 500 triệu tấn ở Hà Tĩnh](https://cafef.vn/ty-phu-tran-dinh-long-muon-danh-thuc-mo-sat-hon-500-trieu-tan-o-ha-tinh-188260526094544783.chn)**
-  - *(Tue, 26 May 26 09:45:00 +0700)*
-  - Tập đoàn Hòa Phát cho rằng với quy mô và độ khó khai thác tại mỏ quặng sắt Thạch Khê, chỉ có doanh nghiệp hàng đầu Việt Nam mới đủ năng lực tài chính và kinh nghiệm để triển khai dự án thành công....
-
-- ★☆☆ **[HOSE công bố 67 mã cổ phiếu bị cắt margin tháng 5](https://cafef.vn/hose-cong-bo-67-ma-co-phieu-bi-cat-margin-thang-5-188260526002824737.chn)**
-  - *(Tue, 26 May 26 00:28:00 +0700)*
-  - Theo quy định, nhà đầu tư sẽ không được sử dụng hạn mức tín dụng (đòn bẩy tài chính-margin) do công ty chứng khoán cấp để mua 67 mã cổ phiếu bị xếp vào danh sách chứng khoán không đủ điều kiện giao dị...
-
-- ★☆☆ **[Tiền vào chứng khoán xuống mức thấp nhất 2 tháng, điều gì đang diễn ra?](https://cafef.vn/tien-vao-chung-khoan-xuong-muc-thap-nhat-2-thang-dieu-gi-dang-dien-ra-18826052521361641.chn)**
-  - *(Tue, 26 May 26 00:01:00 +0700)*
-  - VN-Index tăng điểm trong phiên đầu tuần, song thanh khoản lại rơi xuống mức thấp nhất gần 2 tháng, cho thấy tâm lý thận trọng vẫn bao trùm thị trường....
-
-- ★☆☆ **[Thị trường tiền số hôm nay, 25-5: Diễn biến trái chiều](https://cafef.vn/thi-truong-tien-so-hom-nay-25-5-dien-bien-trai-chieu-188260525231847208.chn)**
-  - *(Mon, 25 May 26 23:18:00 +0700)*
-  - Một số nhà phân tích nhận định cấu trúc thị trường tiền số ngắn hạn đã chuyển sang xu hướng giảm sau khi các mốc hỗ trợ quan trọng bị phá vỡ....
-
-- ★☆☆ **[Tỷ phú Phạm Nhật Vượng mở DN gần 80.000 tỷ, quyết tâm khai thác 2 lĩnh vực mới](https://cafef.vn/ty-phu-pham-nhat-vuong-mo-dn-gan-80000-ty-co-von-lon-hon-vingroup-quyet-tam-khai-thac-2-linh-vuc-moi-18826052515592078.chn)**
-  - *(Mon, 25 May 26 18:10:00 +0700)*
-  - Đây là doanh nghiệp mà tỷ phú Phạm Nhật Vượng nắm giữ hơn 66% vốn. Ngoài ra còn có những người trong top giàu nhất Việt Nam góp vốn....
-
-- ★☆☆ **[HDBank hoàn tất sở hữu 90% vốn Chứng khoán HD](https://cafef.vn/hdbank-hoan-tat-so-huu-90-von-chung-khoan-hd-18826052516294983.chn)**
-  - *(Mon, 25 May 26 17:32:00 +0700)*
-  - HDBank đã hoàn tất việc tăng sở hữu lên 90% vốn, tương đương 986,4 triệu cổ phần của Chứng khoán HD.HDBank đã hoàn tất việc tăng sở hữu lên 90% vốn, tương đương 986,4 triệu cổ phần của Chứng khoán HD....
-
 ## VnExpress Business
 - ★★★ **['Sửa Luật đất đai không phát sinh khó khăn cho người dân, doanh nghiệp'](https://vnexpress.net/sua-luat-dat-dai-khong-phat-sinh-kho-khan-cho-nguoi-dan-doanh-nghiep-5078361.html)**
   - *(Tue, 26 May 2026 14:57:48 +0700)*
@@ -384,10 +360,6 @@ Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoá
 - ★★★ **[Trump Media chuyển hơn 200 triệu USD Bitcoin lên sàn](https://vnexpress.net/trump-media-chuyen-hon-200-trieu-usd-bitcoin-len-san-5077321.html)**
   - *(Sat, 23 May 2026 12:55:41 +0700)*
   - Trump Media, công ty liên quan đến Tổng thống Mỹ Donald Trump, vừa chuyển 2.650 Bitcoin lên một sàn giao dịch tập trung, tương đương khoảng 205 triệu USD....
-
-- ★★★ **[Ngân hàng Nhà nước yêu cầu kiểm tra nhà băng tăng lãi suất](https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-kiem-tra-nha-bang-tang-lai-suat-5077143.html)**
-  - *(Fri, 22 May 2026 18:43:42 +0700)*
-  - Ngân hàng Nhà nước tiếp tục đôn đốc kiểm tra việc điều chỉnh lãi suất tiết kiệm của các nhà băng....
 
 - ★★☆ **[Có thể dùng app ngân hàng quét QR thanh toán tại nhiều quốc gia](https://vnexpress.net/co-the-dung-app-ngan-hang-quet-qr-thanh-toan-tai-nhieu-quoc-gia-5078513.html)**
   - *(Tue, 26 May 2026 19:22:08 +0700)*
@@ -429,9 +401,17 @@ Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoá
   - *(Sat, 23 May 2026 12:00:00 +0700)*
   - MSB phối hợp Ernst & Young Việt Nam khởi động dự án triển khai phương pháp xếp hạng nội bộ (IRB) theo Thông tư 14 của Ngân hàng Nhà nước, nhằm nâng cao năng lực quản trị rủi ro theo chuẩn Basel III....
 
-- ★★☆ **[Điện Máy Xanh muốn huy động hơn 14.000 tỷ đồng qua IPO](https://vnexpress.net/dien-may-xanh-muon-huy-dong-hon-14-000-ty-dong-qua-ipo-5077011.html)**
-  - *(Fri, 22 May 2026 17:24:00 +0700)*
-  - Điện Máy Xanh dự kiến huy động 14.360 tỷ đồng qua đợt chào bán gần 180 triệu cổ phiếu với giá 80.000 đồng mỗi đơn vị....
+- ★☆☆ **[VN-Index xuống thấp nhất từ đầu tháng](https://vnexpress.net/vn-index-xuong-thap-nhat-tu-dau-thang-5078879.html)**
+  - *(Wed, 27 May 2026 16:02:09 +0700)*
+  - Nhà đầu tư bán mạnh cổ phiếu liên quan Vingroup khiến chỉ số đại diện cho sàn TP HCM giảm gần 10 điểm, xuống 1.874 điểm, thấp nhất từ đầu tháng....
+
+- ★☆☆ **[Eximbank sắp họp đại hội cổ đông bất thường về nhân sự](https://vnexpress.net/eximbank-sap-hop-dai-hoi-co-dong-bat-thuong-ve-nhan-su-5078768.html)**
+  - *(Wed, 27 May 2026 15:16:46 +0700)*
+  - Eximbank sẽ họp đại hội cổ đông bất thường, tiếp tục bầu bổ sung nhân sự Hội đồng quản trị và ban kiểm soát....
+
+- ★☆☆ **[Lượng dầu ở châu Á sắp về mức tối thiểu để vận hành](https://vnexpress.net/luong-dau-o-chau-a-sap-ve-muc-toi-thieu-de-van-hanh-5078507.html)**
+  - *(Wed, 27 May 2026 14:57:32 +0700)*
+  - Thị trường dầu mỏ ở châu Á đang xuống mức tối thiểu để đảm bảo vận hành được bình thường, theo cảnh báo của chuyên gia....
 
 - ★☆☆ **[Nhu cầu Bitcoin thấp nhất 5 tháng qua](https://vnexpress.net/nhu-cau-bitcoin-thap-nhat-5-thang-qua-5078664.html)**
   - *(Wed, 27 May 2026 10:50:19 +0700)*
@@ -497,10 +477,6 @@ Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoá
   - *(Sat, 23 May 2026 14:00:00 +0700)*
   - Tân Á Đại Thành được chấp thuận đầu tư nhà máy xi măng Hà Tiên Kiên Giang theo mô hình xanh, tổng vốn 5.800 tỷ đồng, dự kiến vận hành từ quý IV/2028....
 
-- ★☆☆ **[Việt Nam muốn Amazon đầu tư vào công nghệ trí tuệ nhân tạo](https://vnexpress.net/viet-nam-muon-amazon-dau-tu-vao-cong-nghe-tri-tue-nhan-tao-5077166.html)**
-  - *(Fri, 22 May 2026 21:28:21 +0700)*
-  - Tổng Bí thư, Chủ tịch nước Tô Lâm mong muốn Amazon mở rộng đầu tư vào lĩnh vực công nghệ trí tuệ nhân tạo, đào tạo nguồn nhân lực chất lượng cao tại Việt Nam....
-
 ## Vietstock
 - ★★☆ **[3 doanh nghiệp bị phạt do chậm công bố hàng loạt báo cáo](http://vietstock.vn/2026/05/3-doanh-nghiep-bi-phat-do-cham-cong-bo-hang-loat-bao-cao-830-1446999.htm)**
   - *(Tue, 26 May 2026 20:07:00 +0700)*
@@ -522,13 +498,17 @@ Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoá
   - *(Mon, 25 May 2026 17:00:00 +0700)*
   - Tổng CTCP Xây dựng Điện Việt Nam (VNE) vừa có thư ngỏ nhằm làm rõ tình trạng bị hủy niêm yết, đồng thời cho biết đặt mục tiêu trở lại HOSE. Phản ứng trước tin tức này, cổ phiếu VNE bật tăng trần sau c...
 
+- ★☆☆ **[Nhịp đập Thị trường 27/05: Thị trường tiếp tục phân hóa](http://vietstock.vn/2026/05/nhip-dap-thi-truong-2705-thi-truong-tiep-tuc-phan-hoa-1636-1447096.htm)**
+  - *(Wed, 27 May 2026 16:57:00 +0700)*
+  - Kết thúc phiên giao dịch, VN-Index giảm 9.75 điểm (-0.52%), xuống mức 1,874.43 điểm; HNX-Index tăng 4.08 điểm (+1.47%), lên mức 282.2 điểm. Độ rộng toàn thị trường với sắc đỏ lấn lướt hơn khi bên bán ...
+
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 26/05: Thử thách áp lực điều chỉnh ngắn hạn](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-2605-thu-thach-ap-luc-dieu-chinh-ngan-han-585-1447145.htm)**
+  - *(Wed, 27 May 2026 13:02:12 +0700)*
+  - Trong phiên giao dịch sáng ngày 26/05/2026, VN-Index giảm và tiếp tục nằm dưới đường Middle của Bollinger Bands. HNX-Index lại bước vào phiên tăng thứ 13 liên tiếp đồng thời xuất hiện mẫu hình nến Lo...
+
 - ★☆☆ **[SZL tiếp tục đăng ký bán hơn 1.2 triệu cp quỹ sau nhiều lần dang dở](http://vietstock.vn/2026/05/szl-tiep-tuc-dang-ky-ban-hon-12-trieu-cp-quy-sau-nhieu-lan-dang-do-830-1447122.htm)**
   - *(Wed, 27 May 2026 12:49:26 +0700)*
   - Sonadezi Long Thành tiếp tục đăng ký bán toàn bộ hơn 1.2 triệu cổ phiếu quỹ sau nhiều lần dang dở, với giá dự kiến không thấp hơn 45,000 đồng/cp. Thời điểm bắt đầu giao dịch dự kiến trong quý 2 và quý...
-
-- ★☆☆ **[Nhịp đập Thị trường 27/05: Rung lắc quanh ngưỡng 1,870 điểm](http://vietstock.vn/2026/05/nhip-dap-thi-truong-2705-rung-lac-quanh-nguong-1870-diem-1636-1447096.htm)**
-  - *(Wed, 27 May 2026 11:47:00 +0700)*
-  - Thị trường rung lắc quanh mốc 1,870 điểm trong cuối phiên sáng. Tạm nghỉ giữa phiên, VN-Index giảm gần 15 điểm (-0.84%), về mức 1,868.43 điểm. Trong khi đó, HNX-Index tăng mạnh 1.45%, đạt 282.17 điểm....
 
 - ★☆☆ **[27/05: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/05/2705-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1447027.htm)**
   - *(Wed, 27 May 2026 06:02:00 +0700)*
@@ -577,8 +557,4 @@ Tổng cộng: **144** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Nhịp đập Thị trường 25/05: VN-Index liên tục giằng co mạnh, nhóm năng lượng thoái trào](http://vietstock.vn/2026/05/nhip-dap-thi-truong-2505-vn-index-lien-tuc-giang-co-manh-nhom-nang-luong-thoai-trao-1636-1445993.htm)**
   - *(Mon, 25 May 2026 16:52:00 +0700)*
   - Kết thúc phiên giao dịch, VN-Index tăng 8.9 điểm (+0.47%), lên mức 1,886.03 điểm; HNX-Index tăng 4.29 điểm (+1.60%), lên mức 271.8 điểm. Độ rộng toàn thị trường với sắc đỏ lấn lướt hơn khi bên bán có ...
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 25/05: Diến biến phân hóa vẫn còn](http://vietstock.vn/2026/05/phan-tich-ky-thuat-phien-chieu-2505-dien-bien-phan-hoa-van-con-585-1446063.htm)**
-  - *(Mon, 25 May 2026 12:58:22 +0700)*
-  - VN-Index diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ có bóng trên dài. HNX-Index chuẩn bị bước vào phiên tăng thứ 11 liên tiếp và tiếp tục bám sát dải trên (Upper Band) của Bollinger ...
 
