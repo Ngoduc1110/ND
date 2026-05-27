@@ -1,4 +1,4 @@
-# Báo cáo tin tức thị trường (2026-05-27 18:16)
+# Báo cáo tin tức thị trường (2026-05-27 18:54)
 
 Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
@@ -75,10 +75,6 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 27 May 26 15:59:00 +0700)*
   - Theo chuyên gia, người Việt có tâm lý tích lũy vàng, khiến dòng tiền lớn bị rút khỏi sản xuất, kinh doanh, thậm chí có thể làm "vàng hóa" nền kinh tế....
 
-- ★☆☆ **[Vừa về hệ sinh thái của tỷ phú Nguyễn Thị Phương Thảo, một công ty chứng khoán bị đình chỉ hoạt động giao dịch trái phiếu](https://cafef.vn/vua-ve-he-sinh-thai-cua-ty-phu-nguyen-thi-phuong-thao-mot-cong-ty-chung-khoan-bi-dinh-chi-hoat-dong-giao-dich-trai-phieu-188260527154205499.chn)**
-  - *(Wed, 27 May 26 15:41:00 +0700)*
-  - Nguyên nhân do trong tháng 04/2026 công ty có 24 giao dịch trái phiếu riêng lẻ bị loại bỏ không thanh toán...
-
 - ★☆☆ **[Viettel bắt tay ông lớn xăng dầu "khủng" nhất Việt Nam: Sẽ có hàng nghìn trạm xăng thông minh thế hệ mới?](https://cafef.vn/viettel-bat-tay-ong-lon-xang-dau-khung-nhat-viet-nam-se-co-hang-nghin-tram-xang-thong-minh-the-he-moi-188260527134333743.chn)**
   - *(Wed, 27 May 26 14:46:00 +0700)*
   - Doanh nghiệp này có 5.500 cửa hàng xăng dầu trên toàn quốc....
@@ -146,6 +142,10 @@ Tổng cộng: **138** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Sau 1 văn bản, cổ phiếu DN xây lắp điện lập tức tím lịm 2 phiên liên tiếp, lãnh đạo bỏ lỡ cơ hội "bắt đáy"](https://cafef.vn/sau-1-van-ban-co-phieu-dn-xay-lap-dien-lap-tuc-tim-lim-2-phien-lien-tiep-lanh-dao-bo-lo-co-hoi-bat-day-188260526150003122.chn)**
   - *(Tue, 26 May 26 14:59:00 +0700)*
   - Lãnh đạo doanh nghiệp không mua vào cổ phiếu với lý do không thu xếp được tài chính, ngày kết thúc giao dịch trùng với phiên giảm sàn cuối trước khi thị giá bật tăng trở lại....
+
+- ★☆☆ **[Khởi tố ông Nguyễn Duy Dũng](https://cafef.vn/khoi-to-ong-nguyen-duy-dung-188260526143929062.chn)**
+  - *(Tue, 26 May 26 14:39:00 +0700)*
+  - Ông Nguyễn Duy Dũng – Thành viên HĐQT Vinatrans đã bị khởi tố do vi phạm quy định về quản lý, sử dụng tài sản Nhà nước gây thất thoát, lãng phí; Thiếu trách nhiệm gây thiệt hại đến tài sản của nhà nướ...
 
 ## VNeconomy
 - ★★★ **[Chứng khoán Mỹ lập kỷ lục mới, mặc giá dầu leo thang trở lại](https://vneconomy.vn/chung-khoan-my-lap-ky-luc-moi-mac-gia-dau-leo-thang-tro-lai.htm)**
