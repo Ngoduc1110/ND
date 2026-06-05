@@ -135,10 +135,10 @@
         </div>
         <header>
             <h1>Financial News Dashboard</h1>
-            <p class="stats">Cập nhật: 2026-06-05 11:19 | Tổng: 147 tin tức</p>
+            <p class="stats">Cập nhật: 2026-06-05 14:48 | Tổng: 147 tin tức</p>
             <div class="stats-detail">
-                <span style="color:#ef4444">★★★ Rất quan trọng: 28</span>
-                <span style="color:#f59e0b">★★☆ Quan trọng: 36</span>
+                <span style="color:#ef4444">★★★ Rất quan trọng: 26</span>
+                <span style="color:#f59e0b">★★☆ Quan trọng: 38</span>
                 <span style="color:#94a3b8">★☆☆ Bình thường: 83</span>
             </div>
         </header>
@@ -146,18 +146,18 @@
         <div class="controls">
             <div class="controls-label">🔍 Lọc theo nguồn</div>
             <button class="filter-btn active" onclick="filterSource('all')">Tất cả</button>
-<button class="filter-btn" onclick="filterSource('Vietstock')">Vietstock (19)</button>
 <button class="filter-btn" onclick="filterSource('CafeF')">CafeF (42)</button>
-<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (29)</button>
 <button class="filter-btn" onclick="filterSource('VNeconomy')">VNeconomy (57)</button>
+<button class="filter-btn" onclick="filterSource('Vietstock')">Vietstock (19)</button>
+<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (29)</button>
 
         </div>
         
         <div class="controls">
             <div class="controls-label">⭐ Lọc theo mức độ quan trọng</div>
             <button class="filter-btn active" onclick="filterImportance('all')">Tất cả</button>
-            <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (28)</button>
-            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (36)</button>
+            <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (26)</button>
+            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (38)</button>
             <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (83)</button>
         </div>
         
@@ -168,6 +168,84 @@
         </div>
 
         <div class="grid" id="newsGrid">
+            
+            <a href="https://cafef.vn/vinacapital-noi-ve-tac-dong-cua-co-phieu-vingroup-188260605133343171.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        
+                    </div>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>VinaCapital nói về tác động của cổ phiếu Vingroup</h2>
+                <div class="date">📅 Fri, 05 Jun 26 14:33:00 +0700</div>
+                <p class="summary">TPO - Theo Quỹ đầu tư VinaCapital, tỷ trọng nhóm doanh nghiệp thuộc hệ sinh thái Tập đoàn Vingroup, gồm Vingroup trong VN-Index đã tăng từ khoảng 8% cách đây 2 năm lên gần 30% hiện nay.</p>
+            </a>
+            
+            <a href="https://vneconomy.vn/vn-index-gay-that-vong-voi-nha-dau-tu-nuoc-ngoai-kho-hieu-vi-loi-nhuan-tang-nhung-gia-co-phieu-giam.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
+                        
+                    </div>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>VN-Index gây thất vọng với nhà đầu tư nước ngoài, khó hiểu vì lợi nhuận tăng nhưng giá cổ phiếu giảm</h2>
+                <div class="date">📅 Fri, 05 Jun 2026 06:59:54 GMT</div>
+                <p class="summary">quot;Về mặt cơ bản, quỹ rất h#224;i l#242;ng với mức tăng trưởng n#224;y. Tuy nhi#234;n, về diễn biến gi#225; cổ phiếu, nhiều nh#224; đầu tư như ch#250;ng t#244;i đ#244;i khi cảm thấy kh#225; kh#243; hiểu v#224; thất vọng. Nhiều doanh nghiệp c#244;ng bố kết quả kinh doanh rất mạnh, nhưng ng#224;y h#244;m sau gi#225; cổ phiếu gần như kh#244;ng phản ứngquot;, b#224; Maggie Yi, đại diện Pyn Elite nhấn mạnh.</p>
+            </a>
+            
+            <a href="https://vneconomy.vn/ca-nuoc-co-hon-13-trieu-tai-khoan-chung-khoan-dat-ty-le-13-dan-so.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Cả nước có hơn 13 triệu tài khoản chứng khoán, đạt tỷ lệ 13% dân số</h2>
+                <div class="date">📅 Fri, 05 Jun 2026 06:58:53 GMT</div>
+                <p class="summary">Trong th#225;ng 5 vừa qua, nh#224; đầu tư trong nước mở mới hơn 256.000 t#224;i khoản chứng kho#225;n, tăng nhẹ so với thời điểm th#225;ng 4/2026...</p>
+            </a>
+            
+            <a href="https://vneconomy.vn/cac-ca-map-noi-gi-ve-su-phan-cuc-tren-thi-truong-chung-khoan-viet-nam.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
+                        
+                    </div>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>Các “cá mập” nói gì về sự phân cực trên thị trường chứng khoán Việt Nam?</h2>
+                <div class="date">📅 Fri, 05 Jun 2026 06:58:40 GMT</div>
+                <p class="summary">Kết th#250;c th#225;ng 5, VN-Index tăng 1,2% so với th#225;ng trước, đ#243;ng cửa tại 1.877,13 điểm. Trong đ#243;, VIC dẫn đầu đ#243;ng g#243;p t#237;ch cực v#224;o VN-Index trong th#225;ng 5/2026 (+37,3 điểm), tiếp theo l#224; VHM.</p>
+            </a>
+            
+            <a href="https://cafef.vn/ong-to-tran-hoa-viet-nam-se-nghien-cuu-cho-vay-ky-quy-phai-sinh-tai-san-ma-hoa-188260605132853406.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Ông Tô Trần Hoà: Việt Nam sẽ nghiên cứu cho vay ký quỹ, phái sinh tài sản mã hóa</h2>
+                <div class="date">📅 Fri, 05 Jun 26 13:30:00 +0700</div>
+                <p class="summary">UBCKNN sẽ tiếp tục hoàn thiện khung pháp lý ở cấp cao hơn, nâng cao nhận thức cho nhà đầu tư và hoàn thiện cơ chế phối hợp giữa các cơ quan quản lý nhà nước trong lĩnh vực tài sản mã hóa.</p>
+            </a>
+            
+            <a href="http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-0506-no-luc-phuc-hoi-ngan-han-585-1451073.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Phân tích kỹ thuật phiên chiều 05/06: Nỗ lực phục hồi ngắn hạn</h2>
+                <div class="date">📅 Fri, 05 Jun 2026 13:06:58 +0700</div>
+                <p class="summary">VN-Index tiếp tục phục hồi sau khi kiểm tra lại nhóm đường SMA 50 ngày và SMA 100 ngày. HNX-Index tiếp tục giảm điểm và đang tiến về đỉnh cũ tháng 08/2025 (tương đương vùng 280-289 điểm) đã bị phá vỡ trước đó.</p>
+            </a>
             
             <a href="http://vietstock.vn/2026/06/gvr-khong-bi-huy-tu-cach-cong-ty-dai-chung-du-chua-dat-chuan-830-1451051.htm" target="_blank" class="card" data-source="Vietstock" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
@@ -325,19 +403,6 @@
                 <p class="summary">Nh#224; đầu tư tổ chức trong nước mua r#242;ng 5.915,0 tỷ đồng; t#237;nh ri#234;ng giao dịch khớp lệnh, mua r#242;ng 1.085,7 tỷ đồng.</p>
             </a>
             
-            <a href="http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-0506-830-1450683.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Top cổ phiếu đáng chú ý đầu phiên 05/06</h2>
-                <div class="date">📅 Fri, 05 Jun 2026 08:00:00 +0700</div>
-                <p class="summary">Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.</p>
-            </a>
-            
             <a href="https://cafef.vn/gel-trinh-co-dong-ke-hoach-chao-ban-100-trieu-co-phieu-tang-von-len-9900-ty-dong-188260604171643307.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="True" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
                     <div>
@@ -349,6 +414,19 @@
                 <h2>GEL trình cổ đông kế hoạch chào bán 100 triệu cổ phiếu, tăng vốn lên 9.900 tỷ đồng</h2>
                 <div class="date">📅 Fri, 05 Jun 26 08:00:00 +0700</div>
                 <p class="summary">Nếu phát hành thành công, GEL sẽ nâng vốn điều lệ lên 9.900 tỷ đồng nhằm củng cố tình hình tài chính, tạo điều kiện thuận lợi để Công ty tiếp tục triển khai các dự án đầu tư trọng điểm.</p>
+            </a>
+            
+            <a href="http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-0506-830-1450683.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Top cổ phiếu đáng chú ý đầu phiên 05/06</h2>
+                <div class="date">📅 Fri, 05 Jun 2026 08:00:00 +0700</div>
+                <p class="summary">Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.</p>
             </a>
             
             <a href="https://vnexpress.net/de-xuat-khong-bat-buoc-cong-ty-chung-khoan-ky-hop-dong-giay-voi-nha-dau-tu-5082134.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
@@ -403,19 +481,6 @@
                 <p class="summary">Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.</p>
             </a>
             
-            <a href="https://cafef.vn/mot-co-phieu-ngan-hang-bi-tu-doanh-ctck-xa-manh-trong-phien-tang-diem-188260605001016348.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Một cổ phiếu ngân hàng bị tự doanh CTCK "xả" mạnh trong phiên tăng điểm</h2>
-                <div class="date">📅 Fri, 05 Jun 26 00:10:00 +0700</div>
-                <p class="summary">Tự doanh CTCK bán ròng 369 tỷ đồng trên HOSE.</p>
-            </a>
-            
             <a href="https://cafef.vn/khoi-noi-tung-hang-tram-nghin-ty-vao-chung-khoan-viet-nam-can-lai-luc-ban-rong-tu-khoi-ngoai-188260604231323847.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
                 <div class="card-header">
                     <div>
@@ -427,6 +492,19 @@
                 <h2>Khối nội tung hàng trăm nghìn tỷ vào chứng khoán Việt Nam, cân lại lực bán ròng từ khối ngoại</h2>
                 <div class="date">📅 Fri, 05 Jun 26 00:10:00 +0700</div>
                 <p class="summary">Tính từ đầu 2022 đến nay, giá trị mua ròng của khối nội trên HoSE lên đến hơn 280.000 tỷ đồng, chưa bao gồm lượng tiền tham gia vào các đợt chào bán cổ phần của doanh nghiệp.</p>
+            </a>
+            
+            <a href="https://cafef.vn/mot-co-phieu-ngan-hang-bi-tu-doanh-ctck-xa-manh-trong-phien-tang-diem-188260605001016348.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Một cổ phiếu ngân hàng bị tự doanh CTCK "xả" mạnh trong phiên tăng điểm</h2>
+                <div class="date">📅 Fri, 05 Jun 26 00:10:00 +0700</div>
+                <p class="summary">Tự doanh CTCK bán ròng 369 tỷ đồng trên HOSE.</p>
             </a>
             
             <a href="https://cafef.vn/tong-giam-doc-dragon-capital-muc-giai-ngan-vao-chuoi-gia-tri-mwg-dmx-se-tang-len-manh-me-18826060500082661.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
@@ -975,19 +1053,6 @@
                 <p class="summary">Petrolimex thống nhất chủ trương bán toàn bộ số cổ phiếu quỹ hiện có của Tập đoàn là gần 23,3 triệu cổ phiếu để đáp ứng điều kiện công ty đại chúng đồng thời giúp tăng cường năng lực tài chính và cân đối nguồn vốn dài hạn.</p>
             </a>
             
-            <a href="https://cafef.vn/chung-khoan-nhat-viet-tang-von-len-1500-ty-dong-sau-dot-tra-co-tuc-188260604105913433.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="True" style="border-left: 4px solid #f59e0b;">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                        <span class="badge" style="background:rgba(236, 72, 153, 0.2);color:#ec4899;border:1px solid rgba(236, 72, 153, 0.3);margin-left:8px;">💸 Cổ tức & Tăng vốn</span>
-                    </div>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
-                </div>
-                <h2>Chứng khoán Nhất Việt tăng vốn lên 1.500 tỷ đồng sau đợt trả cổ tức</h2>
-                <div class="date">📅 Thu, 04 Jun 26 11:49:00 +0700</div>
-                <p class="summary">Ngày 27/5, Chứng khoán Nhất Việt hoàn tất phân phối gần 14 triệu cổ phiếu trả cổ tức, qua đó tăng vốn điều lệ lên mức gần 1.540 tỷ đồng.</p>
-            </a>
-            
             <a href="https://cafef.vn/sua-quoc-te-lof-chot-ngay-chi-hon-618-ty-dong-tra-co-tuc-cho-co-dong-188260604105753853.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="True" style="">
                 <div class="card-header">
                     <div>
@@ -999,6 +1064,19 @@
                 <h2>Sữa Quốc tế Lof chốt ngày chi hơn 618 tỷ đồng trả cổ tức cho cổ đông</h2>
                 <div class="date">📅 Thu, 04 Jun 26 11:49:00 +0700</div>
                 <p class="summary">Ngày 22/6/2026 tới đây, Sữa Quốc tế Lof sẽ chốt danh sách cổ đông để chi trả cổ tức năm 2025 bằng tiền tỷ lệ 80% và tạm ứng cổ tức năm 2026 với tỷ lệ 20%.</p>
+            </a>
+            
+            <a href="https://cafef.vn/chung-khoan-nhat-viet-tang-von-len-1500-ty-dong-sau-dot-tra-co-tuc-188260604105913433.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="True" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        <span class="badge" style="background:rgba(236, 72, 153, 0.2);color:#ec4899;border:1px solid rgba(236, 72, 153, 0.3);margin-left:8px;">💸 Cổ tức & Tăng vốn</span>
+                    </div>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>Chứng khoán Nhất Việt tăng vốn lên 1.500 tỷ đồng sau đợt trả cổ tức</h2>
+                <div class="date">📅 Thu, 04 Jun 26 11:49:00 +0700</div>
+                <p class="summary">Ngày 27/5, Chứng khoán Nhất Việt hoàn tất phân phối gần 14 triệu cổ phiếu trả cổ tức, qua đó tăng vốn điều lệ lên mức gần 1.540 tỷ đồng.</p>
             </a>
             
             <a href="https://cafef.vn/taseco-land-hoan-tat-phat-hanh-gan-144-trieu-co-phieu-18826060410583188.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="True" style="border-left: 4px solid #f59e0b;">
@@ -1131,19 +1209,6 @@
                 <p class="summary">Với giá IPO 135 USD/cp, SpaceX được định giá 1,77 nghìn tỷ USD, lọt top 10 công ty lớn nhất thế giới theo vốn hóa thị trường.</p>
             </a>
             
-            <a href="http://vietstock.vn/2026/06/ngay-04062026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1450229.htm" target="_blank" class="card" data-source="Vietstock" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                        
-                    </div>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
-                </div>
-                <h2>Ngày 04/06/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock</h2>
-                <div class="date">📅 Thu, 04 Jun 2026 10:00:00 +0700</div>
-                <p class="summary">Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BVH, FPT, GMD, MBB, NLG, OCB, TPB, TCB, VPB, VIB.</p>
-            </a>
-            
             <a href="https://cafef.vn/sacombank-va-lpbs-ky-ket-hop-tac-toan-dien-gia-tang-tien-ich-va-trai-nghiem-cho-khach-hang-188260604081028399.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
                     <div>
@@ -1155,6 +1220,19 @@
                 <h2>SACOMBANK và LPBS ký kết hợp tác toàn diện, gia tăng tiện ích và trải nghiệm cho khách hàng</h2>
                 <div class="date">📅 Thu, 04 Jun 26 10:00:00 +0700</div>
                 <p class="summary">Ngày 03/6/2026, Ngân hàng TMCP Sài Gòn Tài Lộc (SACOMBANK) và Công ty CP Chứng khoán LPBank (LPBS) chính thức ký kết thỏa thuận hợp tác toàn diện, đánh dấu bước tiến quan trọng trong việc thiết lập quan hệ đối tác chiến lược giữa hai định chế tài chính hàng đầu trong lĩnh vực ngân hàng và chứng khoán.</p>
+            </a>
+            
+            <a href="http://vietstock.vn/2026/06/ngay-04062026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1450229.htm" target="_blank" class="card" data-source="Vietstock" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
+                        
+                    </div>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>Ngày 04/06/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock</h2>
+                <div class="date">📅 Thu, 04 Jun 2026 10:00:00 +0700</div>
+                <p class="summary">Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: BVH, FPT, GMD, MBB, NLG, OCB, TPB, TCB, VPB, VIB.</p>
             </a>
             
             <a href="https://cafef.vn/excelsior-capital-va-lc-foods-chung-tam-nhin-xay-dung-thuong-hieu-thuc-pham-viet-188260604080906032.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
@@ -1222,19 +1300,6 @@
                 <p class="summary">Sở Giao dịch Chứng kho#225;n Tp.HCM (HOSE) vừa cho biết th#244;ng tin thị trường kỳ 5/2026.</p>
             </a>
             
-            <a href="https://cafef.vn/chung-khoan-rong-viet-to-chuc-hoi-thao-don-song-nang-hang-vung-buoc-chu-ky-moi-188260603171945938.chn" target="_blank" class="card" data-source="CafeF" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                        
-                    </div>
-                    <span class="importance" data-level="3" style="color:#ef4444" title="Rất quan trọng">★★★</span>
-                </div>
-                <h2>Chứng khoán Rồng Việt tổ chức Hội thảo: “Đón sóng nâng hạng – Vững bước chu kỳ mới”</h2>
-                <div class="date">📅 Thu, 04 Jun 26 08:00:00 +0700</div>
-                <p class="summary">Ngày 20/06/2026, CTCP Chứng khoán Rồng Việt (VDSC) sẽ tổ chức Hội thảo Đầu tư quy mô lớn tại TP.HCM với chủ đề “Đón sóng nâng hạng – Vững bước chu kỳ mới”.</p>
-            </a>
-            
             <a href="http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-0406-830-1450213.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
                 <div class="card-header">
                     <div>
@@ -1246,6 +1311,19 @@
                 <h2>Top cổ phiếu đáng chú ý đầu phiên 04/06</h2>
                 <div class="date">📅 Thu, 04 Jun 2026 08:00:00 +0700</div>
                 <p class="summary">Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock.</p>
+            </a>
+            
+            <a href="https://cafef.vn/chung-khoan-rong-viet-to-chuc-hoi-thao-don-song-nang-hang-vung-buoc-chu-ky-moi-188260603171945938.chn" target="_blank" class="card" data-source="CafeF" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        
+                    </div>
+                    <span class="importance" data-level="3" style="color:#ef4444" title="Rất quan trọng">★★★</span>
+                </div>
+                <h2>Chứng khoán Rồng Việt tổ chức Hội thảo: “Đón sóng nâng hạng – Vững bước chu kỳ mới”</h2>
+                <div class="date">📅 Thu, 04 Jun 26 08:00:00 +0700</div>
+                <p class="summary">Ngày 20/06/2026, CTCP Chứng khoán Rồng Việt (VDSC) sẽ tổ chức Hội thảo Đầu tư quy mô lớn tại TP.HCM với chủ đề “Đón sóng nâng hạng – Vững bước chu kỳ mới”.</p>
             </a>
             
             <a href="https://vneconomy.vn/gia-vang-truot-doc-vi-moi-lo-lai-suat-tang-spdr-gold-trust-ban-manh.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
@@ -1274,19 +1352,6 @@
                 <p class="summary">Công ty Cổ phần Tập đoàn MCST (Mã chứng khoán: ALV) đã tổ chức thành công ĐHĐCĐ Thường niên 2026, thông qua hàng loạt quyết sách lớn: tăng mạnh vốn điều lệ, rót 180 tỷ đồng vào dự án xi măng quy mô lớn, mở rộng địa bàn phía Nam và chuẩn bị lộ trình lên sàn HOSE (HSX).</p>
             </a>
             
-            <a href="https://cafef.vn/chung-khoan-cho-dong-luc-moi-188260604072041727.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                        
-                    </div>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
-                </div>
-                <h2>Chứng khoán chờ động lực mới</h2>
-                <div class="date">📅 Thu, 04 Jun 26 07:20:00 +0700</div>
-                <p class="summary">Làn sóng IPO được kỳ vọng sẽ trở thành chất xúc tác mới cho thị trường trong giai đoạn hướng tới mục tiêu nâng hạng</p>
-            </a>
-            
             <a href="https://vneconomy.vn/vn-index-no-luc-can-bang-tren-vung-ho-tro-quan-trong-1800-1810-diem.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="1" data-dividend="False" style="">
                 <div class="card-header">
                     <div>
@@ -1311,19 +1376,6 @@
                 <h2>04/06: Đọc gì trước giờ giao dịch chứng khoán?</h2>
                 <div class="date">📅 Thu, 04 Jun 2026 06:02:00 +0700</div>
                 <p class="summary">Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay.</p>
-            </a>
-            
-            <a href="https://cafef.vn/nhung-lan-doi-ten-mang-dam-chat-phong-thuy-cua-cac-ngan-hang-viet-nam-diem-dac-biet-dang-sau-tu-khoa-thinh-vuong-loc-phat-tai-loc-188260603230331199.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Những lần đổi tên mang đậm chất phong thủy của các ngân hàng Việt Nam: Điểm đặc biệt đằng sau từ khoá “Thịnh Vượng”, “Lộc Phát”, “Tài Lộc”</h2>
-                <div class="date">📅 Thu, 04 Jun 26 00:10:00 +0700</div>
-                <p class="summary">Ngày càng nhiều ngân hàng tại Việt Nam đổi sang tên mới có những từ khoá mang đậm màu sắc phong thủy như “Thịnh Vượng”, “Lộc Phát”, “Tài Lộc”.</p>
             </a>
             
             <a href="https://vnexpress.net/petrolimex-tinh-ban-toan-bo-co-phieu-quy-5081719.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
@@ -1558,19 +1610,6 @@
                 <h2>Agribank nhận hai giải Sao Khuê nhờ giải pháp số hóa</h2>
                 <div class="date">📅 Wed, 03 Jun 2026 15:30:00 +0700</div>
                 <p class="summary">Ngân hàng được vinh danh tại Sao Khuê 2026 với hai giải pháp Agribank SmartForm và Agribank Online Lending ghi nhận nỗ lực chuyển đổi số, hiệu quả vận hành.</p>
-            </a>
-            
-            <a href="http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-0306-trien-vong-ngan-han-tiep-tuc-bi-quan-585-1450035.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Phân tích kỹ thuật phiên chiều 03/06: Triển vọng ngắn hạn tiếp tục bi quan</h2>
-                <div class="date">📅 Wed, 03 Jun 2026 13:06:20 +0700</div>
-                <p class="summary">VN-Index giảm điểm thứ 7 liên tiếp đồng thời bám sát Lower Band của Bollinger Bands. HNX-Index đảo chiều giảm sau 17 phiên tăng liên tiếp và xuất hiện mẫu hình nến Black Marubozu.</p>
             </a>
             
             <a href="https://vneconomy.vn/co-che-doi-tac-bu-tru-trung-tam-ccp-du-kien-van-hanh-trong-quy-12027.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="1" data-dividend="False" style="">
@@ -2039,45 +2078,6 @@
                 <h2>Thanh khoản cạn kiệt, lợi thế ở nhóm cổ phiếu vừa và nhỏ?</h2>
                 <div class="date">📅 Mon, 01 Jun 2026 08:28:37 GMT</div>
                 <p class="summary">Nh#243;m cổ phiếu blue-chips suy yếu đ#225;ng kể trong phi#234;n chiều nay khiến VN-Index chịu th#234;m sức #233;p. Chỉ số đ#243;ng cửa giảm 1,02% (-18,95 điểm) k#233;m hơn nhiều so với phi#234;n s#225;ng (-10,45 điểm). Bất ngờ l#224; độ rộng thị trường lại cải thiện, cho thấy sự khởi sắc của nh#243;m cổ phiếu vừa v#224; nhỏ.</p>
-            </a>
-            
-            <a href="https://vneconomy.vn/ngan-hang-nha-nuoc-va-bo-tai-chinh-my-ra-tuyen-bo-chung-co-phieu-bat-dong-san-khu-cong-nghiep-duoc-chu-y.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
-                        
-                    </div>
-                    <span class="importance" data-level="3" style="color:#ef4444" title="Rất quan trọng">★★★</span>
-                </div>
-                <h2>Ngân hàng Nhà nước và Bộ Tài chính Mỹ ra tuyên bố chung, cổ phiếu bất động sản khu công nghiệp được chú ý?</h2>
-                <div class="date">📅 Mon, 01 Jun 2026 07:03:03 GMT</div>
-                <p class="summary">Cuối tuần qua, Ng#226;n h#224;ng Nh#224; nước vừa c#244;ng b#244;́ tuy#234;n b#244;́ chung về ch#237;nh s#225;ch tiền tệ đạt được với Bộ T#224;i ch#237;nh Mỹ.</p>
-            </a>
-            
-            <a href="https://vneconomy.vn/ba-co-phieu-sieu-hot-mua-he-tiem-nang-tang-gia-50-60.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Ba cổ phiếu "siêu hot" mùa hè, tiềm năng tăng giá 50-60%</h2>
-                <div class="date">📅 Mon, 01 Jun 2026 07:01:14 GMT</div>
-                <p class="summary">MBS kỳ vọng một số nh#243;m ng#224;nh v#224; cổ phiếu sẽ thu h#250;t được d#242;ng tiền quay trở lại được hỗ trợ bởi ch#237;nh s#225;ch hỗ trợ tăng trưởng kinh tế như Đầu tư c#244;ng, Ng#226;n h#224;ng... cho đến nh#243;m cổ phiếu c#243; thể đươc hưởng lợi từ m#249;a WorldCup như: B#225;n lẻ, Thực phẩm, Viễn Th#244;ng...</p>
-            </a>
-            
-            <a href="https://vneconomy.vn/du-bao-lai-suat-ngan-hang-se-nhich-them-05-co-phieu-ngan-hang-con-hap-dan.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
-                        
-                    </div>
-                    <span class="importance" data-level="3" style="color:#ef4444" title="Rất quan trọng">★★★</span>
-                </div>
-                <h2>Dự báo lãi suất ngân hàng sẽ nhích thêm 0,5%, cổ phiếu ngân hàng còn hấp dẫn?</h2>
-                <div class="date">📅 Mon, 01 Jun 2026 06:59:56 GMT</div>
-                <p class="summary">Trong cập nhật triển vọng ng#224;nh ng#226;n h#224;ng mới đ#226;y, Chứng kho#225;n Quốc gia (NSI) kỳ vọng mặt bằng l#227;i suất dự kiến sẽ nh#237;ch nhẹ khoảng 50 bps trong thời gian tới do #225;p lực thanh khoản hệ thống ng#224;y c#224;ng lớn.</p>
             </a>
             
         </div>

@@ -1,4 +1,4 @@
-# Báo cáo tin tức thị trường (2026-06-05 11:19)
+# Báo cáo tin tức thị trường (2026-06-05 14:48)
 
 Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
@@ -67,13 +67,13 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
   - *(Mon, 01 Jun 2026 11:53:07 GMT)*
   - Lạm ph#225;t tăng tốc ở c#225;c nền kinh tế lớn nhất trong Li#234;n minh ch#226;u #194;u (EU) trong th#225;ng 5 vừa qua do gi#225; năng lượng leo thang......
 
-- ★★★ **[Ngân hàng Nhà nước và Bộ Tài chính Mỹ ra tuyên bố chung, cổ phiếu bất động sản khu công nghiệp được chú ý?](https://vneconomy.vn/ngan-hang-nha-nuoc-va-bo-tai-chinh-my-ra-tuyen-bo-chung-co-phieu-bat-dong-san-khu-cong-nghiep-duoc-chu-y.htm)**
-  - *(Mon, 01 Jun 2026 07:03:03 GMT)*
-  - Cuối tuần qua, Ng#226;n h#224;ng Nh#224; nước vừa c#244;ng b#244;́ tuy#234;n b#244;́ chung về ch#237;nh s#225;ch tiền tệ đạt được với Bộ T#224;i ch#237;nh Mỹ....
+- ★★☆ **[VN-Index gây thất vọng với nhà đầu tư nước ngoài, khó hiểu vì lợi nhuận tăng nhưng giá cổ phiếu giảm](https://vneconomy.vn/vn-index-gay-that-vong-voi-nha-dau-tu-nuoc-ngoai-kho-hieu-vi-loi-nhuan-tang-nhung-gia-co-phieu-giam.htm)**
+  - *(Fri, 05 Jun 2026 06:59:54 GMT)*
+  - quot;Về mặt cơ bản, quỹ rất h#224;i l#242;ng với mức tăng trưởng n#224;y. Tuy nhi#234;n, về diễn biến gi#225; cổ phiếu, nhiều nh#224; đầu tư như ch#250;ng t#244;i đ#244;i khi cảm thấy kh#225; kh#243; ...
 
-- ★★★ **[Dự báo lãi suất ngân hàng sẽ nhích thêm 0,5%, cổ phiếu ngân hàng còn hấp dẫn?](https://vneconomy.vn/du-bao-lai-suat-ngan-hang-se-nhich-them-05-co-phieu-ngan-hang-con-hap-dan.htm)**
-  - *(Mon, 01 Jun 2026 06:59:56 GMT)*
-  - Trong cập nhật triển vọng ng#224;nh ng#226;n h#224;ng mới đ#226;y, Chứng kho#225;n Quốc gia (NSI) kỳ vọng mặt bằng l#227;i suất dự kiến sẽ nh#237;ch nhẹ khoảng 50 bps trong thời gian tới do #225;p lực...
+- ★★☆ **[Các “cá mập” nói gì về sự phân cực trên thị trường chứng khoán Việt Nam?](https://vneconomy.vn/cac-ca-map-noi-gi-ve-su-phan-cuc-tren-thi-truong-chung-khoan-viet-nam.htm)**
+  - *(Fri, 05 Jun 2026 06:58:40 GMT)*
+  - Kết th#250;c th#225;ng 5, VN-Index tăng 1,2% so với th#225;ng trước, đ#243;ng cửa tại 1.877,13 điểm. Trong đ#243;, VIC dẫn đầu đ#243;ng g#243;p t#237;ch cực v#224;o VN-Index trong th#225;ng 5/2026 (+3...
 
 - ★★☆ **[Blue-chips phục hồi, VN-Index quay đầu tăng từ ngưỡng hỗ trợ](https://vneconomy.vn/blue-chips-phuc-hoi-vn-index-quay-dau-tang-tu-nguong-ho-tro.htm)**
   - *(Thu, 04 Jun 2026 08:27:20 GMT)*
@@ -94,6 +94,10 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[Kiến tạo “lộ trình cao tốc” cho làn sóng IPO thứ 3: Bài học từ SpaceX và bước đi của FTSE RUSSELL](https://vneconomy.vn/kien-tao-lo-trinh-cao-toc-cho-lan-song-ipo-thu-3-bai-hoc-tu-spacex-va-buoc-di-cua-ftse-russell.htm)**
   - *(Tue, 02 Jun 2026 02:42:11 GMT)*
   - Từ kinh nghiệm của FTSE Russell điều chỉnh quy tắc bộ chỉ số, cơ quan quản l#253; thị trường c#243; thể xem x#233;t thiết lập một M#244; h#236;nh li#234;n th#244;ng 4 bước (IPO - ni#234;m yết - gia nh...
+
+- ★☆☆ **[Cả nước có hơn 13 triệu tài khoản chứng khoán, đạt tỷ lệ 13% dân số](https://vneconomy.vn/ca-nuoc-co-hon-13-trieu-tai-khoan-chung-khoan-dat-ty-le-13-dan-so.htm)**
+  - *(Fri, 05 Jun 2026 06:58:53 GMT)*
+  - Trong th#225;ng 5 vừa qua, nh#224; đầu tư trong nước mở mới hơn 256.000 t#224;i khoản chứng kho#225;n, tăng nhẹ so với thời điểm th#225;ng 4/2026......
 
 - ★☆☆ **[Giá bitcoin giảm sâu sau động thái bán ra của Strategy](https://vneconomy.vn/gia-bitcoin-giam-sau-sau-dong-thai-ban-ra-cua-strategy.htm)**
   - *(Fri, 05 Jun 2026 03:45:52 GMT)*
@@ -227,10 +231,6 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
   - *(Mon, 01 Jun 2026 08:28:37 GMT)*
   - Nh#243;m cổ phiếu blue-chips suy yếu đ#225;ng kể trong phi#234;n chiều nay khiến VN-Index chịu th#234;m sức #233;p. Chỉ số đ#243;ng cửa giảm 1,02% (-18,95 điểm) k#233;m hơn nhiều so với phi#234;n s#22...
 
-- ★☆☆ **[Ba cổ phiếu "siêu hot" mùa hè, tiềm năng tăng giá 50-60%](https://vneconomy.vn/ba-co-phieu-sieu-hot-mua-he-tiem-nang-tang-gia-50-60.htm)**
-  - *(Mon, 01 Jun 2026 07:01:14 GMT)*
-  - MBS kỳ vọng một số nh#243;m ng#224;nh v#224; cổ phiếu sẽ thu h#250;t được d#242;ng tiền quay trở lại được hỗ trợ bởi ch#237;nh s#225;ch hỗ trợ tăng trưởng kinh tế như Đầu tư c#244;ng, Ng#226;n h#224;n...
-
 ## CafeF
 - ★★★ **[VinaCapital: Hơn 70% số cổ phiếu đang ở vùng định giá thấp như các giai đoạn khủng hoảng](https://cafef.vn/vinacapital-hon-70-so-co-phieu-dang-o-vung-dinh-gia-thap-nhu-cac-giai-doan-khung-hoang-188260604223406745.chn)**
   - *(Fri, 05 Jun 26 00:01:00 +0700)*
@@ -251,6 +251,10 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
 - ★★★ **[Chứng khoán Rồng Việt tổ chức Hội thảo: “Đón sóng nâng hạng – Vững bước chu kỳ mới”](https://cafef.vn/chung-khoan-rong-viet-to-chuc-hoi-thao-don-song-nang-hang-vung-buoc-chu-ky-moi-188260603171945938.chn)**
   - *(Thu, 04 Jun 26 08:00:00 +0700)*
   - Ngày 20/06/2026, CTCP Chứng khoán Rồng Việt (VDSC) sẽ tổ chức Hội thảo Đầu tư quy mô lớn tại TP.HCM với chủ đề “Đón sóng nâng hạng – Vững bước chu kỳ mới”....
+
+- ★★☆ **[VinaCapital nói về tác động của cổ phiếu Vingroup](https://cafef.vn/vinacapital-noi-ve-tac-dong-cua-co-phieu-vingroup-188260605133343171.chn)**
+  - *(Fri, 05 Jun 26 14:33:00 +0700)*
+  - TPO - Theo Quỹ đầu tư VinaCapital, tỷ trọng nhóm doanh nghiệp thuộc hệ sinh thái Tập đoàn Vingroup, gồm Vingroup trong VN-Index đã tăng từ khoảng 8% cách đây 2 năm lên gần 30% hiện nay....
 
 - ★★☆ **[32 nhân viên Chứng khoán Thiên Việt sắp được nhận cổ phiếu ESOP](https://cafef.vn/32-nhan-vien-chung-khoan-thien-viet-sap-duoc-nhan-co-phieu-esop-18826060510413848.chn)**
   - *(Fri, 05 Jun 26 10:41:00 +0700)*
@@ -324,9 +328,9 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
   - *(Thu, 04 Jun 26 07:46:00 +0700)*
   - Công ty Cổ phần Tập đoàn MCST (Mã chứng khoán: ALV) đã tổ chức thành công ĐHĐCĐ Thường niên 2026, thông qua hàng loạt quyết sách lớn: tăng mạnh vốn điều lệ, rót 180 tỷ đồng vào dự án xi măng quy mô lớ...
 
-- ★★☆ **[Chứng khoán chờ động lực mới](https://cafef.vn/chung-khoan-cho-dong-luc-moi-188260604072041727.chn)**
-  - *(Thu, 04 Jun 26 07:20:00 +0700)*
-  - Làn sóng IPO được kỳ vọng sẽ trở thành chất xúc tác mới cho thị trường trong giai đoạn hướng tới mục tiêu nâng hạng...
+- ★☆☆ **[Ông Tô Trần Hoà: Việt Nam sẽ nghiên cứu cho vay ký quỹ, phái sinh tài sản mã hóa](https://cafef.vn/ong-to-tran-hoa-viet-nam-se-nghien-cuu-cho-vay-ky-quy-phai-sinh-tai-san-ma-hoa-188260605132853406.chn)**
+  - *(Fri, 05 Jun 26 13:30:00 +0700)*
+  - UBCKNN sẽ tiếp tục hoàn thiện khung pháp lý ở cấp cao hơn, nâng cao nhận thức cho nhà đầu tư và hoàn thiện cơ chế phối hợp giữa các cơ quan quản lý nhà nước trong lĩnh vực tài sản mã hóa....
 
 - ★☆☆ **[Tập đoàn Cao su Việt Nam công bố tư cách công ty đại chúng](https://cafef.vn/tap-doan-cao-su-viet-nam-cong-bo-tu-cach-cong-ty-dai-chung-188260605103845813.chn)**
   - *(Fri, 05 Jun 26 11:20:00 +0700)*
@@ -395,10 +399,6 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Excelsior Capital và LC Foods: Chung tầm nhìn xây dựng thương hiệu thực phẩm Việt](https://cafef.vn/excelsior-capital-va-lc-foods-chung-tam-nhin-xay-dung-thuong-hieu-thuc-pham-viet-188260604080906032.chn)**
   - *(Thu, 04 Jun 26 09:10:00 +0700)*
   - Không chỉ dừng ở một khoản đầu tư tài chính, sự đồng hành giữa Excelsior Capital và LC Foods được kỳ vọng tạo thêm động lực cho hành trình xây dựng một thương hiệu thực phẩm Việt có nền tảng sản xuất ...
-
-- ★☆☆ **[Những lần đổi tên mang đậm chất phong thủy của các ngân hàng Việt Nam: Điểm đặc biệt đằng sau từ khoá “Thịnh Vượng”, “Lộc Phát”, “Tài Lộc”](https://cafef.vn/nhung-lan-doi-ten-mang-dam-chat-phong-thuy-cua-cac-ngan-hang-viet-nam-diem-dac-biet-dang-sau-tu-khoa-thinh-vuong-loc-phat-tai-loc-188260603230331199.chn)**
-  - *(Thu, 04 Jun 26 00:10:00 +0700)*
-  - Ngày càng nhiều ngân hàng tại Việt Nam đổi sang tên mới có những từ khoá mang đậm màu sắc phong thủy như “Thịnh Vượng”, “Lộc Phát”, “Tài Lộc”....
 
 ## VnExpress Business
 - ★★★ **[Chính quyền ông Trump đề xuất áp thuế bổ sung với 60 nền kinh tế](https://vnexpress.net/chinh-quyen-ong-trump-de-xuat-ap-thue-bo-sung-voi-60-nen-kinh-te-5081597.html)**
@@ -542,6 +542,10 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
   - *(Wed, 03 Jun 2026 19:27:00 +0700)*
   - Trong phiên biến động mạnh của VN-Index, có lúc giảm trên 27 điểm nhưng chốt phiên chỉ giảm 7.5 điểm, nhà đầu tư nước ngoài đã tiếp tục bán ròng 466 tỷ đồng trên tam sàn HOSE, HNX và UPCoM....
 
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 05/06: Nỗ lực phục hồi ngắn hạn](http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-0506-no-luc-phuc-hoi-ngan-han-585-1451073.htm)**
+  - *(Fri, 05 Jun 2026 13:06:58 +0700)*
+  - VN-Index tiếp tục phục hồi sau khi kiểm tra lại nhóm đường SMA 50 ngày và SMA 100 ngày. HNX-Index tiếp tục giảm điểm và đang tiến về đỉnh cũ tháng 08/2025 (tương đương vùng 280-289 điểm) đã bị phá vỡ ...
+
 - ★☆☆ **[IR AWARDS 2026: Mời doanh nghiệp niêm yết hiệu chỉnh kết quả Khảo sát Công bố thông tin](http://vietstock.vn/2026/06/ir-awards-2026-moi-doanh-nghiep-niem-yet-hieu-chinh-ket-qua-khao-sat-cong-bo-thong-tin-830-1450951.htm)**
   - *(Fri, 05 Jun 2026 10:02:00 +0700)*
   - Ban Tổ chức chương trình IR Awards 2026 vừa chính thức gửi thông báo kết quả khảo sát hoạt động công bố thông tin đến các doanh nghiệp niêm yết chưa đạt chuẩn theo Bộ tiêu chí đánh giá của chương trìn...
@@ -589,8 +593,4 @@ Tổng cộng: **147** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[Nhịp đập Thị trường 03/06: Nhóm bất động sản tiếp tục gây sức ép lên VN-Index](http://vietstock.vn/2026/06/nhip-dap-thi-truong-0306-nhom-bat-dong-san-tiep-tuc-gay-suc-ep-len-vn-index-1636-1449969.htm)**
   - *(Wed, 03 Jun 2026 17:07:00 +0700)*
   - Kết thúc phiên giao dịch, VN-Index giảm 7.46 điểm (-0.41%), xuống mức 1,819.01 điểm; HNX-Index tăng 2.69 điểm (+0.85%), lên mức 317.48 điểm. Độ rộng toàn thị trường với sắc xanh lấn lướt hơn khi bên m...
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 03/06: Triển vọng ngắn hạn tiếp tục bi quan](http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-0306-trien-vong-ngan-han-tiep-tuc-bi-quan-585-1450035.htm)**
-  - *(Wed, 03 Jun 2026 13:06:20 +0700)*
-  - VN-Index giảm điểm thứ 7 liên tiếp đồng thời bám sát Lower Band của Bollinger Bands. HNX-Index đảo chiều giảm sau 17 phiên tăng liên tiếp và xuất hiện mẫu hình nến Black Marubozu....
 
