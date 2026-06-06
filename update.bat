@@ -36,7 +36,8 @@ copy /Y "..\market_dashboard.html" "market_dashboard.html" >nul
 copy /Y "..\institutional_report.html" "institutional_report.html" >nul
 copy /Y "..\industry_report.html" "industry_report.html" >nul
 copy /Y "..\industry_dashboard.html" "industry_dashboard.html" >nul
-copy /Y "..\cotuc.html" "cotuc.html" >nul
+if not exist "CHIACOTUC" mkdir "CHIACOTUC"
+copy /Y "..\CHIACOTUC\cotuc.html" "CHIACOTUC\cotuc.html" >nul
 if not exist "NEWS" mkdir "NEWS"
 xcopy /Y /E /I "..\NEWS\*" "NEWS\" >nul
 echo [+] Da dong bo file thanh cong.
