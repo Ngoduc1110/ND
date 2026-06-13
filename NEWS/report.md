@@ -1,89 +1,12 @@
-# Báo cáo tin tức thị trường (2026-06-12 17:22)
+# Báo cáo tin tức thị trường (2026-06-13 12:48)
 
-Tổng cộng: **108** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
-
-## Vietstock
-- ★★★ **[Chủ tịch VSDC nói về khả năng nâng hạng MSCI của Việt Nam](http://vietstock.vn/2026/06/chu-tich-vsdc-noi-ve-kha-nang-nang-hang-msci-cua-viet-nam-143-1453705.htm)**
-  - *(Fri, 12 Jun 2026 16:37:17 +0700)*
-  - Nâng hạng thị trường là chủ đề đang nhận được sự quan tâm trên thị trường. Tại sự kiện Vietnam Investment Forum 2026 - Summer Summit diễn ra ngày 11/06, lãnh đạo các cơ quan quản lý đã có những chia s...
-
-- ★★☆ **[Ngày 11/06/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/06/ngay-11062026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1452809.htm)**
-  - *(Thu, 11 Jun 2026 10:00:00 +0700)*
-  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: DPM, FPT, GMD, MBB, NLG, OCB, TPB, TCB, VPB, VIB....
-
-- ★★☆ **[Cổ phiếu “vua” biến động khó lường](http://vietstock.vn/2026/06/co-phieu-vua-bien-dong-kho-luong-830-1452919.htm)**
-  - *(Thu, 11 Jun 2026 09:02:00 +0700)*
-  - Dù vẫn đang ở trong năm tăng trưởng thứ 4 liên tiếp, nhiều mã ngân hàng sau khi liên tiếp lập đỉnh lịch sử lại rơi sâu khỏi vùng đỉnh, phản ánh những vận động cực đoan khi chịu ảnh hưởng của môi trườn...
-
-- ★☆☆ **[Nhịp đập Thị trường 12/06: Áp lực bán gia tăng trong phiên chiều, VN-Index lui về mốc 1,790 điểm](http://vietstock.vn/2026/06/nhip-dap-thi-truong-1206-ap-luc-ban-gia-tang-trong-phien-chieu-vn-index-lui-ve-moc-1790-diem-1636-1453486.htm)**
-  - *(Fri, 12 Jun 2026 16:42:00 +0700)*
-  - Kết thúc phiên giao dịch, VN-Index giảm 7 điểm (-0.39%), xuống mức 1,791.65 điểm; HNX-Index tăng 2.4 điểm (+0.8%), lên mức 302.49 điểm. Độ rộng toàn thị trường với sắc đỏ lấn lướt hơn khi bên bán có 4...
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 12/06: Tâm lý phân vân vẫn hiện hữu](http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-1206-tam-ly-phan-van-van-hien-huu-585-1453569.htm)**
-  - *(Fri, 12 Jun 2026 13:03:10 +0700)*
-  - VN-Index tiếp tục giằng co và xuất hiện mẫu hình nến thân nhỏ đồng thời nằm dưới đường Middle của Bollinger Bands.HNX-Index tăng điểm đồng thời xuất hiện mẫu hình nến thân nhỏ....
-
-- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 12/06](http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-1206-830-1453190.htm)**
-  - *(Fri, 12 Jun 2026 08:00:00 +0700)*
-  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
-
-- ★☆☆ **[12/06: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/06/1206-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1453416.htm)**
-  - *(Fri, 12 Jun 2026 06:02:00 +0700)*
-  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
-
-- ★☆☆ **[Theo dấu dòng tiền cá mập 11/06: Tự doanh và khối ngoại ngược chiều](http://vietstock.vn/2026/06/theo-dau-dong-tien-ca-map-1106-tu-doanh-va-khoi-ngoai-nguoc-chieu-830-1453404.htm)**
-  - *(Thu, 11 Jun 2026 19:44:23 +0700)*
-  - Khối ngoại bán ròng trong phiên giao dịch 11/06. Ngược chiều, tự doanh mua ròng nhẹ. Lực mua, bán của nhóm ngoại và tự doanh không thể hiện xu hướng cục bộ mà rải đều trên thị trường....
-
-- ★☆☆ **[Vietstock Daily 12/06/2026: Thanh khoản cạn kiệt](http://vietstock.vn/2026/06/vietstock-daily-12062026-thanh-khoan-can-kiet-1636-1453285.htm)**
-  - *(Thu, 11 Jun 2026 18:25:10 +0700)*
-  - VN-Index điều chỉnh nhẹ với khối lượng giao dịch tiếp tục giảm sâu và xuống mức thấp nhất 12 tháng. Trong bối cảnh dòng tiền suy yếu, chỉ số nhiều khả năng sẽ tiếp tục giằng co dưới các đường SMA 50 n...
-
-- ★☆☆ **[Nhịp đập Thị trường 11/06: Nỗ lực hồi phục, VN-Index đóng cửa gần mốc 1,800](http://vietstock.vn/2026/06/nhip-dap-thi-truong-1106-no-luc-hoi-phuc-vn-index-dong-cua-gan-moc-1800-1636-1452993.htm)**
-  - *(Thu, 11 Jun 2026 16:47:00 +0700)*
-  - VN-Index tiếp tục ghi nhận các nỗ lực hồi phục trong phiên chiều, qua đó thu hẹp mức giảm còn 5.1 điểm, tương ứng đóng cửa tại 1,798.61 điểm. Chỉ số thậm chí có lúc vượt qua mốc 1,800 điểm....
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 11/06: Diễn biến giằng co](http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-1106-dien-bien-giang-co-585-1453064.htm)**
-  - *(Thu, 11 Jun 2026 13:06:57 +0700)*
-  - VN-Index giằng co kèm theo khối lượng giao dịch thường xuyên dưới mức trung bình 20 ngày cho thấy tâm lý thận trọng của nhà đầu tư. HNX-Index xuất hiện mẫu hình nến Long Lower Shadow....
-
-- ★☆☆ **[VEAM bị truy thu thuế 18.4 tỷ, cổ phiếu bị cảnh báo vì hàng loạt ý kiến kiểm toán](http://vietstock.vn/2026/06/veam-bi-truy-thu-thue-184-ty-co-phieu-bi-canh-bao-vi-hang-loat-y-kien-kiem-toan-830-1452850.htm)**
-  - *(Thu, 11 Jun 2026 10:00:00 +0700)*
-  - Cục thuế Thành phố Hà Nội đã có quyết định về việc áp dụng biện pháp khắc phục hậu quả đối với Tổng Công ty Máy động lực và Máy nông nghiệp Việt Nam (VEAM, UPCoM: VEA). Công ty có hành vi kê khai sai ...
-
-- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 11/06](http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-1106-830-1452773.htm)**
-  - *(Thu, 11 Jun 2026 08:00:00 +0700)*
-  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
-
-- ★☆☆ **[11/06: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/06/1106-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1452924.htm)**
-  - *(Thu, 11 Jun 2026 06:02:00 +0700)*
-  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
-
-- ★☆☆ **[Theo dấu dòng tiền cá mập 10/06: Tự doanh, khối ngoại cùng bán ròng trong phiên VN-Index tăng điểm](http://vietstock.vn/2026/06/theo-dau-dong-tien-ca-map-1006-tu-doanh-khoi-ngoai-cung-ban-rong-trong-phien-vn-index-tang-diem-830-1452877.htm)**
-  - *(Wed, 10 Jun 2026 19:03:32 +0700)*
-  - Trong ngày VN-Index tăng gần 11 điểm, khối ngoại vẫn tiếp đà bán ròng trong khi tự doanh đảo chiều từ mua ròng sang bán....
-
-- ★☆☆ **[Vietstock Daily 11/06/2026: Giữ nhịp phục hồi?](http://vietstock.vn/2026/06/vietstock-daily-11062026-giu-nhip-phuc-hoi-1636-1452824.htm)**
-  - *(Wed, 10 Jun 2026 18:17:00 +0700)*
-  - VN-Index tiếp tục phục hồi nhưng khối lượng giao dịch vẫn duy trì dưới mức trung bình 20 ngày cho thấy nhà đầu tư chưa thoát khỏi tâm lý thận trọng. Hiện tại, chỉ số đang nằm dưới các đường SMA 50 ngà...
-
-- ★☆☆ **[Nhịp đập Thị trường 10/06: VN-Index trở lại mốc 1,800 điểm trong bối cảnh thanh khoản cạn kiệt](http://vietstock.vn/2026/06/nhip-dap-thi-truong-1006-vn-index-tro-lai-moc-1800-diem-trong-boi-canh-thanh-khoan-can-kiet-1636-1452583.htm)**
-  - *(Wed, 10 Jun 2026 17:07:00 +0700)*
-  - Kết thúc phiên giao dịch, VN-Index tăng 10.6 điểm (0.6%), lên mức 1,803.71 điểm; HNX-Index giảm 4.6 điểm (-1.5%), xuống mức 301.15 điểm. Độ rộng toàn thị trường với sắc xanh áp đảo khi bên mua có 438 ...
-
-- ★☆☆ **[Phân tích kỹ thuật phiên chiều 10/06: Rủi ro ngắn hạn vẫn còn](http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-1006-rui-ro-ngan-han-van-con-585-1452638.htm)**
-  - *(Wed, 10 Jun 2026 13:08:22 +0700)*
-  - VN-Index tiếp tục diễn biến giằng co đồng thời xuất hiện mẫu hình nến thân nhỏ. HNX-Index đảo chiều giảm đồng thời xuất hiện mẫu hình nên Big Black Candle kèm theo khối lượng trong phiên sáng tăng cho...
-
-- ★☆☆ **[Kính mời doanh nghiệp niêm yết hiệu chỉnh kết quả Khảo sát Công bố thông tin cùng chương trình IR Awards 2026](http://vietstock.vn/2026/06/kinh-moi-doanh-nghiep-niem-yet-hieu-chinh-ket-qua-khao-sat-cong-bo-thong-tin-cung-chuong-trinh-ir-awards-2026-830-1452582.htm)**
-  - *(Wed, 10 Jun 2026 11:02:00 +0700)*
-  - Ban Tổ chức chương trình IR Awards 2026 sẽ chính thức công bố đại chúng kết quả Danh sách Doanh nghiệp niêm yết đạt Chuẩn công bố thông tin năm 2026 vào ngày 06/07/2026....
-
-- ★☆☆ **[Cổ phiếu liên tục tăng trần, C32 nghi ngờ đang bị thâu tóm](http://vietstock.vn/2026/06/co-phieu-lien-tuc-tang-tran-c32-nghi-ngo-dang-bi-thau-tom-830-1452578.htm)**
-  - *(Wed, 10 Jun 2026 10:48:50 +0700)*
-  - Sau chuỗi tăng trần, CTCP Đầu tư và Xây dựng 3-2 (HOSE: C32) vừa có văn bản gửi Ủy ban Chứng khoán Nhà nước (UBCKNN) và Sở Giao dịch Chứng khoán TPHCM (HOSE), đề nghị kiểm tra, rà soát các dấu hiệu gi...
+Tổng cộng: **109** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
+- ★★★ **[Chứng khoán Mỹ tăng điểm nhờ tin tốt về chiến tranh, giá dầu xuống thang nhanh](https://vneconomy.vn/chung-khoan-my-tang-diem-nho-tin-tot-ve-chien-tranh-gia-dau-xuong-thang-nhanh.htm)**
+  - *(Sat, 13 Jun 2026 03:46:05 GMT)*
+  - Nh#224; đầu tư phấn khởi khi gi#225; dầu giảm nhờ những t#237;n hiệu cho thấy Mỹ v#224; Iran c#243; thể sắp chốt một thỏa thuận để kết th#250;c chiến tranh v#224; mở cửa trở lại eo biển Hormuz......
+
 - ★★★ **[Triển vọng lãi suất của 10 ngân hàng trung ương lớn](https://vneconomy.vn/trien-vong-lai-suat-cua-10-ngan-hang-trung-uong-lon.htm)**
   - *(Fri, 12 Jun 2026 07:11:49 GMT)*
   - Dưới đ#226;y l#224; triển vọng ch#237;nh s#225;ch tiền tệ của 10 ng#226;n h#224;ng trung ương lớn tại c#225;c thị trường ph#225;t triển, được gọi l#224; nh#243;m G10......
@@ -136,13 +59,13 @@ Tổng cộng: **108** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 09 Jun 2026 01:12:44 GMT)*
   - Điểm s#225;ng của phi#234;n n#224;y l#224; sự phục hồi mạnh mẽ của c#225;c cổ phiếu c#244;ng nghệ, đặc biệt l#224; nh#243;m cổ phiếu b#225;n dẫn......
 
-- ★★★ **[Dấu ấn kinh tế thế giới tuần 30/5-6/6/2026: Áp lực tăng lãi suất thấy rõ, thế giới chờ vụ IPO của SpaceX](https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-305-662026-ap-luc-tang-lai-suat-thay-ro-the-gioi-cho-vu-ipo-cua-spacex.htm)**
-  - *(Sun, 07 Jun 2026 02:43:07 GMT)*
-  - Giữa l#250;c đ#224;m ph#225;n h#242;a b#236;nh giữa Mỹ v#224; Iran chưa c#243; bước tiến cụ thể v#224; eo biển Hormuz vẫn đ#243;ng cửa, #225;p lực tăng l#227;i suất tiếp tục l#224; một chủ đề lớn tr#2...
+- ★★☆ **[Cổ phiếu SpaceX tăng 19% trong phiên chào sàn, tài sản của Elon Musk đạt 1,1 nghìn tỷ USD](https://vneconomy.vn/co-phieu-spacex-tang-19-trong-phien-chao-san-tai-san-cua-elon-musk-dat-11-nghin-ty-usd.htm)**
+  - *(Sat, 13 Jun 2026 01:09:35 GMT)*
+  - Cuộc IPO v#224; phi#234;n giao dịch đầu ti#234;n của cổ phiếu SpaceX tr#234;n s#224;n Nasdaq được đ#225;nh dấu bằng những con số ấn tượng......
 
-- ★★★ **[VinaCapital: Định giá chứng khoán Việt Nam đang thấp như thời khủng hoảng, triển vọng tăng trưởng rất tốt](https://vneconomy.vn/vinacapital-dinh-gia-chung-khoan-viet-nam-dang-thap-nhu-thoi-khung-hoang-trien-vong-tang-truong-rat-tot.htm)**
-  - *(Sat, 06 Jun 2026 07:19:04 GMT)*
-  - VinaCapital muốn nhấn mạnh định gi#225; của phần lớn thị trường chứng kho#225;n Việt Nam đang ở mức tương đương như trong thời kỳ khủng hoảng - tr#225;i ngược với c#225;c điều kiện kinh tế thực tế nh#...
+- ★★☆ **[Blog chứng khoán: Đừng để trạng thái lình xình ru ngủ](https://vneconomy.vn/blog-chung-khoan-dung-de-trang-thai-linh-xinh-ru-ngu.htm)**
+  - *(Fri, 12 Jun 2026 09:45:41 GMT)*
+  - Ngay cả sự h#224;o hứng từ thị trường thế giới trước triển vọng hạ nhiệt xung đột v#224; tiến tới thỏa thuận Mỹ - Iran cũng kh#244;ng gi#250;p duy tr#236; đ#224; tăng trong phi#234;n cuối tuần. VNI đ#...
 
 - ★★☆ **[Vietcap: Điện Máy Xanh trước cơ hội mở rộng các động lực tăng trưởng mới](https://vneconomy.vn/vietcap-dien-may-xanh-truoc-co-hoi-mo-rong-cac-dong-luc-tang-truong-moi.htm)**
   - *(Thu, 11 Jun 2026 01:00:00 GMT)*
@@ -300,9 +223,82 @@ Tổng cộng: **108** tin tức liên quan đến thị trường chứng khoá
   - *(Sun, 07 Jun 2026 03:07:49 GMT)*
   - VnEconomy giới thiệu nhận định v#224; khuyến nghị đầu tư của một số c#244;ng ty chứng kho#225;n về diễn biến thị trường tuần từ 8-12/6/2026....
 
-- ★☆☆ **[Xu thế dòng tiền: Đảo chiều từ mốc 1800 điểm, thị trường vẫn chưa có đợt “rũ bỏ” đúng nghĩa?](https://vneconomy.vn/xu-the-dong-tien-dao-chieu-tu-moc-1800-diem-thi-truong-van-chua-co-dot-ru-bo-dung-nghia.htm)**
-  - *(Sun, 07 Jun 2026 03:03:07 GMT)*
-  - Hai phi#234;n đảo chiều phục hồi cuối tuần qua của VN-Index ngay sau khi chạm tới ngưỡng hỗ trợ t#226;m l#253; 1800 điểm đem lại ch#250;t hi vọng. Tuy nhi#234;n c#242;n nhiều yếu tố bất lợi cho thấy s...
+## Vietstock
+- ★★★ **[Chủ tịch VSDC nói về khả năng nâng hạng MSCI của Việt Nam](http://vietstock.vn/2026/06/chu-tich-vsdc-noi-ve-kha-nang-nang-hang-msci-cua-viet-nam-143-1453705.htm)**
+  - *(Fri, 12 Jun 2026 16:37:17 +0700)*
+  - Nâng hạng thị trường là chủ đề đang nhận được sự quan tâm trên thị trường. Tại sự kiện Vietnam Investment Forum 2026 - Summer Summit diễn ra ngày 11/06, lãnh đạo các cơ quan quản lý đã có những chia s...
+
+- ★★☆ **[Ngày 11/06/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/06/ngay-11062026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1452809.htm)**
+  - *(Thu, 11 Jun 2026 10:00:00 +0700)*
+  - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: DPM, FPT, GMD, MBB, NLG, OCB, TPB, TCB, VPB, VIB....
+
+- ★★☆ **[Cổ phiếu “vua” biến động khó lường](http://vietstock.vn/2026/06/co-phieu-vua-bien-dong-kho-luong-830-1452919.htm)**
+  - *(Thu, 11 Jun 2026 09:02:00 +0700)*
+  - Dù vẫn đang ở trong năm tăng trưởng thứ 4 liên tiếp, nhiều mã ngân hàng sau khi liên tiếp lập đỉnh lịch sử lại rơi sâu khỏi vùng đỉnh, phản ánh những vận động cực đoan khi chịu ảnh hưởng của môi trườn...
+
+- ★☆☆ **[Chứng khoán Tuần 08-12/06/2026: Thiếu vắng động lực](http://vietstock.vn/2026/06/chung-khoan-tuan-08-12062026-thieu-vang-dong-luc-1636-1453809.htm)**
+  - *(Fri, 12 Jun 2026 18:07:04 +0700)*
+  - VN-Index kéo dài chuỗi giảm sang tuần thứ 4 liên tiếp. Lực cầu chủ yếu mang tính thăm dò khiến các nhịp hồi phục thiếu sự lan tỏa và dễ suy yếu khi áp lực cung ngắn hạn gia tăng trở lại. Trong bối cản...
+
+- ★☆☆ **[Chứng khoán toàn cầu tràn ngập sắc xanh, riêng Việt Nam vẫn đỏ](http://vietstock.vn/2026/06/chung-khoan-toan-cau-tran-ngap-sac-xanh-rieng-viet-nam-van-do-773-1453778.htm)**
+  - *(Fri, 12 Jun 2026 17:36:38 +0700)*
+  - Thị trường chứng khoán toàn cầu tăng mạnh trong phiên 12/06 sau xuất hiện nhiều tín hiệu cho thấy Mỹ và Iran sắp tiến tới thỏa thuận. Riêng chứng khoán Việt Nam lại giảm dần về cuối phiên....
+
+- ★☆☆ **[Nhịp đập Thị trường 12/06: Áp lực bán gia tăng trong phiên chiều, VN-Index lui về mốc 1,790 điểm](http://vietstock.vn/2026/06/nhip-dap-thi-truong-1206-ap-luc-ban-gia-tang-trong-phien-chieu-vn-index-lui-ve-moc-1790-diem-1636-1453486.htm)**
+  - *(Fri, 12 Jun 2026 16:42:00 +0700)*
+  - Kết thúc phiên giao dịch, VN-Index giảm 7 điểm (-0.39%), xuống mức 1,791.65 điểm; HNX-Index tăng 2.4 điểm (+0.8%), lên mức 302.49 điểm. Độ rộng toàn thị trường với sắc đỏ lấn lướt hơn khi bên bán có 4...
+
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 12/06: Tâm lý phân vân vẫn hiện hữu](http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-1206-tam-ly-phan-van-van-hien-huu-585-1453569.htm)**
+  - *(Fri, 12 Jun 2026 13:03:10 +0700)*
+  - VN-Index tiếp tục giằng co và xuất hiện mẫu hình nến thân nhỏ đồng thời nằm dưới đường Middle của Bollinger Bands.HNX-Index tăng điểm đồng thời xuất hiện mẫu hình nến thân nhỏ....
+
+- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 12/06](http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-1206-830-1453190.htm)**
+  - *(Fri, 12 Jun 2026 08:00:00 +0700)*
+  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
+
+- ★☆☆ **[12/06: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/06/1206-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1453416.htm)**
+  - *(Fri, 12 Jun 2026 06:02:00 +0700)*
+  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
+
+- ★☆☆ **[Theo dấu dòng tiền cá mập 11/06: Tự doanh và khối ngoại ngược chiều](http://vietstock.vn/2026/06/theo-dau-dong-tien-ca-map-1106-tu-doanh-va-khoi-ngoai-nguoc-chieu-830-1453404.htm)**
+  - *(Thu, 11 Jun 2026 19:44:23 +0700)*
+  - Khối ngoại bán ròng trong phiên giao dịch 11/06. Ngược chiều, tự doanh mua ròng nhẹ. Lực mua, bán của nhóm ngoại và tự doanh không thể hiện xu hướng cục bộ mà rải đều trên thị trường....
+
+- ★☆☆ **[Vietstock Daily 12/06/2026: Thanh khoản cạn kiệt](http://vietstock.vn/2026/06/vietstock-daily-12062026-thanh-khoan-can-kiet-1636-1453285.htm)**
+  - *(Thu, 11 Jun 2026 18:25:10 +0700)*
+  - VN-Index điều chỉnh nhẹ với khối lượng giao dịch tiếp tục giảm sâu và xuống mức thấp nhất 12 tháng. Trong bối cảnh dòng tiền suy yếu, chỉ số nhiều khả năng sẽ tiếp tục giằng co dưới các đường SMA 50 n...
+
+- ★☆☆ **[Nhịp đập Thị trường 11/06: Nỗ lực hồi phục, VN-Index đóng cửa gần mốc 1,800](http://vietstock.vn/2026/06/nhip-dap-thi-truong-1106-no-luc-hoi-phuc-vn-index-dong-cua-gan-moc-1800-1636-1452993.htm)**
+  - *(Thu, 11 Jun 2026 16:47:00 +0700)*
+  - VN-Index tiếp tục ghi nhận các nỗ lực hồi phục trong phiên chiều, qua đó thu hẹp mức giảm còn 5.1 điểm, tương ứng đóng cửa tại 1,798.61 điểm. Chỉ số thậm chí có lúc vượt qua mốc 1,800 điểm....
+
+- ★☆☆ **[Phân tích kỹ thuật phiên chiều 11/06: Diễn biến giằng co](http://vietstock.vn/2026/06/phan-tich-ky-thuat-phien-chieu-1106-dien-bien-giang-co-585-1453064.htm)**
+  - *(Thu, 11 Jun 2026 13:06:57 +0700)*
+  - VN-Index giằng co kèm theo khối lượng giao dịch thường xuyên dưới mức trung bình 20 ngày cho thấy tâm lý thận trọng của nhà đầu tư. HNX-Index xuất hiện mẫu hình nến Long Lower Shadow....
+
+- ★☆☆ **[VEAM bị truy thu thuế 18.4 tỷ, cổ phiếu bị cảnh báo vì hàng loạt ý kiến kiểm toán](http://vietstock.vn/2026/06/veam-bi-truy-thu-thue-184-ty-co-phieu-bi-canh-bao-vi-hang-loat-y-kien-kiem-toan-830-1452850.htm)**
+  - *(Thu, 11 Jun 2026 10:00:00 +0700)*
+  - Cục thuế Thành phố Hà Nội đã có quyết định về việc áp dụng biện pháp khắc phục hậu quả đối với Tổng Công ty Máy động lực và Máy nông nghiệp Việt Nam (VEAM, UPCoM: VEA). Công ty có hành vi kê khai sai ...
+
+- ★☆☆ **[Top cổ phiếu đáng chú ý đầu phiên 11/06](http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-1106-830-1452773.htm)**
+  - *(Thu, 11 Jun 2026 08:00:00 +0700)*
+  - Danh sách các mã cổ phiếu tăng và giảm mạnh nhất những phiên gần đây theo số liệu thống kê của Vietstock....
+
+- ★☆☆ **[11/06: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/06/1106-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1452924.htm)**
+  - *(Thu, 11 Jun 2026 06:02:00 +0700)*
+  - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong 24h qua trước giờ giao dịch hôm nay....
+
+- ★☆☆ **[Theo dấu dòng tiền cá mập 10/06: Tự doanh, khối ngoại cùng bán ròng trong phiên VN-Index tăng điểm](http://vietstock.vn/2026/06/theo-dau-dong-tien-ca-map-1006-tu-doanh-khoi-ngoai-cung-ban-rong-trong-phien-vn-index-tang-diem-830-1452877.htm)**
+  - *(Wed, 10 Jun 2026 19:03:32 +0700)*
+  - Trong ngày VN-Index tăng gần 11 điểm, khối ngoại vẫn tiếp đà bán ròng trong khi tự doanh đảo chiều từ mua ròng sang bán....
+
+- ★☆☆ **[Vietstock Daily 11/06/2026: Giữ nhịp phục hồi?](http://vietstock.vn/2026/06/vietstock-daily-11062026-giu-nhip-phuc-hoi-1636-1452824.htm)**
+  - *(Wed, 10 Jun 2026 18:17:00 +0700)*
+  - VN-Index tiếp tục phục hồi nhưng khối lượng giao dịch vẫn duy trì dưới mức trung bình 20 ngày cho thấy nhà đầu tư chưa thoát khỏi tâm lý thận trọng. Hiện tại, chỉ số đang nằm dưới các đường SMA 50 ngà...
+
+- ★☆☆ **[Nhịp đập Thị trường 10/06: VN-Index trở lại mốc 1,800 điểm trong bối cảnh thanh khoản cạn kiệt](http://vietstock.vn/2026/06/nhip-dap-thi-truong-1006-vn-index-tro-lai-moc-1800-diem-trong-boi-canh-thanh-khoan-can-kiet-1636-1452583.htm)**
+  - *(Wed, 10 Jun 2026 17:07:00 +0700)*
+  - Kết thúc phiên giao dịch, VN-Index tăng 10.6 điểm (0.6%), lên mức 1,803.71 điểm; HNX-Index giảm 4.6 điểm (-1.5%), xuống mức 301.15 điểm. Độ rộng toàn thị trường với sắc xanh áp đảo khi bên mua có 438 ...
 
 ## VnExpress Business
 - ★★★ **[Chủ tịch VSDC: Chứng khoán Việt Nam có thể đáp ứng tiêu chí nâng hạng của MSCI sớm hơn kế hoạch](https://vnexpress.net/chu-tich-vsdc-chung-khoan-viet-nam-co-the-dap-ung-tieu-chi-nang-hang-cua-msci-som-hon-ke-hoach-5084709.html)**
@@ -320,10 +316,6 @@ Tổng cộng: **108** tin tức liên quan đến thị trường chứng khoá
 - ★★★ **[Lạm phát Mỹ cao nhất 3 năm](https://vnexpress.net/lam-phat-my-cao-nhat-3-nam-5084267.html)**
   - *(Thu, 11 Jun 2026 00:15:00 +0700)*
   - Lạm phát Mỹ lần đầu tiên vượt 4% kể từ đầu năm 2023, chủ yếu do giá năng lượng tăng cao....
-
-- ★★★ **[Vì sao giá vàng giảm 7 triệu đồng chỉ trong một ngày?](https://vnexpress.net/vi-sao-gia-vang-giam-7-trieu-dong-chi-trong-mot-ngay-5083422.html)**
-  - *(Tue, 09 Jun 2026 07:38:28 +0700)*
-  - Giá vàng giảm tới 7 triệu đồng mỗi lượng trong ngày 8/6 do chịu tác động từ nhịp điều chỉnh của thị trường thế giới cùng với lực bán trong nước, theo chuyên gia....
 
 - ★★☆ **[Chứng khoán mất điểm vào cuối phiên](https://vnexpress.net/chung-khoan-mat-diem-vao-cuoi-phien-5085065.html)**
   - *(Fri, 12 Jun 2026 15:45:37 +0700)*
@@ -365,9 +357,21 @@ Tổng cộng: **108** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 09 Jun 2026 10:33:46 +0700)*
   - Lo ngại lạm phát, lãi suất cao khiến thanh khoản chứng khoán đầu tháng 6 giảm sâu so với quý I....
 
-- ★★☆ **[Công ty ông Lê Viết Hải tính phát hành cổ phiếu cho gần 100 chủ nợ](https://vnexpress.net/cong-ty-ong-le-viet-hai-tinh-phat-hanh-co-phieu-cho-gan-100-chu-no-5083393.html)**
-  - *(Tue, 09 Jun 2026 00:00:00 +0700)*
-  - Tập đoàn Xây dựng Hòa Bình do ông Lê Viết Hải làm Chủ tịch HĐQT đang lên kế hoạch phát hành gần 47 triệu cổ phiếu để hoán đổi nợ với 96 doanh nghiệp....
+- ★☆☆ **[Tài sản của Elon Musk lớn đến mức nào?](https://vnexpress.net/tai-san-cua-elon-musk-lon-den-muc-nao-5085200.html)**
+  - *(Sat, 13 Jun 2026 10:08:15 +0700)*
+  - Khối tài sản 1.100 tỷ USD của Elon Musk lớn hơn hầu hết GDP các nước và đủ chia 122 USD cho mỗi người trên thế giới....
+
+- ★☆☆ **[Agribank dành 2.000 tỷ đồng cho vay mua máy móc nông nghiệp](https://vnexpress.net/agribank-danh-2-000-ty-dong-cho-vay-mua-may-moc-nong-nghiep-5083769.html)**
+  - *(Sat, 13 Jun 2026 09:00:00 +0700)*
+  - Agribank triển khai chương trình cho vay ưu đãi "Cơ giới hóa - Nâng cao giá trị nông nghiệp" với quy mô 2.000 tỷ đồng, nhằm hỗ trợ người dân đầu tư máy móc, thiết bị phục vụ sản xuất nông nghiệp....
+
+- ★☆☆ **[Elon Musk có 1.100 tỷ USD khi giá trị SpaceX vượt 2.000 tỷ USD](https://vnexpress.net/elon-musk-co-1-100-ty-usd-khi-gia-tri-spacex-vuot-2-000-ty-usd-5085187.html)**
+  - *(Sat, 13 Jun 2026 06:25:30 +0700)*
+  - Cổ phiếu SpaceX tăng gần 20% trong phiên chào sàn, kéo tài sản của Chủ tịch kiêm CEO lên mức kỷ lục mới....
+
+- ★☆☆ **[UOB: Nền kinh tế Việt Nam 'bền bỉ'](https://vnexpress.net/uob-nen-kinh-te-viet-nam-ben-bi-5085146.html)**
+  - *(Fri, 12 Jun 2026 20:54:33 +0700)*
+  - Kinh tế Việt Nam bền bỉ trước áp lực chi phí và những căng thẳng bên ngoài, với triển vọng ngắn hạn tích cực đan xen thách thức, theo UOB....
 
 - ★☆☆ **[Chiến lược O2O giúp F88 nâng cao hiệu quả kinh doanh](https://vnexpress.net/chien-luoc-o2o-giup-f88-nang-cao-hieu-qua-kinh-doanh-5085056.html)**
   - *(Fri, 12 Jun 2026 15:30:00 +0700)*
@@ -377,7 +381,7 @@ Tổng cộng: **108** tin tức liên quan đến thị trường chứng khoá
   - *(Fri, 12 Jun 2026 13:00:00 +0700)*
   - Vietjet nhận giải về vận tải và chiến lược nhân sự tại Top 50 Doanh nghiệp phát triển bền vững tiêu biểu Việt Nam 2026 nhờ định hướng phát triển theo các tiêu chí ESG....
 
-- ★☆☆ **[Lợi nhuận CC1 giảm nhẹ](https://vnexpress.net/loi-nhuan-cc1-giam-nhe-5084952.html)**
+- ★☆☆ **[Lợi nhuận CC1 không như kỳ vọng](https://vnexpress.net/loi-nhuan-cc1-khong-nhu-ky-vong-5084952.html)**
   - *(Fri, 12 Jun 2026 12:40:46 +0700)*
   - Tổng công ty Xây dựng số 1 (CC1) báo lãi năm ngoái gần 270 tỷ đồng, giảm gần 8% so với cùng kỳ năm trước đó....
 
