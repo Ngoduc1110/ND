@@ -135,10 +135,10 @@
         </div>
         <header>
             <h1>Financial News Dashboard</h1>
-            <p class="stats">Cập nhật: 2026-06-30 18:40 | Tổng: 142 tin tức</p>
+            <p class="stats">Cập nhật: 2026-06-30 19:02 | Tổng: 143 tin tức</p>
             <div class="stats-detail">
                 <span style="color:#ef4444">★★★ Rất quan trọng: 23</span>
-                <span style="color:#f59e0b">★★☆ Quan trọng: 41</span>
+                <span style="color:#f59e0b">★★☆ Quan trọng: 42</span>
                 <span style="color:#94a3b8">★☆☆ Bình thường: 78</span>
             </div>
         </header>
@@ -146,9 +146,9 @@
         <div class="controls">
             <div class="controls-label">🔍 Lọc theo nguồn</div>
             <button class="filter-btn active" onclick="filterSource('all')">Tất cả</button>
-<button class="filter-btn" onclick="filterSource('CafeF')">CafeF (40)</button>
-<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (38)</button>
+<button class="filter-btn" onclick="filterSource('CafeF')">CafeF (41)</button>
 <button class="filter-btn" onclick="filterSource('Vietstock')">Vietstock (20)</button>
+<button class="filter-btn" onclick="filterSource('VnExpress Business')">VnExpress Business (38)</button>
 <button class="filter-btn" onclick="filterSource('VNeconomy')">VNeconomy (44)</button>
 
         </div>
@@ -157,7 +157,7 @@
             <div class="controls-label">⭐ Lọc theo mức độ quan trọng</div>
             <button class="filter-btn active" onclick="filterImportance('all')">Tất cả</button>
             <button class="filter-btn" onclick="filterImportance(3)">★★★ Rất quan trọng (23)</button>
-            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (41)</button>
+            <button class="filter-btn" onclick="filterImportance(2)">★★☆ Quan trọng (42)</button>
             <button class="filter-btn" onclick="filterImportance(1)">★☆☆ Bình thường (78)</button>
         </div>
         
@@ -168,6 +168,45 @@
         </div>
 
         <div class="grid" id="newsGrid">
+            
+            <a href="https://cafef.vn/thi-truong-tien-so-hom-nay-30-6-dien-bien-trai-chieu-18826063018591088.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Thị trường tiền số hôm nay, 30-6: Diễn biến trái chiều</h2>
+                <div class="date">📅 Tue, 30 Jun 26 18:59:00 +0700</div>
+                <p class="summary">Trong khi Bitcoin giảm hơn 1%, các đồng tiền số khác như Ethereum và Solana lần lượt tăng hơn 0,4% và 1%.</p>
+            </a>
+            
+            <a href="https://cafef.vn/hang-tram-nguoi-vua-nop-108-ty-tien-tuoi-thoc-that-vao-tai-khoan-fpt-chuyen-gi-da-xay-ra-188260630185850063.chn" target="_blank" class="card" data-source="CafeF" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        
+                    </div>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                </div>
+                <h2>Hàng trăm người vừa nộp 108 tỷ 'tiền tươi thóc thật' vào tài khoản FPT: Chuyện gì đã xảy ra?</h2>
+                <div class="date">📅 Tue, 30 Jun 26 18:58:00 +0700</div>
+                <p class="summary">Tuy vậy, số tiền FPT thu được lại rất nhỏ nếu so với giá thị trường.</p>
+            </a>
+            
+            <a href="http://vietstock.vn/2026/06/vietstock-daily-01072026-phan-hoa-ro-net-1636-1460520.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
+                <div class="card-header">
+                    <div>
+                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
+                        
+                    </div>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                </div>
+                <h2>Vietstock Daily 01/07/2026: Phân hóa rõ nét</h2>
+                <div class="date">📅 Tue, 30 Jun 2026 18:17:00 +0700</div>
+                <p class="summary">VN-Index tiếp tục giằng co khi test đường SMA 50 ngày. Chỉ báo Stochastic Oscillator đã cắt xuống đường signal nên trạng thái rung lắc nhiều khả năng sẽ còn tiếp diễn trong những phiên tới.</p>
+            </a>
             
             <a href="https://cafef.vn/pho-tu-lenh-canh-sat-co-dong-biet-phai-cong-tac-tai-bo-tai-chinh-188260630173619575.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
                 <div class="card-header">
@@ -663,17 +702,17 @@
                 <p class="summary">Trong 2 ngày giao dịch gần nhất, quỹ bạc lớn nhất thế giới SLV đã bán ròng gần 90 tấn bạc.</p>
             </a>
             
-            <a href="https://vneconomy.vn/vcbs-xac-lap-vi-the-top-10-doanh-nghiep-esg-viet-nam-xanh-2026.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
+            <a href="https://cafef.vn/baoviet-fund-mien-phi-mua-va-chuyen-doi-quy-buoc-di-moi-gia-tang-loi-ich-cho-nha-dau-tu-188260629193815443.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
                 <div class="card-header">
                     <div>
-                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
+                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
                         
                     </div>
-                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
+                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
                 </div>
-                <h2>VCBS xác lập vị thế Top 10 doanh nghiệp ESG Việt Nam Xanh 2026</h2>
-                <div class="date">📅 Tue, 30 Jun 2026 01:00:00 GMT</div>
-                <p class="summary">Ngày 26/6/2026 tại Hà Nội, Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS) tự hào được vinh danh trong Top 10 Doanh nghiệp ESG Việt Nam Xanh 2026. Đây là minh chứng rõ nét cho chiến lược phát triển bền vững và cam kết mạnh mẽ của VCBS trong hành trình kiến tạo giá trị xanh.</p>
+                <h2>Baoviet Fund miễn phí mua và chuyển đổi quỹ: Bước đi mới gia tăng lợi ích cho nhà đầu tư</h2>
+                <div class="date">📅 Tue, 30 Jun 26 08:00:00 +0700</div>
+                <p class="summary">Trong bối cảnh các quỹ mở ngày càng trở thành kênh đầu tư được nhiều nhà đầu tư cá nhân lựa chọn, chi phí giao dịch đang là yếu tố nhận được nhiều sự quan tâm.</p>
             </a>
             
             <a href="http://vietstock.vn/2026/06/top-co-phieu-dang-chu-y-dau-phien-3006-830-1459852.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
@@ -702,17 +741,17 @@
                 <p class="summary">Mới đây, Chứng khoán KB Việt Nam (KBSV) đã được vinh danh trong Top 10 Doanh nghiệp ESG Việt Nam Xanh 2026 ngành Tài chính – Chứng khoán (ESG10 – 2026) - do Viet Research phối hợp cùng Báo Tài chính – Đầu tư tổ chức nhằm tôn vinh những doanh nghiệp tiên phong trong thực hành ESG và phát triển bền vững.</p>
             </a>
             
-            <a href="https://cafef.vn/baoviet-fund-mien-phi-mua-va-chuyen-doi-quy-buoc-di-moi-gia-tang-loi-ich-cho-nha-dau-tu-188260629193815443.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
+            <a href="https://vneconomy.vn/vcbs-xac-lap-vi-the-top-10-doanh-nghiep-esg-viet-nam-xanh-2026.htm" target="_blank" class="card" data-source="VNeconomy" data-importance="2" data-dividend="False" style="border-left: 4px solid #f59e0b;">
                 <div class="card-header">
                     <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
+                        <span class="badge" style="background:rgba(245, 158, 11, 0.2);color:#f59e0b;border:1px solid rgba(245, 158, 11, 0.3)">VNeconomy</span>
                         
                     </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
+                    <span class="importance" data-level="2" style="color:#f59e0b" title="Quan trọng">★★☆</span>
                 </div>
-                <h2>Baoviet Fund miễn phí mua và chuyển đổi quỹ: Bước đi mới gia tăng lợi ích cho nhà đầu tư</h2>
-                <div class="date">📅 Tue, 30 Jun 26 08:00:00 +0700</div>
-                <p class="summary">Trong bối cảnh các quỹ mở ngày càng trở thành kênh đầu tư được nhiều nhà đầu tư cá nhân lựa chọn, chi phí giao dịch đang là yếu tố nhận được nhiều sự quan tâm.</p>
+                <h2>VCBS xác lập vị thế Top 10 doanh nghiệp ESG Việt Nam Xanh 2026</h2>
+                <div class="date">📅 Tue, 30 Jun 2026 01:00:00 GMT</div>
+                <p class="summary">Ngày 26/6/2026 tại Hà Nội, Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS) tự hào được vinh danh trong Top 10 Doanh nghiệp ESG Việt Nam Xanh 2026. Đây là minh chứng rõ nét cho chiến lược phát triển bền vững và cam kết mạnh mẽ của VCBS trong hành trình kiến tạo giá trị xanh.</p>
             </a>
             
             <a href="https://cafef.vn/gia-vang-ve-sat-moc-quan-trong-nha-dau-tu-nin-tho-quy-lon-nhat-the-gioi-cung-nam-im-188260630075119286.chn" target="_blank" class="card" data-source="CafeF" data-importance="3" data-dividend="False" style="border-left: 4px solid #ef4444;">
@@ -1610,32 +1649,6 @@
                 <h2>Hiện tượng trái chiều đang diễn ra trên thị trường chứng khoán, chuyên gia nói gì?</h2>
                 <div class="date">📅 Mon, 29 Jun 26 00:04:00 +0700</div>
                 <p class="summary">Một thị trường khỏe không được đánh giá chỉ qua việc chỉ số lập đỉnh, mà cần nhìn vào khả năng tạo lợi nhuận cho số đông nhà đầu tư.</p>
-            </a>
-            
-            <a href="https://cafef.vn/gioi-sieu-giau-tang-manh-va-bai-toan-quan-ly-gia-san-188260628230848514.chn" target="_blank" class="card" data-source="CafeF" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(99, 102, 241, 0.2);color:#818cf8;border:1px solid rgba(99, 102, 241, 0.3)">CafeF</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Giới siêu giàu tăng mạnh và bài toán quản lý gia sản</h2>
-                <div class="date">📅 Mon, 29 Jun 26 00:01:00 +0700</div>
-                <p class="summary">Số lượng người siêu giàu của Việt Nam dự kiến tăng mạnh. Khi tài sản lớn lên, nhu cầu của lớp người giàu cũng sẽ thay đổi, thay vì đặt câu hỏi “nên đầu tư vào đâu”, câu hỏi sẽ trở thành phân bổ ra sao giữa tăng trưởng và phòng thủ.</p>
-            </a>
-            
-            <a href="http://vietstock.vn/2026/06/vietstock-weekly-2906-03072026-thanh-khoan-van-la-tro-ngai-1636-1459442.htm" target="_blank" class="card" data-source="Vietstock" data-importance="1" data-dividend="False" style="">
-                <div class="card-header">
-                    <div>
-                        <span class="badge" style="background:rgba(16, 185, 129, 0.2);color:#10b981;border:1px solid rgba(16, 185, 129, 0.3)">Vietstock</span>
-                        
-                    </div>
-                    <span class="importance" data-level="1" style="color:#94a3b8" title="Bình thường">★☆☆</span>
-                </div>
-                <h2>Vietstock Weekly 29/06-03/07/2026: Thanh khoản vẫn là trở ngại?</h2>
-                <div class="date">📅 Sun, 28 Jun 2026 18:00:00 +0700</div>
-                <p class="summary">VN-Index tiếp tục phục hồi và duy trì trên đường Middle của Bollinger Bands. Tuy nhiên, nhà đầu tư chưa thoát khỏi tâm lý thận trọng khi khối lượng giao dịch vẫn duy trì dưới mức trung bình 20 tuần. Đây là yếu tố cần cải thiện để đà đi lên được củng cố vững chắc hơn trong thời gian tới.</p>
             </a>
             
             <a href="https://vnexpress.net/quy-dau-tu-vang-lon-nhat-the-gioi-ban-gan-60-tan-trong-nua-nam-5090778.html" target="_blank" class="card" data-source="VnExpress Business" data-importance="1" data-dividend="False" style="">

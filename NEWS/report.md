@@ -1,6 +1,6 @@
-# Báo cáo tin tức thị trường (2026-06-30 18:40)
+# Báo cáo tin tức thị trường (2026-06-30 19:02)
 
-Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
+Tổng cộng: **143** tin tức liên quan đến thị trường chứng khoán và vĩ mô.
 
 ## VNeconomy
 - ★★★ **[Thị trường tiếp tục phân hóa, khối ngoại bán ròng ngàn tỷ](https://vneconomy.vn/thi-truong-tiep-tuc-phan-hoa-khoi-ngoai-ban-rong-ngan-ty.htm)**
@@ -353,6 +353,10 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Tue, 30 Jun 26 00:10:00 +0700)*
   - Thị trường bạc vừa trải qua một tuần biến động mạnh khi giá trong nước và thế giới đồng loạt lao dốc gần 10%. Nguyên nhân chính đến từ các tín hiệu kinh tế của Mỹ, làm gia tăng khả năng Fed sẽ tiếp tụ...
 
+- ★★☆ **[Hàng trăm người vừa nộp 108 tỷ 'tiền tươi thóc thật' vào tài khoản FPT: Chuyện gì đã xảy ra?](https://cafef.vn/hang-tram-nguoi-vua-nop-108-ty-tien-tuoi-thoc-that-vao-tai-khoan-fpt-chuyen-gi-da-xay-ra-188260630185850063.chn)**
+  - *(Tue, 30 Jun 26 18:58:00 +0700)*
+  - Tuy vậy, số tiền FPT thu được lại rất nhỏ nếu so với giá thị trường....
+
 - ★★☆ **[Tỉnh duy nhất tên có 2 dấu sắc vừa chứng kiến kỷ lục hơn 1 triệu tỷ đồng, Vingroup, FLC, Đèo Cả… góp mặt](https://cafef.vn/tinh-duy-nhat-ten-co-2-dau-sac-vua-chung-kien-ky-luc-hon-1-trieu-ty-dong-vingroup-flc-deo-ca-gop-mat-188260630125347284.chn)**
   - *(Tue, 30 Jun 26 13:10:00 +0700)*
   - Nhiều doanh nghiệp lớn hàng đầu Việt Nam đầu tư lớn vào hàng loạt dự án tại tỉnh này....
@@ -408,6 +412,10 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[Hiện tượng trái chiều đang diễn ra trên thị trường chứng khoán, chuyên gia nói gì?](https://cafef.vn/hien-tuong-trai-chieu-dang-dien-ra-tren-thi-truong-chung-khoan-chuyen-gia-noi-gi-188260628225212482.chn)**
   - *(Mon, 29 Jun 26 00:04:00 +0700)*
   - Một thị trường khỏe không được đánh giá chỉ qua việc chỉ số lập đỉnh, mà cần nhìn vào khả năng tạo lợi nhuận cho số đông nhà đầu tư....
+
+- ★☆☆ **[Thị trường tiền số hôm nay, 30-6: Diễn biến trái chiều](https://cafef.vn/thi-truong-tien-so-hom-nay-30-6-dien-bien-trai-chieu-18826063018591088.chn)**
+  - *(Tue, 30 Jun 26 18:59:00 +0700)*
+  - Trong khi Bitcoin giảm hơn 1%, các đồng tiền số khác như Ethereum và Solana lần lượt tăng hơn 0,4% và 1%....
 
 - ★☆☆ **[Phó Tư lệnh Cảnh sát cơ động biệt phái công tác tại Bộ Tài chính](https://cafef.vn/pho-tu-lenh-canh-sat-co-dong-biet-phai-cong-tac-tai-bo-tai-chinh-188260630173619575.chn)**
   - *(Tue, 30 Jun 26 17:36:00 +0700)*
@@ -489,10 +497,6 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
   - *(Mon, 29 Jun 26 00:08:00 +0700)*
   - Đạm Cà Mau dự kiến chi 1.058,8 tỷ đồng để thanh toán cổ tức năm 2025 cho cổ đông bằng tiền với tỷ lệ thực hiện 20%. Ngày đăng ký cuối cùng thực hiện quyền là 10/7/2026....
 
-- ★☆☆ **[Giới siêu giàu tăng mạnh và bài toán quản lý gia sản](https://cafef.vn/gioi-sieu-giau-tang-manh-va-bai-toan-quan-ly-gia-san-188260628230848514.chn)**
-  - *(Mon, 29 Jun 26 00:01:00 +0700)*
-  - Số lượng người siêu giàu của Việt Nam dự kiến tăng mạnh. Khi tài sản lớn lên, nhu cầu của lớp người giàu cũng sẽ thay đổi, thay vì đặt câu hỏi “nên đầu tư vào đâu”, câu hỏi sẽ trở thành phân bổ ra sao...
-
 ## Vietstock
 - ★★★ **[Liệu có sóng đầu tư công nửa cuối năm 2026?](http://vietstock.vn/2026/06/lieu-co-song-dau-tu-cong-nua-cuoi-nam-2026-830-1460109.htm)**
   - *(Tue, 30 Jun 2026 09:02:00 +0700)*
@@ -517,6 +521,10 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
 - ★★☆ **[Tuần 29/06-03/07/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock](http://vietstock.vn/2026/06/tuan-2906-03072026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1459440.htm)**
   - *(Mon, 29 Jun 2026 10:00:00 +0700)*
   - Các cổ phiếu nóng được phân tích trong báo cáo của Phòng Tư vấn Vietstock gồm: EIB, HAG, HDB, MBB, NLG, OCB, TPB, VHM, VJC, VNM....
+
+- ★☆☆ **[Vietstock Daily 01/07/2026: Phân hóa rõ nét](http://vietstock.vn/2026/06/vietstock-daily-01072026-phan-hoa-ro-net-1636-1460520.htm)**
+  - *(Tue, 30 Jun 2026 18:17:00 +0700)*
+  - VN-Index tiếp tục giằng co khi test đường SMA 50 ngày. Chỉ báo Stochastic Oscillator đã cắt xuống đường signal nên trạng thái rung lắc nhiều khả năng sẽ còn tiếp diễn trong những phiên tới....
 
 - ★☆☆ **[Nhịp đập Thị trường 30/06: Chưa có nhiều động lực bứt phá](http://vietstock.vn/2026/06/nhip-dap-thi-truong-3006-chua-co-nhieu-dong-luc-but-pha-1636-1460202.htm)**
   - *(Tue, 30 Jun 2026 16:27:00 +0700)*
@@ -569,8 +577,4 @@ Tổng cộng: **142** tin tức liên quan đến thị trường chứng khoá
 - ★☆☆ **[29/06: Đọc gì trước giờ giao dịch chứng khoán?](http://vietstock.vn/2026/06/2906-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1459554.htm)**
   - *(Mon, 29 Jun 2026 06:02:00 +0700)*
   - Cùng điểm lại những tin tức tài chính - kinh tế trong nước và quốc tế đáng chú ý trong những ngày cuối tuần trước giờ giao dịch hôm nay....
-
-- ★☆☆ **[Vietstock Weekly 29/06-03/07/2026: Thanh khoản vẫn là trở ngại?](http://vietstock.vn/2026/06/vietstock-weekly-2906-03072026-thanh-khoan-van-la-tro-ngai-1636-1459442.htm)**
-  - *(Sun, 28 Jun 2026 18:00:00 +0700)*
-  - VN-Index tiếp tục phục hồi và duy trì trên đường Middle của Bollinger Bands. Tuy nhiên, nhà đầu tư chưa thoát khỏi tâm lý thận trọng khi khối lượng giao dịch vẫn duy trì dưới mức trung bình 20 tuần. Đ...
 

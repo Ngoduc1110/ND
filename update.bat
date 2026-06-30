@@ -57,7 +57,8 @@ git push origin main
 echo.
 echo [*] Buoc 4: Day du lieu CHISONGANH ^& TOANBOCOPHIEU len GitHub rieng...
 set "CHISONGANH_SOURCE=D:\Dulieuxuatra\CHISONGANH.csv"
-set "YTD_SOURCE=D:\Dulieuxuatra\toanbocophieu\dulieutoanbocophieutudaunam2026dennay_baogomCSTC.csv"
+set "YTD_H1_SOURCE=D:\Dulieuxuatra\toanbocophieu\dulieutoanbocophieuden30june2026_baogomCSTC.csv"
+set "YTD_NEW_SOURCE=D:\Dulieuxuatra\toanbocophieu\dulieutoanbocophieutu01July2026dennay_baogomCSTC.csv"
 set "CHISONGANH_REPO=D:\Vibecoding\ND-CHISONGANH"
 
 if exist "%CHISONGANH_REPO%" (
@@ -71,12 +72,20 @@ if exist "%CHISONGANH_REPO%" (
         echo [!] Khong tim thay file nguon CHISONGANH tai %CHISONGANH_SOURCE%
     )
     
-    if exist "%YTD_SOURCE%" (
-        copy /Y "%YTD_SOURCE%" "%CHISONGANH_REPO%\" >nul
-        git add dulieutoanbocophieutudaunam2026dennay_baogomCSTC.csv
-        echo [+] Da dong bo dulieutoanbocophieutudaunam2026dennay_baogomCSTC.csv
+    if exist "%YTD_H1_SOURCE%" (
+        xcopy /D /Y "%YTD_H1_SOURCE%" "%CHISONGANH_REPO%\" >nul
+        git add dulieutoanbocophieuden30june2026_baogomCSTC.csv
+        echo [+] Da dong bo file lich su H1 2026
     ) else (
-        echo [!] Khong tim thay file nguon YTD tai %YTD_SOURCE%
+        echo [!] Khong tim thay file lich su tai %YTD_H1_SOURCE%
+    )
+
+    if exist "%YTD_NEW_SOURCE%" (
+        xcopy /D /Y "%YTD_NEW_SOURCE%" "%CHISONGANH_REPO%\" >nul
+        git add dulieutoanbocophieutu01July2026dennay_baogomCSTC.csv
+        echo [+] Da dong bo file moi tu thang 7/2026
+    ) else (
+        echo [-] File moi tu 1/7/2026 chua duoc tao (se bo qua)
     )
     
     git commit -m "Auto-update data files at %mydate% %mytime%"
